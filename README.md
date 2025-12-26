@@ -5,15 +5,21 @@ Hypervisor & Linux Kernel Developer | Exploring LLM applications in systems prog
 ### Linux/KVM Contributions
 <!-- recent_releases starts -->
 
-* `perf kvm`
-  * [riscv: perf: add guest vs host distinction](https://lore.kernel.org/all/a67d527dc1b11493fe11f7f53584772fdd983744.1728980031.git.zhouquan@iscas.ac.cn/)
-  * [riscv: KVM: add basic support for host vs guest profiling](https://lore.kernel.org/all/00342d535311eb0629b9ba4f1e457a48e2abee33.1728980031.git.zhouquan@iscas.ac.cn/)
-* `isa virtualization support`
-  * [RISC-V:KVM: Allow Svvptc extension for Guest/VM](https://lore.kernel.org/all/133509ffe5783b62cf95e8f675cc3e327bee402e.1732854096.git.zhouquan@iscas.ac.cn/)
-  * [RISC-V: KVM: Allow Zabha extension for Guest/VM](https://lore.kernel.org/all/4074feb27819e23bab05b0fd6441a38bf0b6a5e2.1732854096.git.zhouquan@iscas.ac.cn/)
+* [riscv: Add perf support to collect KVM guest statistics from host side](https://lore.kernel.org/all/cover.1728980031.git.zhouquan@iscas.ac.cn/)
+* [RISC-V: perf/kvm: Add reporting of interrupt events](https://lore.kernel.org/all/9693132df4d0f857b8be3a75750c36b40213fcc0.1726211632.git.zhouquan@iscas.ac.cn/)
+* [RISC-V: KVM: Allow Svvptc/Zabha/Ziccrse exts for guests](https://lore.kernel.org/all/cover.1732854096.git.zhouquan@iscas.ac.cn/)
+* [RISC-V: KVM: Allow zicbop/bfloat16 exts for guests](https://lore.kernel.org/all/cover.1754646071.git.zhouquan@iscas.ac.cn/)
+* [RISC-V: KVM: Add Zicfiss/Zicfilp support](https://lore.kernel.org/all/cover.1764509485.git.zhouquan@iscas.ac.cn/)
+* [RISC-V: KVM: Enable ring-based dirty memory tracking](https://lore.kernel.org/all/cover.1749810735.git.zhouquan@iscas.ac.cn/)
+* [KVM: riscv: Support enabling dirty log gradually in small chunks](https://lore.kernel.org/all/20251103062825.9084-1-dayss1224@gmail.com/)
+* [RISC-V: KVM: Avoid re-acquiring memslot in kvm_riscv_gstage_map()](https://lore.kernel.org/all/50989f0a02790f9d7dc804c2ade6387c4e7fbdbc.1749634392.git.zhouquan@iscas.ac.cn/)
+* [RISC-V: KVM: Use find_vma_intersection() to search for intersecting VMAs](https://lore.kernel.org/all/230d6c8c8b8dd83081fcfd8d83a4d17c8245fa2f.1731552790.git.zhouquan@iscas.ac.cn/)
+
+- [x] `RISC-V : KVM: Add CFI and fwft/Svadu support`
+- [ ] `KVM/riscv: Introduce a new VMID allocator for KVM`
+- [ ] `riscv nested virtualization`
 
 <!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
 ### Personal Projects
@@ -24,7 +30,6 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 * [Next-generation LLM-powered quantitative trading platform](https://github.com/zcxGGmu/DeepAlpha)
 
 <!-- tils ends -->
-More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
 
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
