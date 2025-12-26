@@ -16,6 +16,7 @@ Hypervisor & Linux Kernel Developer | Exploring LLM applications in systems prog
 * [RISC-V: KVM: Use find_vma_intersection() to search for intersecting VMAs](https://lore.kernel.org/all/230d6c8c8b8dd83081fcfd8d83a4d17c8245fa2f.1731552790.git.zhouquan@iscas.ac.cn/)
 
 - [x] `RISC-V : KVM: Add CFI and fwft/Svadu support`
+  * `FIX`: https://lore.kernel.org/all/cover.1764509485.git.zhouquan@iscas.ac.cn/
 - [ ] `KVM/riscv: Introduce a new VMID allocator for KVM`
 - [ ] `riscv nested virtualization`
 
