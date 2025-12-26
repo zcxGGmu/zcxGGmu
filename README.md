@@ -1,41 +1,28 @@
-Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datasette.io/) and associated projects. Read [my blog](https://simonwillison.net/), subscribe to [my newsletter](https://simonw.substack.com/), follow me <a href="https://fedi.simonwillison.net/@simon">on Mastodon</a> or [on Bluesky](https://bsky.app/profile/simonwillison.net).
+Hypervisor & Linux Kernel Developer | Exploring LLM applications in systems programming | Building the future of virtualization and AI Agents.
 
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
+### Linux/KVM Contributions
 <!-- recent_releases starts -->
-[claude-code-transcripts 0.3](https://github.com/simonw/claude-code-transcripts/releases/tag/0.3) - 2025-12-25
 
-[micro-javascript 0.1a2](https://github.com/simonw/micro-javascript/releases/tag/0.1a2) - 2025-12-25
+* `perf kvm`
+  * [riscv: perf: add guest vs host distinction](https://lore.kernel.org/all/a67d527dc1b11493fe11f7f53584772fdd983744.1728980031.git.zhouquan@iscas.ac.cn/)
+  * [riscv: KVM: add basic support for host vs guest profiling](https://lore.kernel.org/all/00342d535311eb0629b9ba4f1e457a48e2abee33.1728980031.git.zhouquan@iscas.ac.cn/)
+* `isa virtualization support`
+  * [RISC-V:KVM: Allow Svvptc extension for Guest/VM](https://lore.kernel.org/all/133509ffe5783b62cf95e8f675cc3e327bee402e.1732854096.git.zhouquan@iscas.ac.cn/)
+  * [RISC-V: KVM: Allow Zabha extension for Guest/VM](https://lore.kernel.org/all/4074feb27819e23bab05b0fd6441a38bf0b6a5e2.1732854096.git.zhouquan@iscas.ac.cn/)
 
-[llm-gemini 0.28.2](https://github.com/simonw/llm-gemini/releases/tag/0.28.2) - 2025-12-23
-
-[datasette-plugin-router 0.0.1a1](https://github.com/datasette/datasette-plugin-router/releases/tag/0.0.1a1) - 2025-12-23
-
-[preview-server 0.2a3](https://github.com/simonw/preview-server/releases/tag/0.2a3) - 2025-12-22
-
-[git-history 0.7](https://github.com/simonw/git-history/releases/tag/0.7) - 2025-12-21
-
-[s3-credentials 0.17](https://github.com/simonw/s3-credentials/releases/tag/0.17) - 2025-12-16
-
-[llm 0.28](https://github.com/simonw/llm/releases/tag/0.28) - 2025-12-12
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
-### TIL
+### Personal Projects
 <!-- tils starts -->
-[Subtests in pytest 9.0.0+](https://til.simonwillison.net/pytest/subtests) - 2025-12-05
 
-[Dependency groups and uv run](https://til.simonwillison.net/uv/dependency-groups) - 2025-12-03
+* [A comprehensive, production-ready AI Agent platform](https://github.com/zcxGGmu/Astraeus?tab=readme-ov-file)
+* [Next-Generation Type-1 Hypervisor Built in Rust for Security, Performance, and Modularity](https://github.com/zcxGGmu/Ferrovisor)
+* [Next-generation LLM-powered quantitative trading platform](https://github.com/zcxGGmu/DeepAlpha)
 
-[Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale](https://til.simonwillison.net/llms/codex-spark-gpt-oss) - 2025-11-07
-
-[Exploring OpenAI's deep research API model o4-mini-deep-research](https://til.simonwillison.net/llms/o4-mini-deep-research) - 2025-10-18
-
-[Testing different Python versions with uv with-editable and uv-test](https://til.simonwillison.net/python/uv-tests) - 2025-10-09
-
-[Testing different Python versions with uv with-editable and uv-test](https://til.simonwillison.net/uv/uv-tests) - 2025-10-09
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
