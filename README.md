@@ -23,23 +23,6 @@ Currently working on [Datasette](https://datasette.io/), [LLM](https://llm.datas
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
 
-### On my blog
-<!-- blog starts -->
-[A new way to extract detailed transcripts from Claude Code](https://simonwillison.net/2025/Dec/25/claude-code-transcripts/) - 2025-12-25
-
-[Cooking with Claude](https://simonwillison.net/2025/Dec/23/cooking-with-claude/) - 2025-12-23
-
-[Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/) - 2025-12-18
-
-[Gemini 3 Flash](https://simonwillison.net/2025/Dec/17/gemini-3-flash/) - 2025-12-17
-
-[I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/) - 2025-12-15
-
-[JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/) - 2025-12-14
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
-</td><td valign="top" width="33%">
-
 ### TIL
 <!-- tils starts -->
 [Subtests in pytest 9.0.0+](https://til.simonwillison.net/pytest/subtests) - 2025-12-05
