@@ -22,13 +22,12 @@
 - [**Ferrovisor**](https://github.com/zcxGGmu/Ferrovisor) — a memory-safe, high-performance type-1 hypervisor built in Rust.
 - [**serenity-alpha-lab**](https://github.com/zcxGGmu/serenity-alpha-lab) — a research-only lab for stock, sector, and theme analysis inspired by Serenity-style reasoning. The goal is not to chase signals blindly, but to build clearer research workflows around narratives, fundamentals, and market structure.
 
-## 感兴趣的工作方向
+## Areas of Interest
 
-- **Linux kernel / RISC-V KVM** — upstream patch work around guest ISA enablement, KVM UAPI, trap routing, dirty memory tracking, gstage mapping, memslot/MMU cleanup, and KVM selftests.
-- **RISC-V virtualization observability** — perf/KVM host-vs-guest profiling, interrupt-event reporting, and the tooling needed to make VM behavior easier to inspect from the host side.
-- **Architecture-aware agent tooling** — projects such as `yuansheng-kit`, `CodeInsights`, and `ClawPerch` connect low-level systems work with agent-assisted repository understanding, patch scouting, and review loops.
-- **Patch-first open source workflow** — I prefer small, reviewable patches that survive mailing-list discussion, revision, handoff, and eventual upstream integration.
-- **AI infrastructure and developer workflows** — beyond kernel work, I also track PRs and contribution opportunities across agent frameworks, retrieval systems, developer tooling, and open-source AI infrastructure.
+- **Linux kernel / RISC-V KVM** — I have contributed across RISC-V KVM, guest statistics, interrupt reporting, guest extension enablement, dirty memory tracking, gstage mapping, VMID / nested virtualization exploration, and related kernel paths.
+- **Patch-first engineering** — I treat upstream kernel work as a long-running trail of small, reviewable patches: some land, some evolve through review, and some become the next iteration of the design.
+- **Community PRs** — I also count public PR work across major communities, whether merged or not, because the engineering value is in the attempt, discussion, review, and iteration. My PR trail spans projects such as CopilotKit, OpenHands, ragflow, SWE-agent, pydantic-ai, LlamaIndex, Haystack, Dify, anything-llm, Flowise, and related AI / agent ecosystems.
+- **Contribution surface** — low-level systems, open-source AI infrastructure, agent frameworks, developer tooling, and workflows that make complex repositories easier to understand and improve.
 
 ## AI Systems Philosophy
 
