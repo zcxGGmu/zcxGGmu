@@ -64,9 +64,9 @@ My current engineering lens:
 _Latest posts, refreshed daily at 06:00 CST:_
 
 <!-- blog_posts starts -->
-- [Liang Wenfeng DeepSeek Vision Restraint Open Source AGI Roadmap](https://zcxggmu.github.io/2026/liang-wenfeng-deepseek-vision-restraint-open-source-agi-roadmap/) — 2026-07-25
-- [AI As Commodity DeepSeek Cost Efficiency Power Plant Investment](https://zcxggmu.github.io/2026/ai-as-commodity-deepseek-cost-efficiency-power-plant-investment/) — 2026-07-25
-- [Retail Investor Self Cultivation Small Capital Discipline Survival](https://zcxggmu.github.io/2026/retail-investor-self-cultivation-small-capital-discipline-survival/) — 2026-07-24
-- [Income Formula Demand Moat Value Capture System](https://zcxggmu.github.io/2026/income-formula-demand-moat-value-capture-system/) — 2026-07-24
-- [Gold Allocation Dollar Credit Oil Rate Liquidity Revaluation](https://zcxggmu.github.io/2026/gold-allocation-dollar-credit-oil-rate-liquidity-revaluation/) — 2026-07-24
+- [Compound Interest Cruel Truth Life Inflection Point](https://zcxggmu.github.io/2026/compound-interest-cruel-truth-life-inflection-point/) — 2026-07-26
+- [Innovative Drugs High Prosperity New Pillar Biopharma Investment](https://zcxggmu.github.io/2026/innovative-drugs-high-prosperity-new-pillar-biopharma-investment/) — 2026-07-26
+- [AI Market Stress Test Capex Profit Valuation Not Over](https://zcxggmu.github.io/2026/ai-market-stress-test-capex-profit-valuation-not-over/) — 2026-07-25
+- [Munger Long Termism 50 Percent Drawdown Compounding Temperament](https://zcxggmu.github.io/2026/munger-long-termism-50-percent-drawdown-compounding-temperament/) — 2026-07-25
+- [Qiu Guolu Simplest Investing Quality Valuation Timing](https://zcxggmu.github.io/2026/qiu-guolu-simplest-investing-quality-valuation-timing/) — 2026-07-25
 <!-- blog_posts ends -->
