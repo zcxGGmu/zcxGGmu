@@ -1,208 +1,105 @@
-from python_graphql_client import GraphqlClient
-import feedparser
-import httpx
-import json
+import codecs
+import email.utils
 import pathlib
 import re
-import os
+import urllib.request
+import xml.etree.ElementTree as ET
 
-root = pathlib.Path(__file__).parent.resolve()
-client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
-TOKEN = os.environ.get("SIMONW_TOKEN", "")
-
-SKIP_REPOS = {
-    "playing-with-actions",
-    "simonw-readthedocs-experiments",
-    "datasette-comments",
-    "datasette-plot",
-    "datasette-write-ui",
-    "datasette-litestream",
-    "datasette-metadata-editable",
-    "datasette-short-links",
-}
+ROOT = pathlib.Path(__file__).parent.resolve()
+README = ROOT / "README.md"
+BLOG_FEED_URL = "https://zcxggmu.github.io/index.xml"
+POST_LIMIT = 5
 
 
 def replace_chunk(content, marker, chunk, inline=False):
-    r = re.compile(
+    pattern = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
     )
     if not inline:
         chunk = "\n{}\n".format(chunk)
-    chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
-    return r.sub(chunk, content)
-
-
-GRAPHQL_SEARCH_QUERY = """
-query {
-  search(first: 100, type:REPOSITORY, query:"is:public owner:simonw owner:dogsheep owner:datasette sort:updated", after: AFTER) {
-    pageInfo {
-      hasNextPage
-      endCursor
-    }
-    nodes {
-      __typename
-      ... on Repository {
-        name
-        description
-        url
-        releases(orderBy: {field: CREATED_AT, direction: DESC}, first: 1) {
-          totalCount
-          nodes {
-            name
-            publishedAt
-            url
-          }
-        }
-      }
-    }
-  }
-}
-"""
-
-
-def make_query(after_cursor=None, include_organization=False):
-    return GRAPHQL_SEARCH_QUERY.replace(
-        "AFTER", '"{}"'.format(after_cursor) if after_cursor else "null"
+    replacement = "<!-- {} starts -->{}<!-- {} ends -->".format(
+        marker, chunk, marker
     )
-
-
-def fetch_releases(oauth_token):
-    repos = []
-    releases = []
-    # Skip these repos:
-    repo_names = set(SKIP_REPOS)
-    has_next_page = True
-    after_cursor = None
-
-    first = True
-
-    while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor, include_organization=first),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
+    rewritten, count = pattern.subn(replacement, content)
+    if count != 1:
+        raise RuntimeError(
+            f"Expected exactly one {marker!r} marker block, found {count}"
         )
-        first = False
-        print()
-        print(json.dumps(data, indent=4))
-        print()
-        repo_nodes = data["data"]["search"]["nodes"]
-        for repo in repo_nodes:
-            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["name"])
-                releases.append(
-                    {
-                        "repo": repo["name"],
-                        "repo_url": repo["url"],
-                        "description": repo["description"],
-                        "release": repo["releases"]["nodes"][0]["name"]
-                        .replace(repo["name"], "")
-                        .strip(),
-                        "published_at": repo["releases"]["nodes"][0]["publishedAt"],
-                        "published_day": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
-                        "url": repo["releases"]["nodes"][0]["url"],
-                        "total_releases": repo["releases"]["totalCount"],
-                    }
-                )
-        after_cursor = data["data"]["search"]["pageInfo"]["endCursor"]
-        has_next_page = after_cursor
-    return releases
+    return rewritten
 
 
-def fetch_tils():
-    sql = """
-        select path, replace(title, '_', '\_') as title, url, topic, slug, created_utc
-        from til order by created_utc desc limit 6
-    """.strip()
-    return httpx.get(
-        "https://til.simonwillison.net/tils.json",
-        params={
-            "sql": sql,
-            "_shape": "array",
+def fetch_feed_xml(url):
+    request = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": "zcxGGmu-profile-readme-updater/1.0",
+            "Accept": "application/rss+xml, application/xml;q=0.9, */*;q=0.8",
         },
-    ).json()
+    )
+    with urllib.request.urlopen(request, timeout=20) as response:
+        return response.read()
+
+
+def parse_pub_date(value):
+    if not value:
+        return ""
+    parsed = email.utils.parsedate_to_datetime(value)
+    return parsed.date().isoformat()
+
+
+def escape_markdown(text):
+    return text.replace("[", "\\[").replace("]", "\\]")
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://simonwillison.net/atom/entries/")["entries"]
-    return [
-        {
-            "title": entry["title"],
-            "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
-        }
-        for entry in entries
-    ]
+    root = ET.fromstring(fetch_feed_xml(BLOG_FEED_URL))
+    channel = root.find("channel")
+    if channel is None:
+        raise RuntimeError("RSS feed did not contain a channel element")
+
+    entries = []
+    for item in channel.findall("item")[:POST_LIMIT]:
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        pub_date = parse_pub_date((item.findtext("pubDate") or "").strip())
+        if not title or not link:
+            continue
+        entries.append(
+            {
+                "title": escape_markdown(title),
+                "url": link,
+                "published": pub_date,
+            }
+        )
+    if not entries:
+        raise RuntimeError("RSS feed did not contain any usable entries")
+    return entries
+
+
+def read_text_preserving_bom(path):
+    raw = path.read_bytes()
+    has_bom = raw.startswith(codecs.BOM_UTF8)
+    return raw.decode("utf-8-sig"), has_bom
+
+
+def write_text_preserving_bom(path, text, has_bom):
+    data = text.encode("utf-8")
+    if has_bom:
+        data = codecs.BOM_UTF8 + data
+    path.write_bytes(data)
+
+
+def main():
+    readme_contents, has_bom = read_text_preserving_bom(README)
+    entries = fetch_blog_entries()
+    entries_md = "\n".join(
+        "- [{title}]({url}) — {published}".format(**entry) for entry in entries
+    )
+    rewritten = replace_chunk(readme_contents, "blog_posts", entries_md)
+    write_text_preserving_bom(README, rewritten, has_bom)
 
 
 if __name__ == "__main__":
-    readme = root / "README.md"
-    project_releases = root / "releases.md"
-    releases = fetch_releases(TOKEN)
-    releases.sort(key=lambda r: r["published_at"], reverse=True)
-    md = "\n\n".join(
-        [
-            "[{repo} {release}]({url}) - {published_day}".format(**release)
-            for release in releases[:8]
-        ]
-    )
-    readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "recent_releases", md)
-
-    # Write out full project-releases.md file
-    project_releases_md = "\n".join(
-        [
-            (
-                "* **[{repo}]({repo_url})**: [{release}]({url}) {total_releases_md}- {published_day}\n"
-                "<br />{description}"
-            ).format(
-                total_releases_md="- ([{} releases total]({}/releases)) ".format(
-                    release["total_releases"], release["repo_url"]
-                )
-                if release["total_releases"] > 1
-                else "",
-                **release
-            )
-            for release in releases
-        ]
-    )
-    project_releases_content = project_releases.open().read()
-    project_releases_content = replace_chunk(
-        project_releases_content, "recent_releases", project_releases_md
-    )
-    project_releases_content = replace_chunk(
-        project_releases_content, "project_count", f"{len(releases):,}", inline=True
-    )
-    project_releases_content = replace_chunk(
-        project_releases_content,
-        "releases_count",
-        "{:,}".format(sum(r["total_releases"] for r in releases)),
-        inline=True,
-    )
-    project_releases.open("w").write(project_releases_content)
-
-    tils = fetch_tils()
-    tils_md = "\n\n".join(
-        [
-            "[{title}](https://til.simonwillison.net/{topic}/{slug}) - {created_at}".format(
-                title=til["title"],
-                topic=til["topic"],
-                slug=til["slug"],
-                created_at=til["created_utc"].split("T")[0],
-            )
-            for til in tils
-        ]
-    )
-    rewritten = replace_chunk(rewritten, "tils", tils_md)
-
-    entries = fetch_blog_entries()[:6]
-    entries_md = "\n\n".join(
-        ["[{title}]({url}) - {published}".format(**entry) for entry in entries]
-    )
-    rewritten = replace_chunk(rewritten, "blog", entries_md)
-
-    readme.open("w").write(rewritten)
+    main()

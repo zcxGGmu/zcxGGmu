@@ -9,11 +9,13 @@ This folder contains a ready-to-use profile README inspired by:
 
 1. Create a public GitHub repository named exactly `zcxGGmu`.
 2. Copy `README.md` into that repository.
-3. Copy `.github/workflows/snake.yml` into that repository.
+3. Copy `build_readme.py` and `.github/workflows/{build.yml,snake.yml}` into that repository.
 4. Commit and push.
 5. Open the repository's `Actions` tab and run `Generate contribution snake` once.
 
 After the workflow completes, the snake SVGs will be published to the `output` branch and the image in the README will start rendering.
+
+`Build README` refreshes the latest blog posts from `https://zcxggmu.github.io/index.xml` every day at 06:00 China Standard Time.
 
 ## Important
 
