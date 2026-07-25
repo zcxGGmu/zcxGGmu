@@ -3,6 +3,7 @@ import email.utils
 import pathlib
 import re
 import urllib.request
+from urllib.parse import unquote, urlparse
 import xml.etree.ElementTree as ET
 
 
@@ -53,6 +54,26 @@ def escape_markdown(text):
     return text.replace("[", "\\[").replace("]", "\\]")
 
 
+def title_from_link(link, fallback_title):
+    slug = unquote(urlparse(link).path.strip("/").split("/")[-1])
+    if not slug:
+        return fallback_title
+
+    special_words = {
+        "agi": "AGI",
+        "ai": "AI",
+        "api": "API",
+        "cpu": "CPU",
+        "deepseek": "DeepSeek",
+        "gpu": "GPU",
+        "llm": "LLM",
+        "llms": "LLMs",
+        "riscv": "RISC-V",
+    }
+    words = [special_words.get(word, word.capitalize()) for word in slug.split("-")]
+    return " ".join(word for word in words if word)
+
+
 def fetch_blog_entries():
     root = ET.fromstring(fetch_feed_xml(BLOG_FEED_URL))
     channel = root.find("channel")
@@ -68,7 +89,7 @@ def fetch_blog_entries():
             continue
         entries.append(
             {
-                "title": escape_markdown(title),
+                "title": escape_markdown(title_from_link(link, title)),
                 "url": link,
                 "published": pub_date,
             }

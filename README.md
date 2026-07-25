@@ -34,20 +34,6 @@ _Source map: [linux-riscv-docs/patch-work](https://github.com/zcxGGmu/linux-risc
 - **Hardening and observability** — help unblock higher-level tooling through `CORE-01` reliable unwinder / livepatch review work, BPF stack-walk exception coverage, and `CORE-16` `ARCH_HAS_EXECMEM_ROX`. Source: [core ABI, observability, and hardening roadmap](https://github.com/zcxGGmu/linux-riscv-docs/blob/main/patch-work/riscv-arm-x86-gap/05-core-abi-observability-hardening.md).
 - **Platform, ACPI, and RAS enablement** — advance system-level readiness with `PLAT-01` ACPI CPU physical hotplug, `PLAT-06` CPPC FIE / RV32 `READ_HI`, and `BOOT-01` crashkernel CMA wiring. Sources: [platform, ACPI, NUMA, power, and RAS roadmap](https://github.com/zcxGGmu/linux-riscv-docs/blob/main/patch-work/riscv-arm-x86-gap/06-platform-acpi-numa-power-ras.md), [patch-work overview](https://github.com/zcxGGmu/linux-riscv-docs/blob/main/patch-work/README.md).
 
-## Writing
-
-- [**zcxGGmu's Blog**](https://zcxggmu.github.io/) — long-form notes on systems, AI, open-source work, investing, and durable workflows.
-
-_Latest posts, refreshed daily at 06:00 CST:_
-
-<!-- blog_posts starts -->
-- [梁文锋内部交流完整版：DeepSeek 的愿景、克制、开源与 AGI 路线图](https://zcxggmu.github.io/2026/liang-wenfeng-deepseek-vision-restraint-open-source-agi-roadmap/) — 2026-07-25
-- [像投资电厂一样投资 AI：大模型通用工业品化与 DeepSeek 的成本逻辑](https://zcxggmu.github.io/2026/ai-as-commodity-deepseek-cost-efficiency-power-plant-investment/) — 2026-07-25
-- [散户的自我修养：本金太少、纪律太弱与先活下来](https://zcxggmu.github.io/2026/retail-investor-self-cultivation-small-capital-discipline-survival/) — 2026-07-24
-- [赚钱公式：钱凭什么流向你](https://zcxggmu.github.io/2026/income-formula-demand-moat-value-capture-system/) — 2026-07-24
-- [黄金配置价值重审：美元信用裂痕、油价加息扰动与流动性轮动](https://zcxggmu.github.io/2026/gold-allocation-dollar-credit-oil-rate-liquidity-revaluation/) — 2026-07-24
-<!-- blog_posts ends -->
-
 ## Areas of Interest
 
 - **Linux kernel / RISC-V KVM** — I have contributed across RISC-V KVM, guest statistics, interrupt reporting, guest extension enablement, dirty memory tracking, gstage mapping, VMID / nested virtualization exploration, and related kernel paths.
@@ -70,3 +56,17 @@ My current engineering lens:
 <p align="center">
   <sub>systems at the bottom · agents at the edge · orchestration in the loop</sub>
 </p>
+
+## Writing
+
+- [**zcxGGmu's Blog**](https://zcxggmu.github.io/) — long-form notes on systems, AI, open-source work, investing, and durable workflows.
+
+_Latest posts, refreshed daily at 06:00 CST:_
+
+<!-- blog_posts starts -->
+- [Liang Wenfeng DeepSeek Vision Restraint Open Source AGI Roadmap](https://zcxggmu.github.io/2026/liang-wenfeng-deepseek-vision-restraint-open-source-agi-roadmap/) — 2026-07-25
+- [AI As Commodity DeepSeek Cost Efficiency Power Plant Investment](https://zcxggmu.github.io/2026/ai-as-commodity-deepseek-cost-efficiency-power-plant-investment/) — 2026-07-25
+- [Retail Investor Self Cultivation Small Capital Discipline Survival](https://zcxggmu.github.io/2026/retail-investor-self-cultivation-small-capital-discipline-survival/) — 2026-07-24
+- [Income Formula Demand Moat Value Capture System](https://zcxggmu.github.io/2026/income-formula-demand-moat-value-capture-system/) — 2026-07-24
+- [Gold Allocation Dollar Credit Oil Rate Liquidity Revaluation](https://zcxggmu.github.io/2026/gold-allocation-dollar-credit-oil-rate-liquidity-revaluation/) — 2026-07-24
+<!-- blog_posts ends -->
