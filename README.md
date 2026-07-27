@@ -64,9 +64,9 @@ My current engineering lens:
 _Latest posts, refreshed daily at 06:00 CST:_
 
 <!-- blog_posts starts -->
-- [AI Crowded Trade Unwind Fund Flow Prosperity Rebalance](https://zcxggmu.github.io/2026/ai-crowded-trade-unwind-fund-flow-prosperity-rebalance/) — 2026-07-27
-- [Macro Weekly Iran Offensive Secondhand Economy Geopolitical Risk](https://zcxggmu.github.io/2026/macro-weekly-iran-offensive-secondhand-economy-geopolitical-risk/) — 2026-07-27
-- [Openclaw Hermes Architecture Gateway Self Improving Agent](https://zcxggmu.github.io/2026/openclaw-hermes-architecture-gateway-self-improving-agent/) — 2026-07-27
-- [Hermes Openclaw Selection Skills Subagents Memory Production](https://zcxggmu.github.io/2026/hermes-openclaw-selection-skills-subagents-memory-production/) — 2026-07-27
-- [DeepSeek Dao Goodwill Restraint Open Source AGI](https://zcxggmu.github.io/2026/deepseek-dao-goodwill-restraint-open-source-agi/) — 2026-07-27
+- [Equity Finance Local Government Debt Changxin K Shaped Divergence](https://zcxggmu.github.io/2026/equity-finance-local-government-debt-changxin-k-shaped-divergence/) — 2026-07-28
+- [Nonferrous Metals New Price Center AI Power Copper Aluminum Nickel](https://zcxggmu.github.io/2026/nonferrous-metals-new-price-center-ai-power-copper-aluminum-nickel/) — 2026-07-28
+- [Agentteams Collaborative Multi Agent Os Openclaw Hermes](https://zcxggmu.github.io/2026/agentteams-collaborative-multi-agent-os-openclaw-hermes/) — 2026-07-27
+- [Fields Medal Chinese Education Talent Freedom](https://zcxggmu.github.io/2026/fields-medal-chinese-education-talent-freedom/) — 2026-07-27
+- [College Easy Myth Freedom Certainty Delayed Life](https://zcxggmu.github.io/2026/college-easy-myth-freedom-certainty-delayed-life/) — 2026-07-27
 <!-- blog_posts ends -->
