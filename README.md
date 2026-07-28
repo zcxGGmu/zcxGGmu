@@ -64,11 +64,11 @@ My current engineering lens:
 _Latest posts, refreshed daily at 06:00 CST:_
 
 <!-- blog_posts starts -->
-- [Equity Finance Local Government Debt Changxin K Shaped Divergence](https://zcxggmu.github.io/2026/equity-finance-local-government-debt-changxin-k-shaped-divergence/) — 2026-07-28
-- [Nonferrous Metals New Price Center AI Power Copper Aluminum Nickel](https://zcxggmu.github.io/2026/nonferrous-metals-new-price-center-ai-power-copper-aluminum-nickel/) — 2026-07-28
-- [Agentteams Collaborative Multi Agent Os Openclaw Hermes](https://zcxggmu.github.io/2026/agentteams-collaborative-multi-agent-os-openclaw-hermes/) — 2026-07-27
-- [Fields Medal Chinese Education Talent Freedom](https://zcxggmu.github.io/2026/fields-medal-chinese-education-talent-freedom/) — 2026-07-27
-- [College Easy Myth Freedom Certainty Delayed Life](https://zcxggmu.github.io/2026/college-easy-myth-freedom-certainty-delayed-life/) — 2026-07-27
+- [Employment Crisis Wealth Concentration Common Prosperity Distribution](https://zcxggmu.github.io/2026/employment-crisis-wealth-concentration-common-prosperity-distribution/) — 2026-07-28
+- [Fed High Rates A Share Wallet Protection](https://zcxggmu.github.io/2026/fed-high-rates-a-share-wallet-protection/) — 2026-07-28
+- [Openclaw Hermes Openhuman Agent Choice Framework](https://zcxggmu.github.io/2026/openclaw-hermes-openhuman-agent-choice-framework/) — 2026-07-28
+- [Hermes Growth Agent Memory Skills Openclaw Comparison](https://zcxggmu.github.io/2026/hermes-growth-agent-memory-skills-openclaw-comparison/) — 2026-07-28
+- [Loss Aversion Trading Psychology Rules Watch Frequency](https://zcxggmu.github.io/2026/loss-aversion-trading-psychology-rules-watch-frequency/) — 2026-07-28
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
