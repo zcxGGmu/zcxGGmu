@@ -70,3 +70,21 @@ _Latest posts, refreshed daily at 06:00 CST:_
 - [Fields Medal Chinese Education Talent Freedom](https://zcxggmu.github.io/2026/fields-medal-chinese-education-talent-freedom/) — 2026-07-27
 - [College Easy Myth Freedom Certainty Delayed Life](https://zcxggmu.github.io/2026/college-easy-myth-freedom-certainty-delayed-life/) — 2026-07-27
 <!-- blog_posts ends -->
+
+<!-- hermes_evolution starts -->
+## Hermes Evolution
+
+<p align="center">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260729003100">
+</p>
+
+<p align="center">
+  <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
+</p>
+
+- **Latest snapshot:** 2026-07-29 00:31 CST; archive date `2026-07-28`.
+- **Skills:** 115 tracked / 115 active; today `+2 / Δ7 / -0`; activity `+27`, patches `+1`.
+- **Memory:** 11 durable entries; today `+1 / -0`; Memory map +1 added / 0 removed · details privacy-redacted.
+- **Signal:** + agent-skill-discovery — Use when finding or installing GitHub agent skills.; + humanizer-zh — Use when the user asks in Chinese to 去 AI 味 / 人性化改写 / rem…
+<!-- hermes_evolution ends -->
+
