@@ -75,16 +75,16 @@ _Latest posts, refreshed daily at 06:00 CST:_
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260729003100">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260729005318">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-07-29 00:31 CST; archive date `2026-07-28`.
-- **Skills:** 115 tracked / 115 active; today `+2 / Δ7 / -0`; activity `+27`, patches `+1`.
-- **Memory:** 11 durable entries; today `+1 / -0`; Memory map +1 added / 0 removed · details privacy-redacted.
-- **Signal:** + agent-skill-discovery — Use when finding or installing GitHub agent skills.; + humanizer-zh — Use when the user asks in Chinese to 去 AI 味 / 人性化改写 / rem…
+- **Latest snapshot:** 2026-07-29 00:53 CST; archive date `2026-07-28`.
+- **Skills:** 116 tracked / 116 active; today `+1 / Δ5 / -0`; activity `+26`, patches `+2`.
+- **Memory:** 11 durable entries; today `+0 / -0`; Memory map stable · public details redacted.
+- **Signal:** + github-profile-dashboard-automa… — Use when automating GitHub profile README dashboards.; Δ touchdesigner-mcp · patch +1, use +3, view +3
 <!-- hermes_evolution ends -->
 
