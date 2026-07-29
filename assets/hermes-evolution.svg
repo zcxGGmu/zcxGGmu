@@ -112,7 +112,7 @@
   <text x="54" y="75" font-size="38" font-weight="300" fill="#ffffff" opacity="1.00">HERMES EVOLUTION</text>
   <text x="56" y="102" font-size="12" font-weight="600" fill="#00ffff" opacity="0.64">BAOYU DASHBOARD × TOUCHDESIGNER COMPOSITOR</text>
   <text x="874" y="66" font-size="11" font-weight="600" fill="#ffffff" opacity="0.46">UPDATED</text>
-  <text x="874" y="92" font-size="18" font-weight="400" fill="#ffffff" opacity="0.86">2026-07-29 09:29 CST</text>
+  <text x="874" y="92" font-size="18" font-weight="400" fill="#ffffff" opacity="0.86">2026-07-30 06:01 CST</text>
   <text x="874" y="114" font-size="10.5" font-weight="400" fill="#ffffff" opacity="0.44">Snapshot 2026-07-29 · privacy-safe publ…</text>
   <g filter="url(#cardGlow)">
 <rect x="54" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#00ffff" stroke-opacity="0.34"/>
@@ -120,23 +120,23 @@
 <circle class="pulse-dot" cx="232" cy="170" r="3.5" fill="#00ffff" opacity="0.78"/>
 </g>
 <text x="72" y="175" font-size="10.5" font-weight="600" fill="#ffffff" opacity="0.58">SKILLS</text>
-<text x="72" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">116</text>
-<text x="72" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">active 116</text>
+<text x="72" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">152</text>
+<text x="72" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">active 152</text>
   <g filter="url(#cardGlow)">
 <rect x="280" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#ff4fd8" stroke-opacity="0.34"/>
 <path d="M296 228 H468" stroke="#ff4fd8" stroke-opacity="0.32" stroke-width="1"/>
 <circle class="pulse-dot" cx="458" cy="170" r="3.5" fill="#ff4fd8" opacity="0.78"/>
 </g>
 <text x="298" y="175" font-size="10.5" font-weight="600" fill="#ffffff" opacity="0.58">SKILL DELTA</text>
-<text x="298" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">+0 Δ3 -0</text>
-<text x="298" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">activity +20 · patches +8</text>
+<text x="298" y="210" font-size="23" font-weight="300" fill="#ffffff" opacity="1.00">+36 Δ18 -0</text>
+<text x="298" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">activity +95 · patches +17</text>
   <g filter="url(#cardGlow)">
 <rect x="506" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#7cf7ff" stroke-opacity="0.34"/>
 <path d="M522 228 H694" stroke="#7cf7ff" stroke-opacity="0.32" stroke-width="1"/>
 <circle class="pulse-dot" cx="684" cy="170" r="3.5" fill="#7cf7ff" opacity="0.78"/>
 </g>
 <text x="524" y="175" font-size="10.5" font-weight="600" fill="#ffffff" opacity="0.58">MEMORY</text>
-<text x="524" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">11</text>
+<text x="524" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">13</text>
 <text x="524" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">details redacted</text>
   <g filter="url(#cardGlow)">
 <rect x="732" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#00ffff" stroke-opacity="0.34"/>
@@ -144,7 +144,7 @@
 <circle class="pulse-dot" cx="910" cy="170" r="3.5" fill="#00ffff" opacity="0.78"/>
 </g>
 <text x="750" y="175" font-size="10.5" font-weight="600" fill="#ffffff" opacity="0.58">SIGNAL</text>
-<text x="750" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">3</text>
+<text x="750" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">56</text>
 <text x="750" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">today composite score</text>
   <g filter="url(#cardGlow)">
 <rect x="958" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#ff4fd8" stroke-opacity="0.34"/>
@@ -158,18 +158,21 @@
   <rect x="54" y="300" width="656" height="156" rx="18" fill="rgba(3,8,20,0.62)" stroke="rgba(0,255,255,0.18)"/>
   <path d="M78 300 V456" stroke="rgba(0,255,255,0.16)"/>
   <circle class="signal-dot" style="animation-delay:0.00s" cx="78" cy="313" r="3.5" fill="#00ffff" opacity="0.82"/>
-<text x="94" y="318" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Δ github-profile-dashboard-automati… · patch +8, use +1, view +1</text>
+<text x="94" y="318" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">+ addy-test-driven-development · new skill</text>
 <circle class="signal-dot" style="animation-delay:0.22s" cx="78" cy="339" r="3.5" fill="#ff4fd8" opacity="0.82"/>
-<text x="94" y="344" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Δ baoyu-infographic · use +2, view +2</text>
+<text x="94" y="344" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">+ api-and-interface-design · new skill</text>
 <circle class="signal-dot" style="animation-delay:0.44s" cx="78" cy="365" r="3.5" fill="#00ffff" opacity="0.82"/>
-<text x="94" y="370" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Δ touchdesigner-mcp · use +3, view +3</text>
+<text x="94" y="370" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">+ brainstorming · new skill</text>
 <circle class="signal-dot" style="animation-delay:0.66s" cx="78" cy="391" r="3.5" fill="#ff4fd8" opacity="0.82"/>
-<text x="94" y="396" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Memory map stable · public details redacted.</text>
+<text x="94" y="396" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">+ ci-cd-and-automation · new skill</text>
+<circle class="signal-dot" style="animation-delay:0.88s" cx="78" cy="417" r="3.5" fill="#00ffff" opacity="0.82"/>
+<text x="94" y="422" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Memory map +2 added / 0 removed · details privacy-redacted.</text>
   <text x="744" y="287" font-size="13" font-weight="700" fill="#ff4fd8" opacity="0.72">7-DAY SIGNAL TIMELINE</text>
   <rect x="744" y="300" width="402" height="156" rx="18" fill="rgba(3,8,20,0.62)" stroke="rgba(255,79,216,0.18)"/>
-  <rect class="bar-pulse" style="animation-delay:0.00s" x="780" y="398" width="34" height="17" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
+  <rect class="bar-pulse" style="animation-delay:0.00s" x="780" y="332" width="34" height="83" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
+<circle class="pulse-dot" cx="797.0" cy="321" r="4" fill="#ff4fd8" opacity="0.82"/>
 <text x="779" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">07-29</text>
-<text x="788" y="390" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">3</text>
+<text x="788" y="324" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">56</text>
 <rect class="bar-pulse" style="animation-delay:0.16s" x="832" y="401" width="34" height="14" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
 <text x="831" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">07-28</text>
 <text x="840" y="393" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">0</text>
@@ -179,7 +182,7 @@
 <rect class="bar-pulse" style="animation-delay:0.48s" x="936" y="327" width="34" height="88" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
 <text x="935" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">07-26</text>
 <text x="944" y="319" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">60</text>
-<polyline class="timeline-trace" points="780.0,353.8 895.3,356.0 1010.7,354.5 1126.0,312.0" fill="none" stroke="#ff4fd8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.86"/>
+<polyline class="timeline-trace" points="780.0,314.9 895.3,356.0 1010.7,354.5 1126.0,312.0" fill="none" stroke="#ff4fd8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.86"/>
 <path d="M780 356 H1126" stroke="rgba(255,255,255,0.16)"/>
   <path class="flow-line" d="M165 474 C300 438, 390 500, 526 464 S770 446, 930 474" fill="none" stroke="rgba(0,255,255,0.28)" stroke-width="1.4"/>
 <circle class="node-pulse" cx="165" cy="474" r="6" fill="#00ffff" opacity="0.76"/>
