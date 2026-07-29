@@ -75,14 +75,14 @@ _Latest posts, refreshed daily at 06:00 CST:_
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260729090409">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260729091053">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-07-29 09:04 CST; archive date `2026-07-29`.
+- **Latest snapshot:** 2026-07-29 09:10 CST; archive date `2026-07-29`.
 - **Skills:** 116 tracked / 116 active; today `+0 Δ0 -0`; activity `0`, patches `0`.
 - **Memory:** 11 durable entries; today `+0 -0`; Memory map stable · public details redacted.
 - **Signal:** No public skill delta today; baseline kept warm.
