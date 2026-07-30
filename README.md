@@ -64,11 +64,11 @@ My current engineering lens:
 _Latest posts, refreshed daily at 06:00 CST:_
 
 <!-- blog_posts starts -->
+- [Anti Aging Life Blood Vessel Glycation Sleep Exercise](https://zcxggmu.github.io/2026/anti-aging-life-blood-vessel-glycation-sleep-exercise/) — 2026-07-31
+- [Liaofan Four Lessons Fate Cultivation Change Destiny](https://zcxggmu.github.io/2026/liaofan-four-lessons-fate-cultivation-change-destiny/) — 2026-07-31
+- [Reverse Thinking Break Inertia One Percent Life](https://zcxggmu.github.io/2026/reverse-thinking-break-inertia-one-percent-life/) — 2026-07-31
+- [Wealth Of Nations Market Division Labor Money Logic](https://zcxggmu.github.io/2026/wealth-of-nations-market-division-labor-money-logic/) — 2026-07-30
 - [Employment Crisis Wealth Concentration Common Prosperity Distribution](https://zcxggmu.github.io/2026/employment-crisis-wealth-concentration-common-prosperity-distribution/) — 2026-07-28
-- [Fed High Rates A Share Wallet Protection](https://zcxggmu.github.io/2026/fed-high-rates-a-share-wallet-protection/) — 2026-07-28
-- [Openclaw Hermes Openhuman Agent Choice Framework](https://zcxggmu.github.io/2026/openclaw-hermes-openhuman-agent-choice-framework/) — 2026-07-28
-- [Hermes Growth Agent Memory Skills Openclaw Comparison](https://zcxggmu.github.io/2026/hermes-growth-agent-memory-skills-openclaw-comparison/) — 2026-07-28
-- [Loss Aversion Trading Psychology Rules Watch Frequency](https://zcxggmu.github.io/2026/loss-aversion-trading-psychology-rules-watch-frequency/) — 2026-07-28
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
