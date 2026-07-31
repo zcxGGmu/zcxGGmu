@@ -75,16 +75,16 @@ _Latest posts, refreshed daily at 06:00 CST:_
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260731060216">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260801060013">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-07-31 06:02 CST; archive date `2026-07-30`.
-- **Skills:** 153 tracked / 153 active; today `+1 Δ14 -0`; activity `+40`, patches `+5`.
-- **Memory:** 14 durable entries; today `+1 -0`; Memory map +1 added / 0 removed · details privacy-redacted.
-- **Signal:** + open-source-contribution-camp… · new skill; Δ windows-process-management · patch +4, use +3, view +3
+- **Latest snapshot:** 2026-08-01 06:00 CST; archive date `2026-07-31`.
+- **Skills:** 153 tracked / 153 active; today `+0 Δ1 -0`; activity `+1`, patches `0`.
+- **Memory:** 14 durable entries; today `+0 -0`; Memory map stable · public details redacted.
+- **Signal:** Δ scheduled-research-digests · use +1
 <!-- hermes_evolution ends -->
 
