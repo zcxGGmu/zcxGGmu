@@ -64,11 +64,11 @@ My current engineering lens:
 _Latest posts, refreshed daily at 06:00 CST:_
 
 <!-- blog_posts starts -->
-- [Anti Aging Life Blood Vessel Glycation Sleep Exercise](https://zcxggmu.github.io/2026/anti-aging-life-blood-vessel-glycation-sleep-exercise/) — 2026-07-31
-- [Liaofan Four Lessons Fate Cultivation Change Destiny](https://zcxggmu.github.io/2026/liaofan-four-lessons-fate-cultivation-change-destiny/) — 2026-07-31
-- [Reverse Thinking Break Inertia One Percent Life](https://zcxggmu.github.io/2026/reverse-thinking-break-inertia-one-percent-life/) — 2026-07-31
-- [Wealth Of Nations Market Division Labor Money Logic](https://zcxggmu.github.io/2026/wealth-of-nations-market-division-labor-money-logic/) — 2026-07-30
-- [Employment Crisis Wealth Concentration Common Prosperity Distribution](https://zcxggmu.github.io/2026/employment-crisis-wealth-concentration-common-prosperity-distribution/) — 2026-07-28
+- [Attraction Love Logic Self Improvement Healthy Relationship](https://zcxggmu.github.io/2026/attraction-love-logic-self-improvement-healthy-relationship/) — 2026-07-31
+- [Life Meaning Cells Immune System Live Well](https://zcxggmu.github.io/2026/life-meaning-cells-immune-system-live-well/) — 2026-07-31
+- [Amygdala Anxiety Cognitive Distortion Self Rescue](https://zcxggmu.github.io/2026/amygdala-anxiety-cognitive-distortion-self-rescue/) — 2026-07-31
+- [AI Cycle Tech Revolution Perez Bubble Macro Allocation](https://zcxggmu.github.io/2026/ai-cycle-tech-revolution-perez-bubble-macro-allocation/) — 2026-07-31
+- [Early Retirement Feasibility Plan Index Funds Career Freedom](https://zcxggmu.github.io/2026/early-retirement-feasibility-plan-index-funds-career-freedom/) — 2026-07-31
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
