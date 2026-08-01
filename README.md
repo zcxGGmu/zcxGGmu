@@ -64,27 +64,27 @@ My current engineering lens:
 _Latest posts, refreshed daily at 06:00 CST:_
 
 <!-- blog_posts starts -->
-- [Attraction Love Logic Self Improvement Healthy Relationship](https://zcxggmu.github.io/2026/attraction-love-logic-self-improvement-healthy-relationship/) — 2026-07-31
-- [Life Meaning Cells Immune System Live Well](https://zcxggmu.github.io/2026/life-meaning-cells-immune-system-live-well/) — 2026-07-31
-- [Amygdala Anxiety Cognitive Distortion Self Rescue](https://zcxggmu.github.io/2026/amygdala-anxiety-cognitive-distortion-self-rescue/) — 2026-07-31
-- [AI Cycle Tech Revolution Perez Bubble Macro Allocation](https://zcxggmu.github.io/2026/ai-cycle-tech-revolution-perez-bubble-macro-allocation/) — 2026-07-31
-- [Early Retirement Feasibility Plan Index Funds Career Freedom](https://zcxggmu.github.io/2026/early-retirement-feasibility-plan-index-funds-career-freedom/) — 2026-07-31
+- [Anti Aging Life Blood Vessel Glycation Sleep Exercise](https://zcxggmu.github.io/2026/anti-aging-life-blood-vessel-glycation-sleep-exercise/) — 2026-07-31
+- [Liaofan Four Lessons Fate Cultivation Change Destiny](https://zcxggmu.github.io/2026/liaofan-four-lessons-fate-cultivation-change-destiny/) — 2026-07-31
+- [Reverse Thinking Break Inertia One Percent Life](https://zcxggmu.github.io/2026/reverse-thinking-break-inertia-one-percent-life/) — 2026-07-31
+- [Wealth Of Nations Market Division Labor Money Logic](https://zcxggmu.github.io/2026/wealth-of-nations-market-division-labor-money-logic/) — 2026-07-30
+- [Employment Crisis Wealth Concentration Common Prosperity Distribution](https://zcxggmu.github.io/2026/employment-crisis-wealth-concentration-common-prosperity-distribution/) — 2026-07-28
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260801060013">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260802060126">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-08-01 06:00 CST; archive date `2026-07-31`.
-- **Skills:** 153 tracked / 153 active; today `+0 Δ1 -0`; activity `+1`, patches `0`.
-- **Memory:** 14 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** Δ scheduled-research-digests · use +1
+- **Latest snapshot:** 2026-08-02 06:01 CST; archive date `2026-08-01`.
+- **Skills:** 158 tracked / 158 active; today `+5 Δ21 -0`; activity `+306`, patches `+49`.
+- **Memory:** 15 durable entries; today `+3 -2`; Memory map +3 added / +2 removed · details privacy-redacted.
+- **Signal:** + git-repository-transfers · new skill; + github-contribution-triage · new skill
 <!-- hermes_evolution ends -->
 
