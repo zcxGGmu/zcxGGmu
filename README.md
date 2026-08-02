@@ -64,11 +64,11 @@ My current engineering lens:
 _Latest posts, refreshed daily at 06:00 CST:_
 
 <!-- blog_posts starts -->
-- [Anti Aging Life Blood Vessel Glycation Sleep Exercise](https://zcxggmu.github.io/2026/anti-aging-life-blood-vessel-glycation-sleep-exercise/) — 2026-07-31
-- [Liaofan Four Lessons Fate Cultivation Change Destiny](https://zcxggmu.github.io/2026/liaofan-four-lessons-fate-cultivation-change-destiny/) — 2026-07-31
-- [Reverse Thinking Break Inertia One Percent Life](https://zcxggmu.github.io/2026/reverse-thinking-break-inertia-one-percent-life/) — 2026-07-31
-- [Wealth Of Nations Market Division Labor Money Logic](https://zcxggmu.github.io/2026/wealth-of-nations-market-division-labor-money-logic/) — 2026-07-30
-- [Employment Crisis Wealth Concentration Common Prosperity Distribution](https://zcxggmu.github.io/2026/employment-crisis-wealth-concentration-common-prosperity-distribution/) — 2026-07-28
+- [Zheshenshinei China Economy Housing Local Debt Trade War](https://zcxggmu.github.io/2026/zheshenshinei-china-economy-housing-local-debt-trade-war/) — 2026-08-02
+- [Navalmanack AI Era Wealth Happiness Judgment Map](https://zcxggmu.github.io/2026/navalmanack-ai-era-wealth-happiness-judgment-map/) — 2026-08-02
+- [Poor Charlies Almanack Munger Mental Models A Share Investing](https://zcxggmu.github.io/2026/poor-charlies-almanack-munger-mental-models-a-share-investing/) — 2026-08-01
+- [Semiconductor Equipment Cycle AI Overseas Earnings Domestic Substitution](https://zcxggmu.github.io/2026/semiconductor-equipment-cycle-ai-overseas-earnings-domestic-substitution/) — 2026-08-01
+- [Zero Debt Era Cashflow Safety 2026](https://zcxggmu.github.io/2026/zero-debt-era-cashflow-safety-2026/) — 2026-08-01
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
