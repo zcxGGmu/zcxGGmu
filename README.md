@@ -64,11 +64,11 @@ My current engineering lens:
 _Latest posts, refreshed daily at 06:00 CST:_
 
 <!-- blog_posts starts -->
+- [Software AI Application Investment Logic Agent Custom Software](https://zcxggmu.github.io/2026/software-ai-application-investment-logic-agent-custom-software/) — 2026-08-03
 - [Zheshenshinei China Economy Housing Local Debt Trade War](https://zcxggmu.github.io/2026/zheshenshinei-china-economy-housing-local-debt-trade-war/) — 2026-08-02
 - [Navalmanack AI Era Wealth Happiness Judgment Map](https://zcxggmu.github.io/2026/navalmanack-ai-era-wealth-happiness-judgment-map/) — 2026-08-02
 - [Poor Charlies Almanack Munger Mental Models A Share Investing](https://zcxggmu.github.io/2026/poor-charlies-almanack-munger-mental-models-a-share-investing/) — 2026-08-01
 - [Semiconductor Equipment Cycle AI Overseas Earnings Domestic Substitution](https://zcxggmu.github.io/2026/semiconductor-equipment-cycle-ai-overseas-earnings-domestic-substitution/) — 2026-08-01
-- [Zero Debt Era Cashflow Safety 2026](https://zcxggmu.github.io/2026/zero-debt-era-cashflow-safety-2026/) — 2026-08-01
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
