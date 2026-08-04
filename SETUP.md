@@ -15,7 +15,7 @@ This folder contains a ready-to-use profile README inspired by:
 
 After the workflow completes, the snake SVGs will be published to the `output` branch and the image in the README will start rendering.
 
-`Build README` refreshes the latest blog posts from `https://zcxggmu.github.io/index.xml` every day at 06:00 China Standard Time.
+`Build README` refreshes the PR radar from GitHub and the latest blog posts from `https://zcxggmu.github.io/index.xml` every 12 hours.
 
 ## Important
 

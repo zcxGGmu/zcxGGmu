@@ -4,8 +4,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # Runs daily at 06:00 China Standard Time.
-    - cron: "0 22 * * *"
+    # Runs every 12 hours at 06:00 and 18:00 China Standard Time.
+    - cron: "0 22,10 * * *"
 
 permissions:
   contents: write
@@ -21,6 +21,8 @@ jobs:
       with:
         python-version: "3.13"
     - name: Update README
+      env:
+        GITHUB_TOKEN: ${{ github.token }}
       run: |-
         python build_readme.py
         cat README.md

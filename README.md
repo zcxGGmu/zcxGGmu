@@ -12,6 +12,22 @@
 
 ---
 
+## Open PR Radar
+
+_Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
+
+<!-- pr_activity starts -->
+- **Status**: **134 PRs** across **30 projects** — 🟢 61 open · ✅ 17 merged · ⚪ 56 closed
+- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (8 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (6 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (6 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (5 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [run-llama/llama_index](https://github.com/run-llama/llama_index) (4 open)
+- **Latest PRs**:
+  - 🟢 [anomalyco/opencode#40357](https://github.com/anomalyco/opencode/pull/40357) — Open — fix(session): cap free usage retry delay
+  - 🟢 [NVIDIA/TensorRT-LLM#17235](https://github.com/NVIDIA/TensorRT-LLM/pull/17235) — Open — \[None\]\[doc\] Add trtllm-bench LWS launch guidance
+  - 🟢 [vllm-project/vllm#50872](https://github.com/vllm-project/vllm/pull/50872) — Open — \[Doc\] Expand PTX toolchain mismatch troubleshooting
+  - 🟢 [NVIDIA/TensorRT-LLM#17208](https://github.com/NVIDIA/TensorRT-LLM/pull/17208) — Open — \[None\]\[doc\] Add AWS EFA LIBFABRIC disaggregated guide
+  - ⚪ [anomalyco/opencode#40251](https://github.com/anomalyco/opencode/pull/40251) — Closed — fix(cli): report mismatched service status
+  - 🟢 [NVIDIA/TensorRT-LLM#17195](https://github.com/NVIDIA/TensorRT-LLM/pull/17195) — Open — \[None\]\[fix\] Disable threadleak for executor unittest wrapper
+<!-- pr_activity ends -->
+
 ## Current Projects
 
 - [**CodeInsights**](https://github.com/zcxGGmu/CodeInsights) — an LLM-powered multi-agent platform for open-source contribution workflows. It is built around repository understanding, issue/PR scouting, agent coordination, and turning scattered open-source work into a repeatable engineering loop.
@@ -61,7 +77,7 @@ My current engineering lens:
 
 - [**zcxGGmu's Blog**](https://zcxggmu.github.io/) — long-form notes on systems, AI, open-source work, investing, and durable workflows.
 
-_Latest posts, refreshed daily at 06:00 CST:_
+_Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
 - [Software AI Application Investment Logic Agent Custom Software](https://zcxggmu.github.io/2026/software-ai-application-investment-logic-agent-custom-software/) — 2026-08-03
