@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **154 PRs** across **31 projects** — 🟢 76 open · ✅ 16 merged · ⚪ 62 closed
-- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (15 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (9 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (6 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [run-llama/llama_index](https://github.com/run-llama/llama_index) (4 open)
+- **Status**: **160 PRs** across **31 projects** — 🟢 80 open · ✅ 16 merged · ⚪ 64 closed
+- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (15 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (9 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) (5 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (5 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
 - **Latest PRs**:
-  - 🟢 [microsoft/onnxruntime#31628](https://github.com/microsoft/onnxruntime/pull/31628) — Open — docs: add community JVM bindings
-  - 🟢 [InternLM/lmdeploy#4820](https://github.com/InternLM/lmdeploy/pull/4820) — Open — \[Fix\] Load memdecode router checkpoints with weights_only
-  - 🟢 [InternLM/lmdeploy#4819](https://github.com/InternLM/lmdeploy/pull/4819) — Open — \[Fix\] Reject LoRA adapters on non-PyTorch backend
-  - 🟢 [InternLM/lmdeploy#4818](https://github.com/InternLM/lmdeploy/pull/4818) — Open — \[Fix\] Validate final cache block size
-  - 🟢 [microsoft/onnxruntime#31625](https://github.com/microsoft/onnxruntime/pull/31625) — Open — docs: document SessionOptions add_initializer
-  - ⚪ [anomalyco/opencode#40402](https://github.com/anomalyco/opencode/pull/40402) — Closed — fix(app): use selected model for context usage
+  - 🟢 [InternLM/lmdeploy#4823](https://github.com/InternLM/lmdeploy/pull/4823) — Open — \[Docs\] Explain Ray object spilling warning
+  - 🟢 [InternLM/lmdeploy#4822](https://github.com/InternLM/lmdeploy/pull/4822) — Open — \[Docs\] Clarify TurboMind engine acceleration
+  - 🟢 [microsoft/onnxruntime#31633](https://github.com/microsoft/onnxruntime/pull/31633) — Open — docs: update phi-2 GenAI Python API usage
+  - 🟢 [InternLM/lmdeploy#4821](https://github.com/InternLM/lmdeploy/pull/4821) — Open — \[Docs\] Explain prompt hidden states in pipeline
+  - 🟢 [microsoft/onnxruntime#31631](https://github.com/microsoft/onnxruntime/pull/31631) — Open — docs: fix OpenVINO comparison labels
+  - 🟢 [microsoft/onnxruntime#31630](https://github.com/microsoft/onnxruntime/pull/31630) — Open — docs: clarify OpenVINO load_config value
 <!-- pr_activity ends -->
 
 ## Current Projects
