@@ -17,7 +17,7 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **134 PRs** across **30 projects** — 🟢 61 open · ✅ 17 merged · ⚪ 56 closed
+- **Status**: **133 PRs** across **29 projects** — 🟢 61 open · ✅ 16 merged · ⚪ 56 closed
 - **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (8 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (6 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (6 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (5 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [run-llama/llama_index](https://github.com/run-llama/llama_index) (4 open)
 - **Latest PRs**:
   - 🟢 [anomalyco/opencode#40357](https://github.com/anomalyco/opencode/pull/40357) — Open — fix(session): cap free usage retry delay
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Anti Risk Investing Low Cost Diversification Long Term System](https://zcxggmu.github.io/2026/anti-risk-investing-low-cost-diversification-long-term-system/) — 2026-08-04
 - [Software AI Application Investment Logic Agent Custom Software](https://zcxggmu.github.io/2026/software-ai-application-investment-logic-agent-custom-software/) — 2026-08-03
 - [Zheshenshinei China Economy Housing Local Debt Trade War](https://zcxggmu.github.io/2026/zheshenshinei-china-economy-housing-local-debt-trade-war/) — 2026-08-02
 - [Navalmanack AI Era Wealth Happiness Judgment Map](https://zcxggmu.github.io/2026/navalmanack-ai-era-wealth-happiness-judgment-map/) — 2026-08-02
 - [Poor Charlies Almanack Munger Mental Models A Share Investing](https://zcxggmu.github.io/2026/poor-charlies-almanack-munger-mental-models-a-share-investing/) — 2026-08-01
-- [Semiconductor Equipment Cycle AI Overseas Earnings Domestic Substitution](https://zcxggmu.github.io/2026/semiconductor-equipment-cycle-ai-overseas-earnings-domestic-substitution/) — 2026-08-01
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
