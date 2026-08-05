@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **174 PRs** across **31 projects** — 🟢 90 open · ✅ 16 merged · ⚪ 68 closed
-- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (10 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) (6 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
+- **Status**: **179 PRs** across **31 projects** — 🟢 94 open · ✅ 16 merged · ⚪ 69 closed
+- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (12 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) (6 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
 - **Latest PRs**:
+  - 🟢 [anomalyco/opencode#40669](https://github.com/anomalyco/opencode/pull/40669) — Open — fix(shell): stop aborted commands after output
+  - 🟢 [microsoft/onnxruntime#31662](https://github.com/microsoft/onnxruntime/pull/31662) — Open — docs: document node memory statistics collection
+  - 🟢 [anomalyco/opencode#40648](https://github.com/anomalyco/opencode/pull/40648) — Open — fix(snapshot): preserve unicode paths on revert
+  - 🟢 [microsoft/onnxruntime#31659](https://github.com/microsoft/onnxruntime/pull/31659) — Open — docs: clarify oneDNN backend coverage
+  - 🟢 [anomalyco/opencode#40644](https://github.com/anomalyco/opencode/pull/40644) — Open — fix(skill): ignore root skill files
   - 🟢 [microsoft/onnxruntime#31658](https://github.com/microsoft/onnxruntime/pull/31658) — Open — docs: add reduced-operator GCC 9 workaround
-  - 🟢 [anomalyco/opencode#40635](https://github.com/anomalyco/opencode/pull/40635) — Open — fix(llm): finish usage-only chat streams
-  - 🟢 [microsoft/onnxruntime#31657](https://github.com/microsoft/onnxruntime/pull/31657) — Open — docs: clarify extended graph optimization targets
-  - 🟢 [InternLM/lmdeploy#4829](https://github.com/InternLM/lmdeploy/pull/4829) — Open — \[Docs\] Clarify VLM LoRA serving scope
-  - 🟢 [InternLM/lmdeploy#4828](https://github.com/InternLM/lmdeploy/pull/4828) — Open — \[Fix\] Allow InternVL to skip dynamic preprocessing
-  - 🟢 [microsoft/onnxruntime#31655](https://github.com/microsoft/onnxruntime/pull/31655) — Open — docs: add custom web build guidance
 <!-- pr_activity ends -->
 
 ## Current Projects
