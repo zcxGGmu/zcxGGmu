@@ -91,16 +91,16 @@ _Latest posts, refreshed with the README automation:_
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260805060016">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260806060038">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-08-05 06:00 CST; archive date `2026-08-04`.
-- **Skills:** 161 tracked / 152 active; today `+0 Δ19 -0`; activity `+407`, patches `+56`.
-- **Memory:** 14 durable entries; today `+1 -1`; Memory map +1 added / +1 removed · details privacy-redacted.
-- **Signal:** Δ github-contribution-triage · patch +26, use +35, view +31; Δ scheduled-pr-feedback-maintenance · patch +16, use +18, view +13
+- **Latest snapshot:** 2026-08-06 06:00 CST; archive date `2026-08-05`.
+- **Skills:** 162 tracked / 153 active; today `+1 Δ19 -0`; activity `+358`, patches `+54`.
+- **Memory:** 14 durable entries; today `+0 -0`; Memory map stable · public details redacted.
+- **Signal:** + windows-local-project-deploym… · new skill; Δ scheduled-pr-feedback-maintenance · patch +22, use +17, view +9
 <!-- hermes_evolution ends -->
 
