@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **160 PRs** across **31 projects** — 🟢 80 open · ✅ 16 merged · ⚪ 64 closed
-- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (15 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (9 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) (5 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (5 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
+- **Status**: **174 PRs** across **31 projects** — 🟢 90 open · ✅ 16 merged · ⚪ 68 closed
+- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (10 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) (6 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
 - **Latest PRs**:
-  - 🟢 [InternLM/lmdeploy#4823](https://github.com/InternLM/lmdeploy/pull/4823) — Open — \[Docs\] Explain Ray object spilling warning
-  - 🟢 [InternLM/lmdeploy#4822](https://github.com/InternLM/lmdeploy/pull/4822) — Open — \[Docs\] Clarify TurboMind engine acceleration
-  - 🟢 [microsoft/onnxruntime#31633](https://github.com/microsoft/onnxruntime/pull/31633) — Open — docs: update phi-2 GenAI Python API usage
-  - 🟢 [InternLM/lmdeploy#4821](https://github.com/InternLM/lmdeploy/pull/4821) — Open — \[Docs\] Explain prompt hidden states in pipeline
-  - 🟢 [microsoft/onnxruntime#31631](https://github.com/microsoft/onnxruntime/pull/31631) — Open — docs: fix OpenVINO comparison labels
-  - 🟢 [microsoft/onnxruntime#31630](https://github.com/microsoft/onnxruntime/pull/31630) — Open — docs: clarify OpenVINO load_config value
+  - 🟢 [microsoft/onnxruntime#31658](https://github.com/microsoft/onnxruntime/pull/31658) — Open — docs: add reduced-operator GCC 9 workaround
+  - 🟢 [anomalyco/opencode#40635](https://github.com/anomalyco/opencode/pull/40635) — Open — fix(llm): finish usage-only chat streams
+  - 🟢 [microsoft/onnxruntime#31657](https://github.com/microsoft/onnxruntime/pull/31657) — Open — docs: clarify extended graph optimization targets
+  - 🟢 [InternLM/lmdeploy#4829](https://github.com/InternLM/lmdeploy/pull/4829) — Open — \[Docs\] Clarify VLM LoRA serving scope
+  - 🟢 [InternLM/lmdeploy#4828](https://github.com/InternLM/lmdeploy/pull/4828) — Open — \[Fix\] Allow InternVL to skip dynamic preprocessing
+  - 🟢 [microsoft/onnxruntime#31655](https://github.com/microsoft/onnxruntime/pull/31655) — Open — docs: add custom web build guidance
 <!-- pr_activity ends -->
 
 ## Current Projects
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Tech Rebound AI Computing Volume Growth Strategy](https://zcxggmu.github.io/2026/tech-rebound-ai-computing-volume-growth-strategy/) — 2026-08-04
-- [Know And Accept Yourself Seligman Change Depth Map](https://zcxggmu.github.io/2026/know-and-accept-yourself-seligman-change-depth-map/) — 2026-08-04
-- [Myside Bias Truth Polarization Public Reason](https://zcxggmu.github.io/2026/myside-bias-truth-polarization-public-reason/) — 2026-08-04
-- [Anti Risk Investing Low Cost Diversification Long Term System](https://zcxggmu.github.io/2026/anti-risk-investing-low-cost-diversification-long-term-system/) — 2026-08-04
-- [Software AI Application Investment Logic Agent Custom Software](https://zcxggmu.github.io/2026/software-ai-application-investment-logic-agent-custom-software/) — 2026-08-03
+- [Life Never Too Late Grandma Moses Begin Again](https://zcxggmu.github.io/2026/life-never-too-late-grandma-moses-begin-again/) — 2026-08-05
+- [Dopamine Addiction Balance Anna Lembke Self Control](https://zcxggmu.github.io/2026/dopamine-addiction-balance-anna-lembke-self-control/) — 2026-08-05
+- [Robot Sector Bottom Rebound Electronic Skin Dexterous Hand](https://zcxggmu.github.io/2026/robot-sector-bottom-rebound-electronic-skin-dexterous-hand/) — 2026-08-05
+- [Copper Strongest Metal H2 Rate Cut Tariff Nonferrous Wave](https://zcxggmu.github.io/2026/copper-strongest-metal-h2-rate-cut-tariff-nonferrous-wave/) — 2026-08-05
+- [August A Share Counteroffensive Buyback Fundflow Window](https://zcxggmu.github.io/2026/august-a-share-counteroffensive-buyback-fundflow-window/) — 2026-08-05
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
