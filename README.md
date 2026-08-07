@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **183 PRs** across **31 projects** — 🟢 93 open · ✅ 16 merged · ⚪ 74 closed
-- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (13 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [anomalyco/opencode](https://github.com/anomalyco/opencode) (7 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
+- **Status**: **185 PRs** across **31 projects** — 🟢 95 open · ✅ 16 merged · ⚪ 74 closed
+- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (13 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [anomalyco/opencode](https://github.com/anomalyco/opencode) (9 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
 - **Latest PRs**:
+  - 🟢 [anomalyco/opencode#40879](https://github.com/anomalyco/opencode/pull/40879) — Open — fix(tui): reject unavailable project moves
+  - 🟢 [anomalyco/opencode#40859](https://github.com/anomalyco/opencode/pull/40859) — Open — fix(tui): stream running bash output
   - 🟢 [anomalyco/opencode#40842](https://github.com/anomalyco/opencode/pull/40842) — Open — fix(session): handle AI SDK type validation errors
   - 🟢 [anomalyco/opencode#40801](https://github.com/anomalyco/opencode/pull/40801) — Open — docs: add model scorecard plugin
   - 🟢 [anomalyco/opencode#40796](https://github.com/anomalyco/opencode/pull/40796) — Open — fix(session): warn on cache busts
   - 🟢 [microsoft/onnxruntime#31686](https://github.com/microsoft/onnxruntime/pull/31686) — Open — fix: use process architecture for CUDA DLL paths
-  - 🟢 [anomalyco/opencode#40669](https://github.com/anomalyco/opencode/pull/40669) — Open — fix(shell): stop aborted commands after output
-  - 🟢 [microsoft/onnxruntime#31662](https://github.com/microsoft/onnxruntime/pull/31662) — Open — docs: document node memory statistics collection
 <!-- pr_activity ends -->
 
 ## Current Projects
