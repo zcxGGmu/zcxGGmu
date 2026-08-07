@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **185 PRs** across **31 projects** — 🟢 95 open · ✅ 16 merged · ⚪ 74 closed
-- **Active projects**: [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (13 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [anomalyco/opencode](https://github.com/anomalyco/opencode) (9 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
+- **Status**: **194 PRs** across **31 projects** — 🟢 104 open · ✅ 16 merged · ⚪ 74 closed
+- **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [anomalyco/opencode](https://github.com/anomalyco/opencode) (14 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
 - **Latest PRs**:
-  - 🟢 [anomalyco/opencode#40879](https://github.com/anomalyco/opencode/pull/40879) — Open — fix(tui): reject unavailable project moves
-  - 🟢 [anomalyco/opencode#40859](https://github.com/anomalyco/opencode/pull/40859) — Open — fix(tui): stream running bash output
-  - 🟢 [anomalyco/opencode#40842](https://github.com/anomalyco/opencode/pull/40842) — Open — fix(session): handle AI SDK type validation errors
-  - 🟢 [anomalyco/opencode#40801](https://github.com/anomalyco/opencode/pull/40801) — Open — docs: add model scorecard plugin
-  - 🟢 [anomalyco/opencode#40796](https://github.com/anomalyco/opencode/pull/40796) — Open — fix(session): warn on cache busts
-  - 🟢 [microsoft/onnxruntime#31686](https://github.com/microsoft/onnxruntime/pull/31686) — Open — fix: use process architecture for CUDA DLL paths
+  - 🟢 [anomalyco/opencode#41039](https://github.com/anomalyco/opencode/pull/41039) — Open — fix(core): type Copilot billed usage
+  - 🟢 [microsoft/onnxruntime#31718](https://github.com/microsoft/onnxruntime/pull/31718) — Open — build: avoid GCC 15 array-bounds false positive failures
+  - 🟢 [microsoft/onnxruntime#31717](https://github.com/microsoft/onnxruntime/pull/31717) — Open — chore: improve Node dependency hygiene
+  - 🟢 [microsoft/onnxruntime#31716](https://github.com/microsoft/onnxruntime/pull/31716) — Open — feat: expose SetSeed in C# API
+  - 🟢 [microsoft/onnxruntime#31715](https://github.com/microsoft/onnxruntime/pull/31715) — Open — fix: normalize binary package CMake paths
+  - 🟢 [anomalyco/opencode#41005](https://github.com/anomalyco/opencode/pull/41005) — Open — fix(console): terminate oa-compatible cost streams
 <!-- pr_activity ends -->
 
 ## Current Projects
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Sk Hynix AI Memory Supercycle Target Price](https://zcxggmu.github.io/2026/sk-hynix-ai-memory-supercycle-target-price/) — 2026-08-07
 - [Life Never Too Late Grandma Moses Begin Again](https://zcxggmu.github.io/2026/life-never-too-late-grandma-moses-begin-again/) — 2026-08-05
 - [Dopamine Addiction Balance Anna Lembke Self Control](https://zcxggmu.github.io/2026/dopamine-addiction-balance-anna-lembke-self-control/) — 2026-08-05
 - [Robot Sector Bottom Rebound Electronic Skin Dexterous Hand](https://zcxggmu.github.io/2026/robot-sector-bottom-rebound-electronic-skin-dexterous-hand/) — 2026-08-05
 - [Copper Strongest Metal H2 Rate Cut Tariff Nonferrous Wave](https://zcxggmu.github.io/2026/copper-strongest-metal-h2-rate-cut-tariff-nonferrous-wave/) — 2026-08-05
-- [August A Share Counteroffensive Buyback Fundflow Window](https://zcxggmu.github.io/2026/august-a-share-counteroffensive-buyback-fundflow-window/) — 2026-08-05
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
