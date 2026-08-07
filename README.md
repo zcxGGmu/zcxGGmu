@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **194 PRs** across **31 projects** — 🟢 104 open · ✅ 16 merged · ⚪ 74 closed
-- **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [anomalyco/opencode](https://github.com/anomalyco/opencode) (14 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
+- **Status**: **203 PRs** across **31 projects** — 🟢 112 open · ✅ 16 merged · ⚪ 75 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (23 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
 - **Latest PRs**:
-  - 🟢 [anomalyco/opencode#41039](https://github.com/anomalyco/opencode/pull/41039) — Open — fix(core): type Copilot billed usage
-  - 🟢 [microsoft/onnxruntime#31718](https://github.com/microsoft/onnxruntime/pull/31718) — Open — build: avoid GCC 15 array-bounds false positive failures
-  - 🟢 [microsoft/onnxruntime#31717](https://github.com/microsoft/onnxruntime/pull/31717) — Open — chore: improve Node dependency hygiene
-  - 🟢 [microsoft/onnxruntime#31716](https://github.com/microsoft/onnxruntime/pull/31716) — Open — feat: expose SetSeed in C# API
-  - 🟢 [microsoft/onnxruntime#31715](https://github.com/microsoft/onnxruntime/pull/31715) — Open — fix: normalize binary package CMake paths
-  - 🟢 [anomalyco/opencode#41005](https://github.com/anomalyco/opencode/pull/41005) — Open — fix(console): terminate oa-compatible cost streams
+  - 🟢 [anomalyco/opencode#41132](https://github.com/anomalyco/opencode/pull/41132) — Open — fix(acp): emit plan updates for todos
+  - 🟢 [anomalyco/opencode#41130](https://github.com/anomalyco/opencode/pull/41130) — Open — fix(console): preserve anthropic tool names
+  - 🟢 [anomalyco/opencode#41128](https://github.com/anomalyco/opencode/pull/41128) — Open — fix(console): normalize root composition tool schemas
+  - 🟢 [anomalyco/opencode#41127](https://github.com/anomalyco/opencode/pull/41127) — Open — fix(schema): inline config schema root
+  - 🟢 [anomalyco/opencode#41122](https://github.com/anomalyco/opencode/pull/41122) — Open — fix(lsp): honor static workspace diagnostics
+  - 🟢 [anomalyco/opencode#41119](https://github.com/anomalyco/opencode/pull/41119) — Open — fix(tool): shorten unavailable tool errors
 <!-- pr_activity ends -->
 
 ## Current Projects
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Pi Agent Minimal Harness Custom Agent Engine](https://zcxggmu.github.io/2026/pi-agent-minimal-harness-custom-agent-engine/) — 2026-08-08
+- [Copper Price New High Valuation Low Three Logic Repricing](https://zcxggmu.github.io/2026/copper-price-new-high-valuation-low-three-logic-repricing/) — 2026-08-08
 - [Sk Hynix AI Memory Supercycle Target Price](https://zcxggmu.github.io/2026/sk-hynix-ai-memory-supercycle-target-price/) — 2026-08-07
 - [Life Never Too Late Grandma Moses Begin Again](https://zcxggmu.github.io/2026/life-never-too-late-grandma-moses-begin-again/) — 2026-08-05
 - [Dopamine Addiction Balance Anna Lembke Self Control](https://zcxggmu.github.io/2026/dopamine-addiction-balance-anna-lembke-self-control/) — 2026-08-05
-- [Robot Sector Bottom Rebound Electronic Skin Dexterous Hand](https://zcxggmu.github.io/2026/robot-sector-bottom-rebound-electronic-skin-dexterous-hand/) — 2026-08-05
-- [Copper Strongest Metal H2 Rate Cut Tariff Nonferrous Wave](https://zcxggmu.github.io/2026/copper-strongest-metal-h2-rate-cut-tariff-nonferrous-wave/) — 2026-08-05
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
