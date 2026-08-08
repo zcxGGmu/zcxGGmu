@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **203 PRs** across **31 projects** — 🟢 112 open · ✅ 16 merged · ⚪ 75 closed
-- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (23 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
+- **Status**: **205 PRs** across **31 projects** — 🟢 114 open · ✅ 16 merged · ⚪ 75 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
 - **Latest PRs**:
+  - 🟢 [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Open — fix(session): extract unsupported tool media
+  - 🟢 [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Open — fix(session): tolerate missing directories
   - 🟢 [anomalyco/opencode#41132](https://github.com/anomalyco/opencode/pull/41132) — Open — fix(acp): emit plan updates for todos
   - 🟢 [anomalyco/opencode#41130](https://github.com/anomalyco/opencode/pull/41130) — Open — fix(console): preserve anthropic tool names
   - 🟢 [anomalyco/opencode#41128](https://github.com/anomalyco/opencode/pull/41128) — Open — fix(console): normalize root composition tool schemas
   - 🟢 [anomalyco/opencode#41127](https://github.com/anomalyco/opencode/pull/41127) — Open — fix(schema): inline config schema root
-  - 🟢 [anomalyco/opencode#41122](https://github.com/anomalyco/opencode/pull/41122) — Open — fix(lsp): honor static workspace diagnostics
-  - 🟢 [anomalyco/opencode#41119](https://github.com/anomalyco/opencode/pull/41119) — Open — fix(tool): shorten unavailable tool errors
 <!-- pr_activity ends -->
 
 ## Current Projects
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Pi Agent Minimal Harness Custom Agent Engine](https://zcxggmu.github.io/2026/pi-agent-minimal-harness-custom-agent-engine/) — 2026-08-08
-- [Copper Price New High Valuation Low Three Logic Repricing](https://zcxggmu.github.io/2026/copper-price-new-high-valuation-low-three-logic-repricing/) — 2026-08-08
-- [Sk Hynix AI Memory Supercycle Target Price](https://zcxggmu.github.io/2026/sk-hynix-ai-memory-supercycle-target-price/) — 2026-08-07
-- [Life Never Too Late Grandma Moses Begin Again](https://zcxggmu.github.io/2026/life-never-too-late-grandma-moses-begin-again/) — 2026-08-05
-- [Dopamine Addiction Balance Anna Lembke Self Control](https://zcxggmu.github.io/2026/dopamine-addiction-balance-anna-lembke-self-control/) — 2026-08-05
+- [Codegraph Code Map Coding Agent Token Efficient Codebase Understanding](https://zcxggmu.github.io/2026/codegraph-code-map-coding-agent-token-efficient-codebase-understanding/) — 2026-08-08
+- [Gold Price Monetary Logic A Share Repair Opportunities](https://zcxggmu.github.io/2026/gold-price-monetary-logic-a-share-repair-opportunities/) — 2026-08-08
+- [Emotional Freedom Abc Rational Emotive Therapy](https://zcxggmu.github.io/2026/emotional-freedom-abc-rational-emotive-therapy/) — 2026-08-08
+- [Openai Symphony Codex Task Orchestration Workflow](https://zcxggmu.github.io/2026/openai-symphony-codex-task-orchestration-workflow/) — 2026-08-08
+- [Human Agent Teams Context Roles Trust Workflow](https://zcxggmu.github.io/2026/human-agent-teams-context-roles-trust-workflow/) — 2026-08-08
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
