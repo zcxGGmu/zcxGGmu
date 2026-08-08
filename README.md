@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [AI Skills Agent Fullstack Open Source Daily 20260808](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260808/) — 2026-08-09
 - [Codegraph Code Map Coding Agent Token Efficient Codebase Understanding](https://zcxggmu.github.io/2026/codegraph-code-map-coding-agent-token-efficient-codebase-understanding/) — 2026-08-08
 - [Gold Price Monetary Logic A Share Repair Opportunities](https://zcxggmu.github.io/2026/gold-price-monetary-logic-a-share-repair-opportunities/) — 2026-08-08
 - [Emotional Freedom Abc Rational Emotive Therapy](https://zcxggmu.github.io/2026/emotional-freedom-abc-rational-emotive-therapy/) — 2026-08-08
 - [Openai Symphony Codex Task Orchestration Workflow](https://zcxggmu.github.io/2026/openai-symphony-codex-task-orchestration-workflow/) — 2026-08-08
-- [Human Agent Teams Context Roles Trust Workflow](https://zcxggmu.github.io/2026/human-agent-teams-context-roles-trust-workflow/) — 2026-08-08
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
