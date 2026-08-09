@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **205 PRs** across **31 projects** — 🟢 114 open · ✅ 16 merged · ⚪ 75 closed
-- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
+- **Status**: **206 PRs** across **31 projects** — 🟢 115 open · ✅ 16 merged · ⚪ 75 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (6 open)
 - **Latest PRs**:
+  - 🟢 [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Open — fix(telegram): send responses as rich markdown
   - 🟢 [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Open — fix(session): extract unsupported tool media
   - 🟢 [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Open — fix(session): tolerate missing directories
   - 🟢 [anomalyco/opencode#41132](https://github.com/anomalyco/opencode/pull/41132) — Open — fix(acp): emit plan updates for todos
   - 🟢 [anomalyco/opencode#41130](https://github.com/anomalyco/opencode/pull/41130) — Open — fix(console): preserve anthropic tool names
   - 🟢 [anomalyco/opencode#41128](https://github.com/anomalyco/opencode/pull/41128) — Open — fix(console): normalize root composition tool schemas
-  - 🟢 [anomalyco/opencode#41127](https://github.com/anomalyco/opencode/pull/41127) — Open — fix(schema): inline config schema root
 <!-- pr_activity ends -->
 
 ## Current Projects
