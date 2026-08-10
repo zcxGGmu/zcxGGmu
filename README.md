@@ -17,8 +17,8 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **206 PRs** across **31 projects** — 🟢 114 open · ✅ 17 merged · ⚪ 75 closed
-- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
+- **Status**: **206 PRs** across **31 projects** — 🟢 111 open · ✅ 17 merged · ⚪ 78 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
   - 🟢 [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Open — fix(session): extract unsupported tool media
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Young Workers Flexible Jobs Factory Labor Dignity](https://zcxggmu.github.io/2026/young-workers-flexible-jobs-factory-labor-dignity/) — 2026-08-11
+- [Lithium Carbonate Backwardation Strong Reality Weak Expectation](https://zcxggmu.github.io/2026/lithium-carbonate-backwardation-strong-reality-weak-expectation/) — 2026-08-11
+- [Innovative Drugs Adc AI For Science Two Trends](https://zcxggmu.github.io/2026/innovative-drugs-adc-ai-for-science-two-trends/) — 2026-08-11
 - [Stop Helping Wrong People Protect Energy Wealth](https://zcxggmu.github.io/2026/stop-helping-wrong-people-protect-energy-wealth/) — 2026-08-10
 - [Book To Skill Agent Book Knowledge System](https://zcxggmu.github.io/2026/book-to-skill-agent-book-knowledge-system/) — 2026-08-10
-- [AI Materials Ccl Electronic Cloth Resin Filler 2026](https://zcxggmu.github.io/2026/ai-materials-ccl-electronic-cloth-resin-filler-2026/) — 2026-08-10
-- [Gold Rebound Nonfarm Rate Cut AI Bubble 4500](https://zcxggmu.github.io/2026/gold-rebound-nonfarm-rate-cut-ai-bubble-4500/) — 2026-08-10
-- [Innovative Drug Valuation Ps Bd Pharma Framework](https://zcxggmu.github.io/2026/innovative-drug-valuation-ps-bd-pharma-framework/) — 2026-08-10
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
