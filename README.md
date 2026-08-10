@@ -17,10 +17,10 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **206 PRs** across **31 projects** — 🟢 115 open · ✅ 16 merged · ⚪ 75 closed
-- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (6 open)
+- **Status**: **206 PRs** across **31 projects** — 🟢 114 open · ✅ 17 merged · ⚪ 75 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [aaif-goose/goose](https://github.com/aaif-goose/goose) (5 open)
 - **Latest PRs**:
-  - 🟢 [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Open — fix(telegram): send responses as rich markdown
+  - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
   - 🟢 [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Open — fix(session): extract unsupported tool media
   - 🟢 [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Open — fix(session): tolerate missing directories
   - 🟢 [anomalyco/opencode#41132](https://github.com/anomalyco/opencode/pull/41132) — Open — fix(acp): emit plan updates for todos
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [First Million 500 Yuan 2000 Customers](https://zcxggmu.github.io/2026/first-million-500-yuan-2000-customers/) — 2026-08-09
-- [Buy Less Buy Better Clear Clutter Save Money](https://zcxggmu.github.io/2026/buy-less-buy-better-clear-clutter-save-money/) — 2026-08-09
-- [Hardship Before Great Things Shapes Mind](https://zcxggmu.github.io/2026/hardship-before-great-things-shapes-mind/) — 2026-08-09
-- [AI Skills Agent Fullstack Open Source Daily 20260808](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260808/) — 2026-08-09
-- [Codegraph Code Map Coding Agent Token Efficient Codebase Understanding](https://zcxggmu.github.io/2026/codegraph-code-map-coding-agent-token-efficient-codebase-understanding/) — 2026-08-08
+- [Stop Helping Wrong People Protect Energy Wealth](https://zcxggmu.github.io/2026/stop-helping-wrong-people-protect-energy-wealth/) — 2026-08-10
+- [Book To Skill Agent Book Knowledge System](https://zcxggmu.github.io/2026/book-to-skill-agent-book-knowledge-system/) — 2026-08-10
+- [AI Materials Ccl Electronic Cloth Resin Filler 2026](https://zcxggmu.github.io/2026/ai-materials-ccl-electronic-cloth-resin-filler-2026/) — 2026-08-10
+- [Gold Rebound Nonfarm Rate Cut AI Bubble 4500](https://zcxggmu.github.io/2026/gold-rebound-nonfarm-rate-cut-ai-bubble-4500/) — 2026-08-10
+- [Innovative Drug Valuation Ps Bd Pharma Framework](https://zcxggmu.github.io/2026/innovative-drug-valuation-ps-bd-pharma-framework/) — 2026-08-10
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
