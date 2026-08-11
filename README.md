@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Hog Futures Rebound Supply Pressure Demand Weak](https://zcxggmu.github.io/2026/hog-futures-rebound-supply-pressure-demand-weak/) — 2026-08-11
+- [Semiconductor Components Delivery Cycle Domestic Substitution Q3 Earnings](https://zcxggmu.github.io/2026/semiconductor-components-delivery-cycle-domestic-substitution-q3-earnings/) — 2026-08-11
+- [Cpo Scale Up AI Network Optical Connectivity](https://zcxggmu.github.io/2026/cpo-scale-up-ai-network-optical-connectivity/) — 2026-08-11
+- [Learn From Japan Lost Decades Survival Guide](https://zcxggmu.github.io/2026/learn-from-japan-lost-decades-survival-guide/) — 2026-08-11
 - [AI Skills Agent Fullstack Open Source Daily 20260810](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260810/) — 2026-08-11
-- [Github AI Trending Weekly 20260803 09](https://zcxggmu.github.io/2026/github-ai-trending-weekly-20260803-09/) — 2026-08-11
-- [Young Workers Flexible Jobs Factory Labor Dignity](https://zcxggmu.github.io/2026/young-workers-flexible-jobs-factory-labor-dignity/) — 2026-08-11
-- [Lithium Carbonate Backwardation Strong Reality Weak Expectation](https://zcxggmu.github.io/2026/lithium-carbonate-backwardation-strong-reality-weak-expectation/) — 2026-08-11
-- [Innovative Drugs Adc AI For Science Two Trends](https://zcxggmu.github.io/2026/innovative-drugs-adc-ai-for-science-two-trends/) — 2026-08-11
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
