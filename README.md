@@ -17,7 +17,7 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **206 PRs** across **31 projects** — 🟢 111 open · ✅ 17 merged · ⚪ 78 closed
+- **Status**: **206 PRs** across **31 projects** — 🟢 110 open · ✅ 17 merged · ⚪ 79 closed
 - **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Engineer Overwork Labor Awakening Workplace Boundaries](https://zcxggmu.github.io/2026/engineer-overwork-labor-awakening-workplace-boundaries/) — 2026-08-11
+- [Semiconductor Equipment Rebound AI Capex Advanced Packaging Testing](https://zcxggmu.github.io/2026/semiconductor-equipment-rebound-ai-capex-advanced-packaging-testing/) — 2026-08-11
 - [Hog Futures Rebound Supply Pressure Demand Weak](https://zcxggmu.github.io/2026/hog-futures-rebound-supply-pressure-demand-weak/) — 2026-08-11
 - [Semiconductor Components Delivery Cycle Domestic Substitution Q3 Earnings](https://zcxggmu.github.io/2026/semiconductor-components-delivery-cycle-domestic-substitution-q3-earnings/) — 2026-08-11
 - [Cpo Scale Up AI Network Optical Connectivity](https://zcxggmu.github.io/2026/cpo-scale-up-ai-network-optical-connectivity/) — 2026-08-11
-- [Learn From Japan Lost Decades Survival Guide](https://zcxggmu.github.io/2026/learn-from-japan-lost-decades-survival-guide/) — 2026-08-11
-- [AI Skills Agent Fullstack Open Source Daily 20260810](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260810/) — 2026-08-11
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
