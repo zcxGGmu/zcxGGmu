@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [AI Skills Agent Fullstack Open Source Daily 20260811](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260811/) — 2026-08-12
+- [AI Skills Agent Fullstack Open Source Daily 20260811](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260811/) — 2026-08-12
 - [Engineer Overwork Labor Awakening Workplace Boundaries](https://zcxggmu.github.io/2026/engineer-overwork-labor-awakening-workplace-boundaries/) — 2026-08-11
 - [Semiconductor Equipment Rebound AI Capex Advanced Packaging Testing](https://zcxggmu.github.io/2026/semiconductor-equipment-rebound-ai-capex-advanced-packaging-testing/) — 2026-08-11
 - [Hog Futures Rebound Supply Pressure Demand Weak](https://zcxggmu.github.io/2026/hog-futures-rebound-supply-pressure-demand-weak/) — 2026-08-11
-- [Semiconductor Components Delivery Cycle Domestic Substitution Q3 Earnings](https://zcxggmu.github.io/2026/semiconductor-components-delivery-cycle-domestic-substitution-q3-earnings/) — 2026-08-11
-- [Cpo Scale Up AI Network Optical Connectivity](https://zcxggmu.github.io/2026/cpo-scale-up-ai-network-optical-connectivity/) — 2026-08-11
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
