@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [AI Skills Agent Fullstack Open Source Daily 20260813](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260813/) — 2026-08-14
 - [Remotion Claude Code Vox Motion Design Workflow](https://zcxggmu.github.io/2026/remotion-claude-code-vox-motion-design-workflow/) — 2026-08-13
 - [AI Skills Agent Fullstack Open Source Daily 20260812](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260812/) — 2026-08-13
 - [Memory Capex Hbm Dram Shortage Nand Balance 2027](https://zcxggmu.github.io/2026/memory-capex-hbm-dram-shortage-nand-balance-2027/) — 2026-08-13
 - [Beef Cattle Raw Milk Cycle Rebound Dairy Leaders Profit Elasticity](https://zcxggmu.github.io/2026/beef-cattle-raw-milk-cycle-rebound-dairy-leaders-profit-elasticity/) — 2026-08-13
-- [Orient Cable Offshore Wind Scarcity Orders Waiting Cycle](https://zcxggmu.github.io/2026/orient-cable-offshore-wind-scarcity-orders-waiting-cycle/) — 2026-08-12
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
