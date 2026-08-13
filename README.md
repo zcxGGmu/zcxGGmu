@@ -17,7 +17,7 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **208 PRs** across **31 projects** — 🟢 112 open · ✅ 17 merged · ⚪ 79 closed
+- **Status**: **208 PRs** across **31 projects** — 🟢 111 open · ✅ 17 merged · ⚪ 80 closed
 - **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (27 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Memory Capex Hbm Dram Shortage Nand Balance 2027](https://zcxggmu.github.io/2026/memory-capex-hbm-dram-shortage-nand-balance-2027/) — 2026-08-13
+- [Beef Cattle Raw Milk Cycle Rebound Dairy Leaders Profit Elasticity](https://zcxggmu.github.io/2026/beef-cattle-raw-milk-cycle-rebound-dairy-leaders-profit-elasticity/) — 2026-08-13
 - [Orient Cable Offshore Wind Scarcity Orders Waiting Cycle](https://zcxggmu.github.io/2026/orient-cable-offshore-wind-scarcity-orders-waiting-cycle/) — 2026-08-12
 - [Buzz Open Source Agent Collaboration Workspace](https://zcxggmu.github.io/2026/buzz-open-source-agent-collaboration-workspace/) — 2026-08-12
 - [Cxo Recovery Wuxi Apptec Orders Bd Outbound](https://zcxggmu.github.io/2026/cxo-recovery-wuxi-apptec-orders-bd-outbound/) — 2026-08-12
-- [Green Power Profit Recovery Subsidy Payment Policy Support](https://zcxggmu.github.io/2026/green-power-profit-recovery-subsidy-payment-policy-support/) — 2026-08-12
-- [AI Skills Agent Fullstack Open Source Daily 20260811](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260811/) — 2026-08-12
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
