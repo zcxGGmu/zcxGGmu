@@ -17,7 +17,7 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **208 PRs** across **31 projects** — 🟢 111 open · ✅ 17 merged · ⚪ 80 closed
+- **Status**: **208 PRs** across **31 projects** — 🟢 110 open · ✅ 17 merged · ⚪ 81 closed
 - **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (27 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Ubs China Tech AI Reentry Aidc Power Metals](https://zcxggmu.github.io/2026/ubs-china-tech-ai-reentry-aidc-power-metals/) — 2026-08-14
+- [Goldman AI Server Pcb Ccl Rubin Ultra Supply Chain](https://zcxggmu.github.io/2026/goldman-ai-server-pcb-ccl-rubin-ultra-supply-chain/) — 2026-08-14
 - [AI Skills Agent Fullstack Open Source Daily 20260813](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260813/) — 2026-08-14
 - [Remotion Claude Code Vox Motion Design Workflow](https://zcxggmu.github.io/2026/remotion-claude-code-vox-motion-design-workflow/) — 2026-08-13
 - [AI Skills Agent Fullstack Open Source Daily 20260812](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260812/) — 2026-08-13
-- [Memory Capex Hbm Dram Shortage Nand Balance 2027](https://zcxggmu.github.io/2026/memory-capex-hbm-dram-shortage-nand-balance-2027/) — 2026-08-13
-- [Beef Cattle Raw Milk Cycle Rebound Dairy Leaders Profit Elasticity](https://zcxggmu.github.io/2026/beef-cattle-raw-milk-cycle-rebound-dairy-leaders-profit-elasticity/) — 2026-08-13
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
