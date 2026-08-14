@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **208 PRs** across **31 projects** — 🟢 110 open · ✅ 17 merged · ⚪ 81 closed
-- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (27 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
+- **Status**: **206 PRs** across **31 projects** — 🟢 111 open · ✅ 17 merged · ⚪ 78 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (25 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
-  - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
-  - 🟢 [anomalyco/opencode#42092](https://github.com/anomalyco/opencode/pull/42092) — Open — fix(tool): skip plugin tools without descriptions
   - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
   - 🟢 [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Open — fix(session): extract unsupported tool media
   - 🟢 [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Open — fix(session): tolerate missing directories
   - 🟢 [anomalyco/opencode#41132](https://github.com/anomalyco/opencode/pull/41132) — Open — fix(acp): emit plan updates for todos
+  - 🟢 [anomalyco/opencode#41130](https://github.com/anomalyco/opencode/pull/41130) — Open — fix(console): preserve anthropic tool names
+  - 🟢 [anomalyco/opencode#41128](https://github.com/anomalyco/opencode/pull/41128) — Open — fix(console): normalize root composition tool schemas
 <!-- pr_activity ends -->
 
 ## Current Projects
@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Ubs China Tech AI Reentry Aidc Power Metals](https://zcxggmu.github.io/2026/ubs-china-tech-ai-reentry-aidc-power-metals/) — 2026-08-14
-- [Goldman AI Server Pcb Ccl Rubin Ultra Supply Chain](https://zcxggmu.github.io/2026/goldman-ai-server-pcb-ccl-rubin-ultra-supply-chain/) — 2026-08-14
-- [AI Skills Agent Fullstack Open Source Daily 20260813](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260813/) — 2026-08-14
-- [Remotion Claude Code Vox Motion Design Workflow](https://zcxggmu.github.io/2026/remotion-claude-code-vox-motion-design-workflow/) — 2026-08-13
-- [AI Skills Agent Fullstack Open Source Daily 20260812](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260812/) — 2026-08-13
+- [Hog Futures Rebound Supply Pressure Demand Weak](https://zcxggmu.github.io/2026/hog-futures-rebound-supply-pressure-demand-weak/) — 2026-08-11
+- [Semiconductor Components Delivery Cycle Domestic Substitution Q3 Earnings](https://zcxggmu.github.io/2026/semiconductor-components-delivery-cycle-domestic-substitution-q3-earnings/) — 2026-08-11
+- [Cpo Scale Up AI Network Optical Connectivity](https://zcxggmu.github.io/2026/cpo-scale-up-ai-network-optical-connectivity/) — 2026-08-11
+- [Learn From Japan Lost Decades Survival Guide](https://zcxggmu.github.io/2026/learn-from-japan-lost-decades-survival-guide/) — 2026-08-11
+- [AI Skills Agent Fullstack Open Source Daily 20260810](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260810/) — 2026-08-11
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260814060157">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260815060046">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-08-14 06:01 CST; archive date `2026-08-13`.
-- **Skills:** 180 tracked / 172 active; today `+1 Δ14 -0`; activity `+116`, patches `+1`.
-- **Memory:** 14 durable entries; today `+1 -1`; Memory map +1 added / +1 removed · details privacy-redacted.
-- **Signal:** + document-template-completion · new skill; Δ code-review-and-quality · use +6
+- **Latest snapshot:** 2026-08-15 06:00 CST; archive date `2026-08-14`.
+- **Skills:** 182 tracked / 174 active; today `+2 Δ18 -0`; activity `+132`, patches `+5`.
+- **Memory:** 14 durable entries; today `+0 -0`; Memory map stable · public details redacted.
+- **Signal:** + local-agent-os-dashboards · new skill; + video-reference-ui-replication · new skill
 <!-- hermes_evolution ends -->
 
