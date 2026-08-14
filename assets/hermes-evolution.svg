@@ -112,24 +112,24 @@
   <text x="54" y="75" font-size="38" font-weight="300" fill="#ffffff" opacity="1.00">HERMES EVOLUTION</text>
   <text x="56" y="102" font-size="12" font-weight="600" fill="#00ffff" opacity="0.64">BAOYU DASHBOARD × TOUCHDESIGNER COMPOSITOR</text>
   <text x="874" y="66" font-size="11" font-weight="600" fill="#ffffff" opacity="0.46">UPDATED</text>
-  <text x="874" y="92" font-size="18" font-weight="400" fill="#ffffff" opacity="0.86">2026-08-14 06:01 CST</text>
-  <text x="874" y="114" font-size="10.5" font-weight="400" fill="#ffffff" opacity="0.44">Snapshot 2026-08-13 · privacy-safe publ…</text>
+  <text x="874" y="92" font-size="18" font-weight="400" fill="#ffffff" opacity="0.86">2026-08-15 06:00 CST</text>
+  <text x="874" y="114" font-size="10.5" font-weight="400" fill="#ffffff" opacity="0.44">Snapshot 2026-08-14 · privacy-safe publ…</text>
   <g filter="url(#cardGlow)">
 <rect x="54" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#00ffff" stroke-opacity="0.34"/>
 <path d="M70 228 H242" stroke="#00ffff" stroke-opacity="0.32" stroke-width="1"/>
 <circle class="pulse-dot" cx="232" cy="170" r="3.5" fill="#00ffff" opacity="0.78"/>
 </g>
 <text x="72" y="175" font-size="10.5" font-weight="600" fill="#ffffff" opacity="0.58">SKILLS</text>
-<text x="72" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">180</text>
-<text x="72" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">active 172</text>
+<text x="72" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">182</text>
+<text x="72" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">active 174</text>
   <g filter="url(#cardGlow)">
 <rect x="280" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#ff4fd8" stroke-opacity="0.34"/>
 <path d="M296 228 H468" stroke="#ff4fd8" stroke-opacity="0.32" stroke-width="1"/>
 <circle class="pulse-dot" cx="458" cy="170" r="3.5" fill="#ff4fd8" opacity="0.78"/>
 </g>
 <text x="298" y="175" font-size="10.5" font-weight="600" fill="#ffffff" opacity="0.58">SKILL DELTA</text>
-<text x="298" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">+1 Δ14 -0</text>
-<text x="298" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">activity +116 · patches +1</text>
+<text x="298" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">+2 Δ18 -0</text>
+<text x="298" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">activity +132 · patches +5</text>
   <g filter="url(#cardGlow)">
 <rect x="506" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#7cf7ff" stroke-opacity="0.34"/>
 <path d="M522 228 H694" stroke="#7cf7ff" stroke-opacity="0.32" stroke-width="1"/>
@@ -144,7 +144,7 @@
 <circle class="pulse-dot" cx="910" cy="170" r="3.5" fill="#00ffff" opacity="0.78"/>
 </g>
 <text x="750" y="175" font-size="10.5" font-weight="600" fill="#ffffff" opacity="0.58">SIGNAL</text>
-<text x="750" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">16</text>
+<text x="750" y="210" font-size="29" font-weight="300" fill="#ffffff" opacity="1.00">20</text>
 <text x="750" y="233" font-size="10" font-weight="400" fill="#ffffff" opacity="0.48">today composite score</text>
   <g filter="url(#cardGlow)">
 <rect x="958" y="146" width="204" height="98" rx="14" fill="rgba(7,11,22,0.72)" stroke="#ff4fd8" stroke-opacity="0.34"/>
@@ -158,40 +158,40 @@
   <rect x="54" y="300" width="656" height="156" rx="18" fill="rgba(3,8,20,0.62)" stroke="rgba(0,255,255,0.18)"/>
   <path d="M78 300 V456" stroke="rgba(0,255,255,0.16)"/>
   <circle class="signal-dot" style="animation-delay:0.00s" cx="78" cy="313" r="3.5" fill="#00ffff" opacity="0.82"/>
-<text x="94" y="318" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">+ document-template-completion · new skill</text>
+<text x="94" y="318" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">+ local-agent-os-dashboards · new skill</text>
 <circle class="signal-dot" style="animation-delay:0.22s" cx="78" cy="339" r="3.5" fill="#ff4fd8" opacity="0.82"/>
-<text x="94" y="344" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Δ code-review-and-quality · use +6</text>
+<text x="94" y="344" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">+ video-reference-ui-replication · new skill</text>
 <circle class="signal-dot" style="animation-delay:0.44s" cx="78" cy="365" r="3.5" fill="#00ffff" opacity="0.82"/>
-<text x="94" y="370" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Δ docx · use +2, view +2</text>
+<text x="94" y="370" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Δ scheduled-pr-feedback-maintenance · patch +3, use +10, view +2</text>
 <circle class="signal-dot" style="animation-delay:0.66s" cx="78" cy="391" r="3.5" fill="#ff4fd8" opacity="0.82"/>
-<text x="94" y="396" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Δ git-workflow-and-versioning · use +6</text>
+<text x="94" y="396" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Δ code-review-and-quality · use +6</text>
 <circle class="signal-dot" style="animation-delay:0.88s" cx="78" cy="417" r="3.5" fill="#00ffff" opacity="0.82"/>
-<text x="94" y="422" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Memory map +1 added / +1 removed · details privacy-redacted.</text>
+<text x="94" y="422" font-size="12" font-weight="400" fill="#ffffff" opacity="0.78">Memory map stable · public details redacted.</text>
   <text x="744" y="287" font-size="13" font-weight="700" fill="#ff4fd8" opacity="0.72">7-DAY SIGNAL TIMELINE</text>
   <rect x="744" y="300" width="402" height="156" rx="18" fill="rgba(3,8,20,0.62)" stroke="rgba(255,79,216,0.18)"/>
-  <rect class="bar-pulse" style="animation-delay:0.00s" x="780" y="366" width="34" height="49" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
-<circle class="pulse-dot" cx="797.0" cy="355" r="4" fill="#ff4fd8" opacity="0.82"/>
-<text x="779" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-13</text>
-<text x="788" y="358" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">16</text>
-<rect class="bar-pulse" style="animation-delay:0.16s" x="832" y="370" width="34" height="45" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
-<text x="831" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-12</text>
-<text x="840" y="362" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">14</text>
-<rect class="bar-pulse" style="animation-delay:0.32s" x="884" y="363" width="34" height="52" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
-<text x="883" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-11</text>
-<text x="892" y="355" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">17</text>
-<rect class="bar-pulse" style="animation-delay:0.48s" x="936" y="372" width="34" height="43" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
-<text x="935" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-10</text>
-<text x="944" y="364" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">13</text>
-<rect class="bar-pulse" style="animation-delay:0.64s" x="988" y="327" width="34" height="88" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
-<text x="987" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-09</text>
-<text x="996" y="319" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">33</text>
-<rect class="bar-pulse" style="animation-delay:0.80s" x="1040" y="352" width="34" height="63" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
-<text x="1039" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-08</text>
-<text x="1048" y="344" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">22</text>
+  <rect class="bar-pulse" style="animation-delay:0.00s" x="780" y="357" width="34" height="58" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
+<text x="779" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-14</text>
+<text x="788" y="349" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">20</text>
+<rect class="bar-pulse" style="animation-delay:0.16s" x="832" y="366" width="34" height="49" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
+<circle class="pulse-dot" cx="849.0" cy="355" r="4" fill="#ff4fd8" opacity="0.82"/>
+<text x="831" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-13</text>
+<text x="840" y="358" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">16</text>
+<rect class="bar-pulse" style="animation-delay:0.32s" x="884" y="370" width="34" height="45" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
+<text x="883" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-12</text>
+<text x="892" y="362" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">14</text>
+<rect class="bar-pulse" style="animation-delay:0.48s" x="936" y="363" width="34" height="52" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
+<text x="935" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-11</text>
+<text x="944" y="355" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">17</text>
+<rect class="bar-pulse" style="animation-delay:0.64s" x="988" y="372" width="34" height="43" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
+<text x="987" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-10</text>
+<text x="996" y="364" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">13</text>
+<rect class="bar-pulse" style="animation-delay:0.80s" x="1040" y="327" width="34" height="88" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
+<text x="1039" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-09</text>
+<text x="1048" y="319" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">33</text>
 <rect class="bar-pulse" style="animation-delay:0.96s" x="1092" y="352" width="34" height="63" rx="8" fill="url(#barGrad)" stroke="rgba(255,255,255,0.32)"/>
-<text x="1091" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-07</text>
+<text x="1091" y="438" font-size="8.5" font-weight="400" fill="#ffffff" opacity="0.48">08-08</text>
 <text x="1100" y="344" font-size="9.5" font-weight="600" fill="#ffffff" opacity="0.78">22</text>
-<polyline class="timeline-trace" points="780.0,334.7 837.7,337.3 895.3,333.3 953.0,338.7 1010.7,312.0 1068.3,326.7 1126.0,326.7" fill="none" stroke="#ff4fd8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.86"/>
+<polyline class="timeline-trace" points="780.0,329.3 837.7,334.7 895.3,337.3 953.0,333.3 1010.7,338.7 1068.3,312.0 1126.0,326.7" fill="none" stroke="#ff4fd8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.86"/>
 <path d="M780 356 H1126" stroke="rgba(255,255,255,0.16)"/>
   <path class="flow-line" d="M165 474 C300 438, 390 500, 526 464 S770 446, 930 474" fill="none" stroke="rgba(0,255,255,0.28)" stroke-width="1.4"/>
 <circle class="node-pulse" cx="165" cy="474" r="6" fill="#00ffff" opacity="0.76"/>
