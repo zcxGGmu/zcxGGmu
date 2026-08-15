@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Kingboard Laminates AI Ccl Fr4 Special Glass Revaluation](https://zcxggmu.github.io/2026/kingboard-laminates-ai-ccl-fr4-special-glass-revaluation/) — 2026-08-15
-- [Asia Tech Capex China Fiscal Catch Up Inflation Split](https://zcxggmu.github.io/2026/asia-tech-capex-china-fiscal-catch-up-inflation-split/) — 2026-08-15
-- [Tech National Fortune AI Capital Cycle Retail Investor](https://zcxggmu.github.io/2026/tech-national-fortune-ai-capital-cycle-retail-investor/) — 2026-08-15
-- [AI Boom Not For Ordinary People Use Existing Edge](https://zcxggmu.github.io/2026/ai-boom-not-for-ordinary-people-use-existing-edge/) — 2026-08-15
-- [National Fortune Narrative Retail Investor Discipline](https://zcxggmu.github.io/2026/national-fortune-narrative-retail-investor-discipline/) — 2026-08-15
+- [Electrolytic Aluminum Cost Power Bauxite Green Electricity](https://zcxggmu.github.io/2026/electrolytic-aluminum-cost-power-bauxite-green-electricity/) — 2026-08-15
+- [Semiconductor Equipment Parts Localization Profit Verification](https://zcxggmu.github.io/2026/semiconductor-equipment-parts-localization-profit-verification/) — 2026-08-15
+- [Indium Phosphide Substrate Shortage AI Optical Module Capacity](https://zcxggmu.github.io/2026/indium-phosphide-substrate-shortage-ai-optical-module-capacity/) — 2026-08-15
+- [Defense Sector Interim Results Contract Liabilities Delivery Cycle](https://zcxggmu.github.io/2026/defense-sector-interim-results-contract-liabilities-delivery-cycle/) — 2026-08-15
+- [Tungsten Chain Export Control AI Defense Hard Alloy](https://zcxggmu.github.io/2026/tungsten-chain-export-control-ai-defense-hard-alloy/) — 2026-08-15
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
