@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Electrolytic Aluminum Cost Power Bauxite Green Electricity](https://zcxggmu.github.io/2026/electrolytic-aluminum-cost-power-bauxite-green-electricity/) — 2026-08-15
-- [Semiconductor Equipment Parts Localization Profit Verification](https://zcxggmu.github.io/2026/semiconductor-equipment-parts-localization-profit-verification/) — 2026-08-15
-- [Indium Phosphide Substrate Shortage AI Optical Module Capacity](https://zcxggmu.github.io/2026/indium-phosphide-substrate-shortage-ai-optical-module-capacity/) — 2026-08-15
-- [Defense Sector Interim Results Contract Liabilities Delivery Cycle](https://zcxggmu.github.io/2026/defense-sector-interim-results-contract-liabilities-delivery-cycle/) — 2026-08-15
-- [Tungsten Chain Export Control AI Defense Hard Alloy](https://zcxggmu.github.io/2026/tungsten-chain-export-control-ai-defense-hard-alloy/) — 2026-08-15
+- [AI Skills Agent Infrastructure Open Source Daily 20260814](https://zcxggmu.github.io/2026/ai-skills-agent-infrastructure-open-source-daily-20260814/) — 2026-08-16
+- [DeepSeek Harness Dsh Plugin Agent Framework](https://zcxggmu.github.io/2026/deepseek-harness-dsh-plugin-agent-framework/) — 2026-08-16
+- [DeepSeek Harness Cordis Spatiotemporal Composability Runtime Agent Evolution](https://zcxggmu.github.io/2026/deepseek-harness-cordis-spatiotemporal-composability-runtime-agent-evolution/) — 2026-08-16
+- [Semiconductor Equipment Wfe Localization 100b 2028 Gap](https://zcxggmu.github.io/2026/semiconductor-equipment-wfe-localization-100b-2028-gap/) — 2026-08-16
+- [Ordinary First Pot Gold Overdraft Certainty](https://zcxggmu.github.io/2026/ordinary-first-pot-gold-overdraft-certainty/) — 2026-08-15
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
