@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [AI Skills Agent Infrastructure Open Source Daily 20260814](https://zcxggmu.github.io/2026/ai-skills-agent-infrastructure-open-source-daily-20260814/) — 2026-08-16
-- [DeepSeek Harness Dsh Plugin Agent Framework](https://zcxggmu.github.io/2026/deepseek-harness-dsh-plugin-agent-framework/) — 2026-08-16
-- [DeepSeek Harness Cordis Spatiotemporal Composability Runtime Agent Evolution](https://zcxggmu.github.io/2026/deepseek-harness-cordis-spatiotemporal-composability-runtime-agent-evolution/) — 2026-08-16
-- [Semiconductor Equipment Wfe Localization 100b 2028 Gap](https://zcxggmu.github.io/2026/semiconductor-equipment-wfe-localization-100b-2028-gap/) — 2026-08-16
-- [Ordinary First Pot Gold Overdraft Certainty](https://zcxggmu.github.io/2026/ordinary-first-pot-gold-overdraft-certainty/) — 2026-08-15
+- [DeepSeek Harness Source Permission Risk Sandbox Review](https://zcxggmu.github.io/2026/deepseek-harness-source-permission-risk-sandbox-review/) — 2026-08-16
+- [DeepSeek Harness Plugin Era AI Coding Assembly](https://zcxggmu.github.io/2026/deepseek-harness-plugin-era-ai-coding-assembly/) — 2026-08-16
+- [Population Births 792 Aging Family Cost Structure](https://zcxggmu.github.io/2026/population-births-792-aging-family-cost-structure/) — 2026-08-16
+- [Options Basics Right Obligation Contract Pricing](https://zcxggmu.github.io/2026/options-basics-right-obligation-contract-pricing/) — 2026-08-16
+- [Options Profit Curves Moneyness Spot Futures Options](https://zcxggmu.github.io/2026/options-profit-curves-moneyness-spot-futures-options/) — 2026-08-16
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
