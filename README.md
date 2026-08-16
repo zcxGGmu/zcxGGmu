@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Reform Opening History Productive Forces Distribution Dignity](https://zcxggmu.github.io/2026/reform-opening-history-productive-forces-distribution-dignity/) — 2026-08-16
+- [College Graduates Employment Hardship High Quality Work Dignity](https://zcxggmu.github.io/2026/college-graduates-employment-hardship-high-quality-work-dignity/) — 2026-08-16
 - [DeepSeek Harness Source Permission Risk Sandbox Review](https://zcxggmu.github.io/2026/deepseek-harness-source-permission-risk-sandbox-review/) — 2026-08-16
 - [DeepSeek Harness Plugin Era AI Coding Assembly](https://zcxggmu.github.io/2026/deepseek-harness-plugin-era-ai-coding-assembly/) — 2026-08-16
 - [Population Births 792 Aging Family Cost Structure](https://zcxggmu.github.io/2026/population-births-792-aging-family-cost-structure/) — 2026-08-16
-- [Options Basics Right Obligation Contract Pricing](https://zcxggmu.github.io/2026/options-basics-right-obligation-contract-pricing/) — 2026-08-16
-- [Options Profit Curves Moneyness Spot Futures Options](https://zcxggmu.github.io/2026/options-profit-curves-moneyness-spot-futures-options/) — 2026-08-16
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
