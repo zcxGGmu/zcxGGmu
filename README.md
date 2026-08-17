@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Reform Opening History Productive Forces Distribution Dignity](https://zcxggmu.github.io/2026/reform-opening-history-productive-forces-distribution-dignity/) — 2026-08-16
-- [College Graduates Employment Hardship High Quality Work Dignity](https://zcxggmu.github.io/2026/college-graduates-employment-hardship-high-quality-work-dignity/) — 2026-08-16
-- [DeepSeek Harness Source Permission Risk Sandbox Review](https://zcxggmu.github.io/2026/deepseek-harness-source-permission-risk-sandbox-review/) — 2026-08-16
-- [DeepSeek Harness Plugin Era AI Coding Assembly](https://zcxggmu.github.io/2026/deepseek-harness-plugin-era-ai-coding-assembly/) — 2026-08-16
-- [Population Births 792 Aging Family Cost Structure](https://zcxggmu.github.io/2026/population-births-792-aging-family-cost-structure/) — 2026-08-16
+- [Minimax H3 Open Model AI Short Drama Cost Workflow](https://zcxggmu.github.io/2026/minimax-h3-open-model-ai-short-drama-cost-workflow/) — 2026-08-17
+- [Optical Communication Upstream AI Interconnect Policy Resilience](https://zcxggmu.github.io/2026/optical-communication-upstream-ai-interconnect-policy-resilience/) — 2026-08-17
+- [Compute Metals Call Option Tin Tungsten Tantalum Indium Molybdenum](https://zcxggmu.github.io/2026/compute-metals-call-option-tin-tungsten-tantalum-indium-molybdenum/) — 2026-08-17
+- [Aigc Broad Publishing Callable Content Task Results](https://zcxggmu.github.io/2026/aigc-broad-publishing-callable-content-task-results/) — 2026-08-17
+- [AI Macro Economics Productivity Distribution Investment Cycle](https://zcxggmu.github.io/2026/ai-macro-economics-productivity-distribution-investment-cycle/) — 2026-08-17
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
