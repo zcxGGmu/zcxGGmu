@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Minimax H3 Open Model AI Short Drama Cost Workflow](https://zcxggmu.github.io/2026/minimax-h3-open-model-ai-short-drama-cost-workflow/) — 2026-08-17
-- [Optical Communication Upstream AI Interconnect Policy Resilience](https://zcxggmu.github.io/2026/optical-communication-upstream-ai-interconnect-policy-resilience/) — 2026-08-17
-- [Compute Metals Call Option Tin Tungsten Tantalum Indium Molybdenum](https://zcxggmu.github.io/2026/compute-metals-call-option-tin-tungsten-tantalum-indium-molybdenum/) — 2026-08-17
-- [Aigc Broad Publishing Callable Content Task Results](https://zcxggmu.github.io/2026/aigc-broad-publishing-callable-content-task-results/) — 2026-08-17
-- [AI Macro Economics Productivity Distribution Investment Cycle](https://zcxggmu.github.io/2026/ai-macro-economics-productivity-distribution-investment-cycle/) — 2026-08-17
+- [Generation Burden East Asia Catch Up Population Dividend](https://zcxggmu.github.io/2026/generation-burden-east-asia-catch-up-population-dividend/) — 2026-08-18
+- [Tech Domestic Demand AI Second Half Policy Hefei Market](https://zcxggmu.github.io/2026/tech-domestic-demand-ai-second-half-policy-hefei-market/) — 2026-08-17
+- [Market Four Contradictions Fed Property AI Jobs Dollar Liquidity](https://zcxggmu.github.io/2026/market-four-contradictions-fed-property-ai-jobs-dollar-liquidity/) — 2026-08-17
+- [Copper Inventory Reversal Supply Gap Restocking Cycle](https://zcxggmu.github.io/2026/copper-inventory-reversal-supply-gap-restocking-cycle/) — 2026-08-17
+- [Prime Agent Rlm Continual Harness Self Improving Coding Agent](https://zcxggmu.github.io/2026/prime-agent-rlm-continual-harness-self-improving-coding-agent/) — 2026-08-17
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
