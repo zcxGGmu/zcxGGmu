@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Minimax H3 Open Model AI Short Drama Cost Workflow](https://zcxggmu.github.io/2026/minimax-h3-open-model-ai-short-drama-cost-workflow/) — 2026-08-17
-- [Optical Communication Upstream AI Interconnect Policy Resilience](https://zcxggmu.github.io/2026/optical-communication-upstream-ai-interconnect-policy-resilience/) — 2026-08-17
-- [Compute Metals Call Option Tin Tungsten Tantalum Indium Molybdenum](https://zcxggmu.github.io/2026/compute-metals-call-option-tin-tungsten-tantalum-indium-molybdenum/) — 2026-08-17
-- [Aigc Broad Publishing Callable Content Task Results](https://zcxggmu.github.io/2026/aigc-broad-publishing-callable-content-task-results/) — 2026-08-17
-- [AI Macro Economics Productivity Distribution Investment Cycle](https://zcxggmu.github.io/2026/ai-macro-economics-productivity-distribution-investment-cycle/) — 2026-08-17
+- [Hermes Agent Memory Background Tasks Model Routing Local Os](https://zcxggmu.github.io/2026/hermes-agent-memory-background-tasks-model-routing-local-os/) — 2026-08-18
+- [Shengyi Technology AI Ccl Citi Target Price Growth Risk](https://zcxggmu.github.io/2026/shengyi-technology-ai-ccl-citi-target-price-growth-risk/) — 2026-08-18
+- [Development Model Shift Middle Class Consumption Self Preservation](https://zcxggmu.github.io/2026/development-model-shift-middle-class-consumption-self-preservation/) — 2026-08-18
+- [Index Fund Compound Interest Early Retirement Investing Guide](https://zcxggmu.github.io/2026/index-fund-compound-interest-early-retirement-investing-guide/) — 2026-08-18
+- [Lithium Carbonate Supply Gap Inventory Draw High Price Cycle](https://zcxggmu.github.io/2026/lithium-carbonate-supply-gap-inventory-draw-high-price-cycle/) — 2026-08-18
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
