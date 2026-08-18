@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Lithium Carbonate Supply Gap Inventory Draw High Price Cycle](https://zcxggmu.github.io/2026/lithium-carbonate-supply-gap-inventory-draw-high-price-cycle/) — 2026-08-18
+- [Compute Leasing Token Factory Model Profit Inflection](https://zcxggmu.github.io/2026/compute-leasing-token-factory-model-profit-inflection/) — 2026-08-18
+- [AI Agent Ecosystem Runtime Skills Memory Governance 20260817](https://zcxggmu.github.io/2026/ai-agent-ecosystem-runtime-skills-memory-governance-20260817/) — 2026-08-18
+- [Github AI Agent Trending Diagram Design Prime Agent Semantica 20260816](https://zcxggmu.github.io/2026/github-ai-agent-trending-diagram-design-prime-agent-semantica-20260816/) — 2026-08-18
 - [Generation Burden East Asia Catch Up Population Dividend](https://zcxggmu.github.io/2026/generation-burden-east-asia-catch-up-population-dividend/) — 2026-08-18
-- [Tech Domestic Demand AI Second Half Policy Hefei Market](https://zcxggmu.github.io/2026/tech-domestic-demand-ai-second-half-policy-hefei-market/) — 2026-08-17
-- [Market Four Contradictions Fed Property AI Jobs Dollar Liquidity](https://zcxggmu.github.io/2026/market-four-contradictions-fed-property-ai-jobs-dollar-liquidity/) — 2026-08-17
-- [Copper Inventory Reversal Supply Gap Restocking Cycle](https://zcxggmu.github.io/2026/copper-inventory-reversal-supply-gap-restocking-cycle/) — 2026-08-17
-- [Prime Agent Rlm Continual Harness Self Improving Coding Agent](https://zcxggmu.github.io/2026/prime-agent-rlm-continual-harness-self-improving-coding-agent/) — 2026-08-17
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
