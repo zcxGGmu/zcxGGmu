@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [AI Skills Agent Fullstack Open Source Daily 20260818](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260818/) — 2026-08-19
+- [Prime Agent Long Running Multi Agent Workflow Analysis](https://zcxggmu.github.io/2026/prime-agent-long-running-multi-agent-workflow-analysis/) — 2026-08-19
 - [Hermes Agent Memory Background Tasks Model Routing Local Os](https://zcxggmu.github.io/2026/hermes-agent-memory-background-tasks-model-routing-local-os/) — 2026-08-18
 - [Shengyi Technology AI Ccl Citi Target Price Growth Risk](https://zcxggmu.github.io/2026/shengyi-technology-ai-ccl-citi-target-price-growth-risk/) — 2026-08-18
 - [Development Model Shift Middle Class Consumption Self Preservation](https://zcxggmu.github.io/2026/development-model-shift-middle-class-consumption-self-preservation/) — 2026-08-18
-- [Index Fund Compound Interest Early Retirement Investing Guide](https://zcxggmu.github.io/2026/index-fund-compound-interest-early-retirement-investing-guide/) — 2026-08-18
-- [Lithium Carbonate Supply Gap Inventory Draw High Price Cycle](https://zcxggmu.github.io/2026/lithium-carbonate-supply-gap-inventory-draw-high-price-cycle/) — 2026-08-18
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
