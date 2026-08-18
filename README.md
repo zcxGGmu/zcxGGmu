@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Lithium Carbonate Supply Gap Inventory Draw High Price Cycle](https://zcxggmu.github.io/2026/lithium-carbonate-supply-gap-inventory-draw-high-price-cycle/) — 2026-08-18
-- [Compute Leasing Token Factory Model Profit Inflection](https://zcxggmu.github.io/2026/compute-leasing-token-factory-model-profit-inflection/) — 2026-08-18
-- [AI Agent Ecosystem Runtime Skills Memory Governance 20260817](https://zcxggmu.github.io/2026/ai-agent-ecosystem-runtime-skills-memory-governance-20260817/) — 2026-08-18
-- [Github AI Agent Trending Diagram Design Prime Agent Semantica 20260816](https://zcxggmu.github.io/2026/github-ai-agent-trending-diagram-design-prime-agent-semantica-20260816/) — 2026-08-18
-- [Generation Burden East Asia Catch Up Population Dividend](https://zcxggmu.github.io/2026/generation-burden-east-asia-catch-up-population-dividend/) — 2026-08-18
+- [Minimax H3 Open Model AI Short Drama Cost Workflow](https://zcxggmu.github.io/2026/minimax-h3-open-model-ai-short-drama-cost-workflow/) — 2026-08-17
+- [Optical Communication Upstream AI Interconnect Policy Resilience](https://zcxggmu.github.io/2026/optical-communication-upstream-ai-interconnect-policy-resilience/) — 2026-08-17
+- [Compute Metals Call Option Tin Tungsten Tantalum Indium Molybdenum](https://zcxggmu.github.io/2026/compute-metals-call-option-tin-tungsten-tantalum-indium-molybdenum/) — 2026-08-17
+- [Aigc Broad Publishing Callable Content Task Results](https://zcxggmu.github.io/2026/aigc-broad-publishing-callable-content-task-results/) — 2026-08-17
+- [AI Macro Economics Productivity Distribution Investment Cycle](https://zcxggmu.github.io/2026/ai-macro-economics-productivity-distribution-investment-cycle/) — 2026-08-17
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260818060057">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260819060126">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-08-18 06:00 CST; archive date `2026-08-17`.
-- **Skills:** 189 tracked / 181 active; today `+0 Δ13 -0`; activity `+117`, patches `+8`.
+- **Latest snapshot:** 2026-08-19 06:01 CST; archive date `2026-08-18`.
+- **Skills:** 189 tracked / 181 active; today `+0 Δ13 -0`; activity `+111`, patches `+2`.
 - **Memory:** 15 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** Δ scheduled-pr-feedback-maintenance · patch +8, use +11, view +3; Δ code-review-and-quality · use +6
+- **Signal:** Δ scheduled-pr-feedback-maintenance · patch +2, use +12, view +4; Δ code-review-and-quality · use +6
 <!-- hermes_evolution ends -->
 
