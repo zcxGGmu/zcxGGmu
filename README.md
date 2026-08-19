@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Antifragile Chaos Wild Growth](https://zcxggmu.github.io/2026/antifragile-chaos-wild-growth/) — 2026-08-19
-- [Marriage Retreat 90s Divorce Ratio](https://zcxggmu.github.io/2026/marriage-retreat-90s-divorce-ratio/) — 2026-08-19
-- [AI Skills Agent Fullstack Open Source Daily 20260818](https://zcxggmu.github.io/2026/ai-skills-agent-fullstack-open-source-daily-20260818/) — 2026-08-19
-- [Prime Agent Long Running Multi Agent Workflow Analysis](https://zcxggmu.github.io/2026/prime-agent-long-running-multi-agent-workflow-analysis/) — 2026-08-19
-- [Hermes Agent Memory Background Tasks Model Routing Local Os](https://zcxggmu.github.io/2026/hermes-agent-memory-background-tasks-model-routing-local-os/) — 2026-08-18
+- [Diagram Design 27 Editorial Diagram Types AI Visualization](https://zcxggmu.github.io/2026/diagram-design-27-editorial-diagram-types-ai-visualization/) — 2026-08-20
+- [Housing Provident Fund Real Estate Financialization Wealth Transfer](https://zcxggmu.github.io/2026/housing-provident-fund-real-estate-financialization-wealth-transfer/) — 2026-08-20
+- [Picc Property Casualty Insurance Float Roe Valuation](https://zcxggmu.github.io/2026/picc-property-casualty-insurance-float-roe-valuation/) — 2026-08-20
+- [AI Hard Tech Investment Cloud Semiconductor Packaging Optical](https://zcxggmu.github.io/2026/ai-hard-tech-investment-cloud-semiconductor-packaging-optical/) — 2026-08-20
+- [Buffett Munger Thinking Learning Real Business Cases](https://zcxggmu.github.io/2026/buffett-munger-thinking-learning-real-business-cases/) — 2026-08-20
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
