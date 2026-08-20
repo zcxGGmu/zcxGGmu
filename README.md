@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Semantica Accountable AI Context Decision Provenance](https://zcxggmu.github.io/2026/semantica-accountable-ai-context-decision-provenance/) — 2026-08-21
 - [Marriage Script Loosening Men Women Cost Account](https://zcxggmu.github.io/2026/marriage-script-loosening-men-women-cost-account/) — 2026-08-20
 - [High Salary Marriage Market Choice Rights](https://zcxggmu.github.io/2026/high-salary-marriage-market-choice-rights/) — 2026-08-20
 - [Diagram Design 27 Editorial Diagram Types AI Visualization](https://zcxggmu.github.io/2026/diagram-design-27-editorial-diagram-types-ai-visualization/) — 2026-08-20
 - [Housing Provident Fund Real Estate Financialization Wealth Transfer](https://zcxggmu.github.io/2026/housing-provident-fund-real-estate-financialization-wealth-transfer/) — 2026-08-20
-- [Picc Property Casualty Insurance Float Roe Valuation](https://zcxggmu.github.io/2026/picc-property-casualty-insurance-float-roe-valuation/) — 2026-08-20
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
