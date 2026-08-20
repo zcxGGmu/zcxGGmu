@@ -17,7 +17,7 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **208 PRs** across **31 projects** — 🟢 110 open · ✅ 17 merged · ⚪ 81 closed
+- **Status**: **208 PRs** across **31 projects** — 🟢 109 open · ✅ 17 merged · ⚪ 82 closed
 - **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (27 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Marriage Script Loosening Men Women Cost Account](https://zcxggmu.github.io/2026/marriage-script-loosening-men-women-cost-account/) — 2026-08-20
+- [High Salary Marriage Market Choice Rights](https://zcxggmu.github.io/2026/high-salary-marriage-market-choice-rights/) — 2026-08-20
 - [Diagram Design 27 Editorial Diagram Types AI Visualization](https://zcxggmu.github.io/2026/diagram-design-27-editorial-diagram-types-ai-visualization/) — 2026-08-20
 - [Housing Provident Fund Real Estate Financialization Wealth Transfer](https://zcxggmu.github.io/2026/housing-provident-fund-real-estate-financialization-wealth-transfer/) — 2026-08-20
 - [Picc Property Casualty Insurance Float Roe Valuation](https://zcxggmu.github.io/2026/picc-property-casualty-insurance-float-roe-valuation/) — 2026-08-20
-- [AI Hard Tech Investment Cloud Semiconductor Packaging Optical](https://zcxggmu.github.io/2026/ai-hard-tech-investment-cloud-semiconductor-packaging-optical/) — 2026-08-20
-- [Buffett Munger Thinking Learning Real Business Cases](https://zcxggmu.github.io/2026/buffett-munger-thinking-learning-real-business-cases/) — 2026-08-20
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
