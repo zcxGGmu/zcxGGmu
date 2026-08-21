@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Montage Technology Memory Interface Chip Valuation Safety Margin](https://zcxggmu.github.io/2026/montage-technology-memory-interface-chip-valuation-safety-margin/) — 2026-08-21
-- [Bank Of Ningbo Quality Bank Low Valuation Risk Analysis](https://zcxggmu.github.io/2026/bank-of-ningbo-quality-bank-low-valuation-risk-analysis/) — 2026-08-21
-- [Us Debt 40 Trillion Fiscal Interest Rate Endgame](https://zcxggmu.github.io/2026/us-debt-40-trillion-fiscal-interest-rate-endgame/) — 2026-08-21
-- [Population Decline Real Estate Long Cycle Demand Turning Point](https://zcxggmu.github.io/2026/population-decline-real-estate-long-cycle-demand-turning-point/) — 2026-08-21
-- [Semantica Accountable AI Context Decision Provenance](https://zcxggmu.github.io/2026/semantica-accountable-ai-context-decision-provenance/) — 2026-08-21
+- [Wuxi Three Brothers Apptec Biologics Xdc Cxo Map](https://zcxggmu.github.io/2026/wuxi-three-brothers-apptec-biologics-xdc-cxo-map/) — 2026-08-21
+- [AI Capex Boom Token Cost Application Roi Investment Framework](https://zcxggmu.github.io/2026/ai-capex-boom-token-cost-application-roi-investment-framework/) — 2026-08-21
+- [Goldman AI Labor Market Impact Four Industries Entry Level Workers](https://zcxggmu.github.io/2026/goldman-ai-labor-market-impact-four-industries-entry-level-workers/) — 2026-08-21
+- [Mrna Cancer Vaccine Phase Iii Domestic Supply Chain Repricing](https://zcxggmu.github.io/2026/mrna-cancer-vaccine-phase-iii-domestic-supply-chain-repricing/) — 2026-08-21
+- [Unitree Rare Earth Optimus Humanoid Robot Mass Production Race](https://zcxggmu.github.io/2026/unitree-rare-earth-optimus-humanoid-robot-mass-production-race/) — 2026-08-21
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
