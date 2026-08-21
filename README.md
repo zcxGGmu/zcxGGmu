@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Montage Technology Memory Interface Chip Valuation Safety Margin](https://zcxggmu.github.io/2026/montage-technology-memory-interface-chip-valuation-safety-margin/) — 2026-08-21
+- [Bank Of Ningbo Quality Bank Low Valuation Risk Analysis](https://zcxggmu.github.io/2026/bank-of-ningbo-quality-bank-low-valuation-risk-analysis/) — 2026-08-21
+- [Us Debt 40 Trillion Fiscal Interest Rate Endgame](https://zcxggmu.github.io/2026/us-debt-40-trillion-fiscal-interest-rate-endgame/) — 2026-08-21
+- [Population Decline Real Estate Long Cycle Demand Turning Point](https://zcxggmu.github.io/2026/population-decline-real-estate-long-cycle-demand-turning-point/) — 2026-08-21
 - [Semantica Accountable AI Context Decision Provenance](https://zcxggmu.github.io/2026/semantica-accountable-ai-context-decision-provenance/) — 2026-08-21
-- [Marriage Script Loosening Men Women Cost Account](https://zcxggmu.github.io/2026/marriage-script-loosening-men-women-cost-account/) — 2026-08-20
-- [High Salary Marriage Market Choice Rights](https://zcxggmu.github.io/2026/high-salary-marriage-market-choice-rights/) — 2026-08-20
-- [Diagram Design 27 Editorial Diagram Types AI Visualization](https://zcxggmu.github.io/2026/diagram-design-27-editorial-diagram-types-ai-visualization/) — 2026-08-20
-- [Housing Provident Fund Real Estate Financialization Wealth Transfer](https://zcxggmu.github.io/2026/housing-provident-fund-real-estate-financialization-wealth-transfer/) — 2026-08-20
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
