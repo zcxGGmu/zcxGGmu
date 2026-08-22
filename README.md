@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Technology Revolutions Financial Bubbles New Economic Paradigm](https://zcxggmu.github.io/2026/technology-revolutions-financial-bubbles-new-economic-paradigm/) — 2026-08-22
+- [Us Treasury Long Bond Buybacks Curve Distortion Next Stage](https://zcxggmu.github.io/2026/us-treasury-long-bond-buybacks-curve-distortion-next-stage/) — 2026-08-22
+- [Beijing Stock Exchange Four Board Structure Niche Champions Valuation Repair](https://zcxggmu.github.io/2026/beijing-stock-exchange-four-board-structure-niche-champions-valuation-repair/) — 2026-08-22
+- [Unigroup Guoxin Micro Special Ic Fpga Smart Security Valuation](https://zcxggmu.github.io/2026/unigroup-guoxin-micro-special-ic-fpga-smart-security-valuation/) — 2026-08-22
 - [Kangbo Cycle Depression Vs Recovery Institutional Debate](https://zcxggmu.github.io/2026/kangbo-cycle-depression-vs-recovery-institutional-debate/) — 2026-08-22
-- [Tungsten Supply Demand Gap Price Center Resource Revaluation](https://zcxggmu.github.io/2026/tungsten-supply-demand-gap-price-center-resource-revaluation/) — 2026-08-22
-- [Rockchip Aiot Chip Leader Or Design Service Company](https://zcxggmu.github.io/2026/rockchip-aiot-chip-leader-or-design-service-company/) — 2026-08-22
-- [Zoomlion Diversification Cycle Stock Valuation Repricing](https://zcxggmu.github.io/2026/zoomlion-diversification-cycle-stock-valuation-repricing/) — 2026-08-22
-- [Us AI Double Bubble Internet 2000 Subprime 2008](https://zcxggmu.github.io/2026/us-ai-double-bubble-internet-2000-subprime-2008/) — 2026-08-22
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
