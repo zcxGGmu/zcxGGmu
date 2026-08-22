@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Wuxi Three Brothers Apptec Biologics Xdc Cxo Map](https://zcxggmu.github.io/2026/wuxi-three-brothers-apptec-biologics-xdc-cxo-map/) — 2026-08-21
-- [AI Capex Boom Token Cost Application Roi Investment Framework](https://zcxggmu.github.io/2026/ai-capex-boom-token-cost-application-roi-investment-framework/) — 2026-08-21
-- [Goldman AI Labor Market Impact Four Industries Entry Level Workers](https://zcxggmu.github.io/2026/goldman-ai-labor-market-impact-four-industries-entry-level-workers/) — 2026-08-21
-- [Mrna Cancer Vaccine Phase Iii Domestic Supply Chain Repricing](https://zcxggmu.github.io/2026/mrna-cancer-vaccine-phase-iii-domestic-supply-chain-repricing/) — 2026-08-21
-- [Unitree Rare Earth Optimus Humanoid Robot Mass Production Race](https://zcxggmu.github.io/2026/unitree-rare-earth-optimus-humanoid-robot-mass-production-race/) — 2026-08-21
+- [Kangbo Cycle Depression Vs Recovery Institutional Debate](https://zcxggmu.github.io/2026/kangbo-cycle-depression-vs-recovery-institutional-debate/) — 2026-08-22
+- [Tungsten Supply Demand Gap Price Center Resource Revaluation](https://zcxggmu.github.io/2026/tungsten-supply-demand-gap-price-center-resource-revaluation/) — 2026-08-22
+- [Rockchip Aiot Chip Leader Or Design Service Company](https://zcxggmu.github.io/2026/rockchip-aiot-chip-leader-or-design-service-company/) — 2026-08-22
+- [Zoomlion Diversification Cycle Stock Valuation Repricing](https://zcxggmu.github.io/2026/zoomlion-diversification-cycle-stock-valuation-repricing/) — 2026-08-22
+- [Us AI Double Bubble Internet 2000 Subprime 2008](https://zcxggmu.github.io/2026/us-ai-double-bubble-internet-2000-subprime-2008/) — 2026-08-22
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
