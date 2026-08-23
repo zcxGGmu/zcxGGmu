@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Skill Compound Return Language Self Investment](https://zcxggmu.github.io/2026/skill-compound-return-language-self-investment/) — 2026-08-23
+- [Lifespan Economics Time Allocation Life Experience](https://zcxggmu.github.io/2026/lifespan-economics-time-allocation-life-experience/) — 2026-08-23
+- [Do Not Rush House Car Marriage Child Young People](https://zcxggmu.github.io/2026/do-not-rush-house-car-marriage-child-young-people/) — 2026-08-23
 - [Technology Revolutions Financial Bubbles New Economic Paradigm](https://zcxggmu.github.io/2026/technology-revolutions-financial-bubbles-new-economic-paradigm/) — 2026-08-22
 - [Us Treasury Long Bond Buybacks Curve Distortion Next Stage](https://zcxggmu.github.io/2026/us-treasury-long-bond-buybacks-curve-distortion-next-stage/) — 2026-08-22
-- [Beijing Stock Exchange Four Board Structure Niche Champions Valuation Repair](https://zcxggmu.github.io/2026/beijing-stock-exchange-four-board-structure-niche-champions-valuation-repair/) — 2026-08-22
-- [Unigroup Guoxin Micro Special Ic Fpga Smart Security Valuation](https://zcxggmu.github.io/2026/unigroup-guoxin-micro-special-ic-fpga-smart-security-valuation/) — 2026-08-22
-- [Kangbo Cycle Depression Vs Recovery Institutional Debate](https://zcxggmu.github.io/2026/kangbo-cycle-depression-vs-recovery-institutional-debate/) — 2026-08-22
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
