@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Skill Compound Return Language Self Investment](https://zcxggmu.github.io/2026/skill-compound-return-language-self-investment/) — 2026-08-23
-- [Lifespan Economics Time Allocation Life Experience](https://zcxggmu.github.io/2026/lifespan-economics-time-allocation-life-experience/) — 2026-08-23
-- [Do Not Rush House Car Marriage Child Young People](https://zcxggmu.github.io/2026/do-not-rush-house-car-marriage-child-young-people/) — 2026-08-23
-- [Technology Revolutions Financial Bubbles New Economic Paradigm](https://zcxggmu.github.io/2026/technology-revolutions-financial-bubbles-new-economic-paradigm/) — 2026-08-22
-- [Us Treasury Long Bond Buybacks Curve Distortion Next Stage](https://zcxggmu.github.io/2026/us-treasury-long-bond-buybacks-curve-distortion-next-stage/) — 2026-08-22
+- [Technology Resources Dividend Opportunities Market Strategy](https://zcxggmu.github.io/2026/technology-resources-dividend-opportunities-market-strategy/) — 2026-08-24
+- [Two Worlds Of Post 90s Wealth Concentration Flexible Employment](https://zcxggmu.github.io/2026/two-worlds-of-post-90s-wealth-concentration-flexible-employment/) — 2026-08-24
+- [Us Treasury Shock Global Markets A Share Hong Kong Response](https://zcxggmu.github.io/2026/us-treasury-shock-global-markets-a-share-hong-kong-response/) — 2026-08-24
+- [Four Turning Points A Share Second Half Market Outlook](https://zcxggmu.github.io/2026/four-turning-points-a-share-second-half-market-outlook/) — 2026-08-24
+- [Why Us Treasury Buybacks Failed Bond Market Storm](https://zcxggmu.github.io/2026/why-us-treasury-buybacks-failed-bond-market-storm/) — 2026-08-24
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
