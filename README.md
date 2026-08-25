@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Youth National Optimism Personal Pessimism Structural Framework](https://zcxggmu.github.io/2026/youth-national-optimism-personal-pessimism-structural-framework/) — 2026-08-26
+- [Productivity Improved Why Working Hours Do Not Fall](https://zcxggmu.github.io/2026/productivity-improved-why-working-hours-do-not-fall/) — 2026-08-26
+- [Why Chinese People Are So Tired Working Hours Consumption Share](https://zcxggmu.github.io/2026/why-chinese-people-are-so-tired-working-hours-consumption-share/) — 2026-08-26
+- [How Much Tax Do Chinese People Pay Fiscal Resource Structure](https://zcxggmu.github.io/2026/how-much-tax-do-chinese-people-pay-fiscal-resource-structure/) — 2026-08-26
 - [Technology Resources Dividend Opportunities Market Strategy](https://zcxggmu.github.io/2026/technology-resources-dividend-opportunities-market-strategy/) — 2026-08-24
-- [Two Worlds Of Post 90s Wealth Concentration Flexible Employment](https://zcxggmu.github.io/2026/two-worlds-of-post-90s-wealth-concentration-flexible-employment/) — 2026-08-24
-- [Us Treasury Shock Global Markets A Share Hong Kong Response](https://zcxggmu.github.io/2026/us-treasury-shock-global-markets-a-share-hong-kong-response/) — 2026-08-24
-- [Four Turning Points A Share Second Half Market Outlook](https://zcxggmu.github.io/2026/four-turning-points-a-share-second-half-market-outlook/) — 2026-08-24
-- [Why Us Treasury Buybacks Failed Bond Market Storm](https://zcxggmu.github.io/2026/why-us-treasury-buybacks-failed-bond-market-storm/) — 2026-08-24
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
