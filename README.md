@@ -17,7 +17,7 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **208 PRs** across **31 projects** — 🟢 106 open · ✅ 18 merged · ⚪ 84 closed
+- **Status**: **208 PRs** across **31 projects** — 🟢 105 open · ✅ 19 merged · ⚪ 84 closed
 - **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (27 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Six Industries Ground Level Macro Micro Employment Advice](https://zcxggmu.github.io/2026/six-industries-ground-level-macro-micro-employment-advice/) — 2026-08-28
+- [Goldman China Growth Engine Shift Long Term Risk](https://zcxggmu.github.io/2026/goldman-china-growth-engine-shift-long-term-risk/) — 2026-08-28
+- [Global Supply Chain Labor Complaints Germany Mexico Policy Shift](https://zcxggmu.github.io/2026/global-supply-chain-labor-complaints-germany-mexico-policy-shift/) — 2026-08-28
+- [Awesome Gpt Image 2 532 Cases Prompt Engineering](https://zcxggmu.github.io/2026/awesome-gpt-image-2-532-cases-prompt-engineering/) — 2026-08-28
 - [Youth National Optimism Personal Pessimism Structural Framework](https://zcxggmu.github.io/2026/youth-national-optimism-personal-pessimism-structural-framework/) — 2026-08-26
-- [Productivity Improved Why Working Hours Do Not Fall](https://zcxggmu.github.io/2026/productivity-improved-why-working-hours-do-not-fall/) — 2026-08-26
-- [Why Chinese People Are So Tired Working Hours Consumption Share](https://zcxggmu.github.io/2026/why-chinese-people-are-so-tired-working-hours-consumption-share/) — 2026-08-26
-- [How Much Tax Do Chinese People Pay Fiscal Resource Structure](https://zcxggmu.github.io/2026/how-much-tax-do-chinese-people-pay-fiscal-resource-structure/) — 2026-08-26
-- [Technology Resources Dividend Opportunities Market Strategy](https://zcxggmu.github.io/2026/technology-resources-dividend-opportunities-market-strategy/) — 2026-08-24
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
