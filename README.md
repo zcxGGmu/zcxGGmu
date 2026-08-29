@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Memory Interconnect Chip Market Position](https://zcxggmu.github.io/2026/memory-interconnect-chip-market-position/) — 2026-08-29
-- [Liquid Cooling Core Companies](https://zcxggmu.github.io/2026/liquid-cooling-core-companies/) — 2026-08-29
-- [Abf Substrate Three Companies](https://zcxggmu.github.io/2026/abf-substrate-three-companies/) — 2026-08-29
-- [Small Metals Three Companies](https://zcxggmu.github.io/2026/small-metals-three-companies/) — 2026-08-29
-- [Shenghong Technology](https://zcxggmu.github.io/2026/shenghong-technology/) — 2026-08-29
+- [Shenghong Technology Margin Capex AI Pcb](https://zcxggmu.github.io/2026/shenghong-technology-margin-capex-ai-pcb/) — 2026-08-30
+- [Kangbo Wealth Cycle Boundary](https://zcxggmu.github.io/2026/kangbo-wealth-cycle-boundary/) — 2026-08-29
+- [Kingboard AI Ccl Repricing](https://zcxggmu.github.io/2026/kingboard-ai-ccl-repricing/) — 2026-08-29
+- [Semiconductor Equipment Power Grid](https://zcxggmu.github.io/2026/semiconductor-equipment-power-grid/) — 2026-08-29
+- [Hawkish Theater Debt Inflation Market](https://zcxggmu.github.io/2026/hawkish-theater-debt-inflation-market/) — 2026-08-29
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
