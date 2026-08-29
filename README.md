@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Six Industries Ground Level Macro Micro Employment Advice](https://zcxggmu.github.io/2026/six-industries-ground-level-macro-micro-employment-advice/) — 2026-08-28
-- [Goldman China Growth Engine Shift Long Term Risk](https://zcxggmu.github.io/2026/goldman-china-growth-engine-shift-long-term-risk/) — 2026-08-28
-- [Global Supply Chain Labor Complaints Germany Mexico Policy Shift](https://zcxggmu.github.io/2026/global-supply-chain-labor-complaints-germany-mexico-policy-shift/) — 2026-08-28
-- [Awesome Gpt Image 2 532 Cases Prompt Engineering](https://zcxggmu.github.io/2026/awesome-gpt-image-2-532-cases-prompt-engineering/) — 2026-08-28
-- [Youth National Optimism Personal Pessimism Structural Framework](https://zcxggmu.github.io/2026/youth-national-optimism-personal-pessimism-structural-framework/) — 2026-08-26
+- [Memory Interconnect Chip Market Position](https://zcxggmu.github.io/2026/memory-interconnect-chip-market-position/) — 2026-08-29
+- [Liquid Cooling Core Companies](https://zcxggmu.github.io/2026/liquid-cooling-core-companies/) — 2026-08-29
+- [Abf Substrate Three Companies](https://zcxggmu.github.io/2026/abf-substrate-three-companies/) — 2026-08-29
+- [Small Metals Three Companies](https://zcxggmu.github.io/2026/small-metals-three-companies/) — 2026-08-29
+- [Shenghong Technology](https://zcxggmu.github.io/2026/shenghong-technology/) — 2026-08-29
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
