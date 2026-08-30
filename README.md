@@ -91,15 +91,15 @@ _Latest posts, refreshed with the README automation:_
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260831010217">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260831060029">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-08-31 01:02 CST; archive date `2026-08-30`.
-- **Skills:** 212 tracked / 202 active; today `+25 Δ52 -2`; activity `+1580`, patches `+9`.
+- **Latest snapshot:** 2026-08-31 06:00 CST; archive date `2026-08-30`.
+- **Skills:** 212 tracked / 202 active; today `+25 Δ52 -2`; activity `+1655`, patches `+11`.
 - **Memory:** 15 durable entries; today `+0 -0`; Memory map stable · public details redacted.
 - **Signal:** + audiocraft · new skill; + blocked-page-recovery · new skill
 <!-- hermes_evolution ends -->
