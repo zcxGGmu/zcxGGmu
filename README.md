@@ -17,7 +17,7 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **208 PRs** across **31 projects** — 🟢 105 open · ✅ 19 merged · ⚪ 84 closed
+- **Status**: **208 PRs** across **31 projects** — 🟢 110 open · ✅ 17 merged · ⚪ 81 closed
 - **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (27 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Shenghong Technology Margin Capex AI Pcb](https://zcxggmu.github.io/2026/shenghong-technology-margin-capex-ai-pcb/) — 2026-08-30
-- [Kangbo Wealth Cycle Boundary](https://zcxggmu.github.io/2026/kangbo-wealth-cycle-boundary/) — 2026-08-29
-- [Kingboard AI Ccl Repricing](https://zcxggmu.github.io/2026/kingboard-ai-ccl-repricing/) — 2026-08-29
-- [Semiconductor Equipment Power Grid](https://zcxggmu.github.io/2026/semiconductor-equipment-power-grid/) — 2026-08-29
-- [Hawkish Theater Debt Inflation Market](https://zcxggmu.github.io/2026/hawkish-theater-debt-inflation-market/) — 2026-08-29
+- [Minimax H3 Open Model AI Short Drama Cost Workflow](https://zcxggmu.github.io/2026/minimax-h3-open-model-ai-short-drama-cost-workflow/) — 2026-08-17
+- [Optical Communication Upstream AI Interconnect Policy Resilience](https://zcxggmu.github.io/2026/optical-communication-upstream-ai-interconnect-policy-resilience/) — 2026-08-17
+- [Compute Metals Call Option Tin Tungsten Tantalum Indium Molybdenum](https://zcxggmu.github.io/2026/compute-metals-call-option-tin-tungsten-tantalum-indium-molybdenum/) — 2026-08-17
+- [Aigc Broad Publishing Callable Content Task Results](https://zcxggmu.github.io/2026/aigc-broad-publishing-callable-content-task-results/) — 2026-08-17
+- [AI Macro Economics Productivity Distribution Investment Cycle](https://zcxggmu.github.io/2026/ai-macro-economics-productivity-distribution-investment-cycle/) — 2026-08-17
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260819060126">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260831005444">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-08-19 06:01 CST; archive date `2026-08-18`.
-- **Skills:** 189 tracked / 181 active; today `+0 Δ13 -0`; activity `+111`, patches `+2`.
+- **Latest snapshot:** 2026-08-31 00:54 CST; archive date `2026-08-30`.
+- **Skills:** 212 tracked / 202 active; today `+25 Δ52 -2`; activity `+1580`, patches `+9`.
 - **Memory:** 15 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** Δ scheduled-pr-feedback-maintenance · patch +2, use +12, view +4; Δ code-review-and-quality · use +6
+- **Signal:** + audiocraft · new skill; + blocked-page-recovery · new skill
 <!-- hermes_evolution ends -->
 
