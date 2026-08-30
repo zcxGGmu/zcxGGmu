@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Forty Year Mortgage Lower Payment Higher Lifetime Debt](https://zcxggmu.github.io/2026/forty-year-mortgage-lower-payment-higher-lifetime-debt/) — 2026-08-31
+- [China Low Desire Society More Severe Than Japan](https://zcxggmu.github.io/2026/china-low-desire-society-more-severe-than-japan/) — 2026-08-31
 - [Meituan Q2 Unit Economics Profit Recovery](https://zcxggmu.github.io/2026/meituan-q2-unit-economics-profit-recovery/) — 2026-08-30
 - [Shenghong Technology Margin Capex AI Pcb](https://zcxggmu.github.io/2026/shenghong-technology-margin-capex-ai-pcb/) — 2026-08-30
 - [Kangbo Wealth Cycle Boundary](https://zcxggmu.github.io/2026/kangbo-wealth-cycle-boundary/) — 2026-08-29
-- [Kingboard AI Ccl Repricing](https://zcxggmu.github.io/2026/kingboard-ai-ccl-repricing/) — 2026-08-29
-- [Semiconductor Equipment Power Grid](https://zcxggmu.github.io/2026/semiconductor-equipment-power-grid/) — 2026-08-29
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
