@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Shenghong Technology Nomura Q2 Margin Capex AI Pcb](https://zcxggmu.github.io/2026/shenghong-technology-nomura-q2-margin-capex-ai-pcb/) — 2026-08-31
-- [Poor Economics Choice Risk Policy Execution](https://zcxggmu.github.io/2026/poor-economics-choice-risk-policy-execution/) — 2026-08-31
-- [Forty Year Mortgage Lower Payment Higher Lifetime Debt](https://zcxggmu.github.io/2026/forty-year-mortgage-lower-payment-higher-lifetime-debt/) — 2026-08-31
-- [China Low Desire Society More Severe Than Japan](https://zcxggmu.github.io/2026/china-low-desire-society-more-severe-than-japan/) — 2026-08-31
 - [Meituan Q2 Unit Economics Profit Recovery](https://zcxggmu.github.io/2026/meituan-q2-unit-economics-profit-recovery/) — 2026-08-30
+- [Shenghong Technology Margin Capex AI Pcb](https://zcxggmu.github.io/2026/shenghong-technology-margin-capex-ai-pcb/) — 2026-08-30
+- [Kangbo Wealth Cycle Boundary](https://zcxggmu.github.io/2026/kangbo-wealth-cycle-boundary/) — 2026-08-29
+- [Kingboard AI Ccl Repricing](https://zcxggmu.github.io/2026/kingboard-ai-ccl-repricing/) — 2026-08-29
+- [Semiconductor Equipment Power Grid](https://zcxggmu.github.io/2026/semiconductor-equipment-power-grid/) — 2026-08-29
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260831060029">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260901060127">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-08-31 06:00 CST; archive date `2026-08-30`.
-- **Skills:** 212 tracked / 202 active; today `+25 Δ52 -2`; activity `+1655`, patches `+11`.
+- **Latest snapshot:** 2026-09-01 06:01 CST; archive date `2026-08-31`.
+- **Skills:** 212 tracked / 202 active; today `+0 Δ16 -0`; activity `+118`, patches `+1`.
 - **Memory:** 15 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** + audiocraft · new skill; + blocked-page-recovery · new skill
+- **Signal:** Δ adult-video-metadata-research · patch +1, use +6, view +6; Δ github-pr-workflow · use +16
 <!-- hermes_evolution ends -->
 
