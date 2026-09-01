@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Taste Skill Anti Slop Frontend Design System](https://zcxggmu.github.io/2026/taste-skill-anti-slop-frontend-design-system/) — 2026-09-01
 - [Shenghong Technology Nomura Q2 Margin Capex AI Pcb](https://zcxggmu.github.io/2026/shenghong-technology-nomura-q2-margin-capex-ai-pcb/) — 2026-08-31
 - [Poor Economics Choice Risk Policy Execution](https://zcxggmu.github.io/2026/poor-economics-choice-risk-policy-execution/) — 2026-08-31
 - [Forty Year Mortgage Lower Payment Higher Lifetime Debt](https://zcxggmu.github.io/2026/forty-year-mortgage-lower-payment-higher-lifetime-debt/) — 2026-08-31
 - [China Low Desire Society More Severe Than Japan](https://zcxggmu.github.io/2026/china-low-desire-society-more-severe-than-japan/) — 2026-08-31
-- [Meituan Q2 Unit Economics Profit Recovery](https://zcxggmu.github.io/2026/meituan-q2-unit-economics-profit-recovery/) — 2026-08-30
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
