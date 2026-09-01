@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Taste Skill Anti Slop Frontend Design System](https://zcxggmu.github.io/2026/taste-skill-anti-slop-frontend-design-system/) — 2026-09-01
-- [Shenghong Technology Nomura Q2 Margin Capex AI Pcb](https://zcxggmu.github.io/2026/shenghong-technology-nomura-q2-margin-capex-ai-pcb/) — 2026-08-31
-- [Poor Economics Choice Risk Policy Execution](https://zcxggmu.github.io/2026/poor-economics-choice-risk-policy-execution/) — 2026-08-31
-- [Forty Year Mortgage Lower Payment Higher Lifetime Debt](https://zcxggmu.github.io/2026/forty-year-mortgage-lower-payment-higher-lifetime-debt/) — 2026-08-31
-- [China Low Desire Society More Severe Than Japan](https://zcxggmu.github.io/2026/china-low-desire-society-more-severe-than-japan/) — 2026-08-31
+- [Kingboard Laminates AI Ccl Glass Fabric 65 Hkd](https://zcxggmu.github.io/2026/kingboard-laminates-ai-ccl-glass-fabric-65-hkd/) — 2026-09-01
+- [Montage Technology AI Demand Interconnect 2027](https://zcxggmu.github.io/2026/montage-technology-ai-demand-interconnect-2027/) — 2026-09-01
+- [Montage Technology Ddr5 Pcie Cxl Data Center Highway](https://zcxggmu.github.io/2026/montage-technology-ddr5-pcie-cxl-data-center-highway/) — 2026-09-01
+- [Shennan Circuits Pcb Ic Substrate AI Growth](https://zcxggmu.github.io/2026/shennan-circuits-pcb-ic-substrate-ai-growth/) — 2026-09-01
+- [Economic Machine Debt Credit Consumption Cycle](https://zcxggmu.github.io/2026/economic-machine-debt-credit-consumption-cycle/) — 2026-09-01
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
