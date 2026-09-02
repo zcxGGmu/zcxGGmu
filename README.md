@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Shenghong Technology Goldman Next Gen GPU Asic AI Server Pcb Q2](https://zcxggmu.github.io/2026/shenghong-technology-goldman-next-gen-gpu-asic-ai-server-pcb-q2/) — 2026-09-02
-- [Great Inflation G20 Trade Order Energy Security AI Cost Repricing](https://zcxggmu.github.io/2026/great-inflation-g20-trade-order-energy-security-ai-cost-repricing/) — 2026-09-02
-- [Dram Hbm 2027 Price Upgrade AI Memory Cycle](https://zcxggmu.github.io/2026/dram-hbm-2027-price-upgrade-ai-memory-cycle/) — 2026-09-02
-- [China Japan Lost Thirty Years Property Productivity Transition](https://zcxggmu.github.io/2026/china-japan-lost-thirty-years-property-productivity-transition/) — 2026-09-02
-- [Critical Thinking Evidence Standards Trust Verification](https://zcxggmu.github.io/2026/critical-thinking-evidence-standards-trust-verification/) — 2026-09-02
+- [Kingboard Laminates AI Ccl Glass Fabric 65 Hkd](https://zcxggmu.github.io/2026/kingboard-laminates-ai-ccl-glass-fabric-65-hkd/) — 2026-09-01
+- [Montage Technology AI Demand Interconnect 2027](https://zcxggmu.github.io/2026/montage-technology-ai-demand-interconnect-2027/) — 2026-09-01
+- [Montage Technology Ddr5 Pcie Cxl Data Center Highway](https://zcxggmu.github.io/2026/montage-technology-ddr5-pcie-cxl-data-center-highway/) — 2026-09-01
+- [Shennan Circuits Pcb Ic Substrate AI Growth](https://zcxggmu.github.io/2026/shennan-circuits-pcb-ic-substrate-ai-growth/) — 2026-09-01
+- [Economic Machine Debt Credit Consumption Cycle](https://zcxggmu.github.io/2026/economic-machine-debt-credit-consumption-cycle/) — 2026-09-01
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260902060020">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260903060123">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-09-02 06:00 CST; archive date `2026-09-01`.
-- **Skills:** 212 tracked / 185 active; today `+0 Δ30 -0`; activity `+104`, patches `+1`.
+- **Latest snapshot:** 2026-09-03 06:01 CST; archive date `2026-09-02`.
+- **Skills:** 212 tracked / 185 active; today `+0 Δ13 -0`; activity `+101`, patches `0`.
 - **Memory:** 15 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** Δ verification-before-completion · use +17, view +1; Δ github-pr-workflow · use +16
+- **Signal:** Δ github-pr-workflow · use +16; Δ test-driven-development · use +16
 <!-- hermes_evolution ends -->
 
