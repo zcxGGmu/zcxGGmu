@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [AI Job Search Local Career Workflow](https://zcxggmu.github.io/2026/ai-job-search-local-career-workflow/) — 2026-09-03
-- [Shenghong Technology Goldman Next Gen GPU Asic AI Server Pcb Q2](https://zcxggmu.github.io/2026/shenghong-technology-goldman-next-gen-gpu-asic-ai-server-pcb-q2/) — 2026-09-02
-- [Great Inflation G20 Trade Order Energy Security AI Cost Repricing](https://zcxggmu.github.io/2026/great-inflation-g20-trade-order-energy-security-ai-cost-repricing/) — 2026-09-02
-- [Dram Hbm 2027 Price Upgrade AI Memory Cycle](https://zcxggmu.github.io/2026/dram-hbm-2027-price-upgrade-ai-memory-cycle/) — 2026-09-02
-- [China Japan Lost Thirty Years Property Productivity Transition](https://zcxggmu.github.io/2026/china-japan-lost-thirty-years-property-productivity-transition/) — 2026-09-02
+- [Pcb Upgrade AI Server Single Machine Value Growth](https://zcxggmu.github.io/2026/pcb-upgrade-ai-server-single-machine-value-growth/) — 2026-09-03
+- [Shenghong Technology Q2 Goldman Nomura Bofa Debate](https://zcxggmu.github.io/2026/shenghong-technology-q2-goldman-nomura-bofa-debate/) — 2026-09-03
+- [Americas Semiconductor Upcycle Compute Demand 2028](https://zcxggmu.github.io/2026/americas-semiconductor-upcycle-compute-demand-2028/) — 2026-09-03
+- [Ordinary People Long Downcycle Strategy](https://zcxggmu.github.io/2026/ordinary-people-long-downcycle-strategy/) — 2026-09-03
+- [China Us Consumption Gap Three Adjustments](https://zcxggmu.github.io/2026/china-us-consumption-gap-three-adjustments/) — 2026-09-03
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
