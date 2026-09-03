@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Pcb Upgrade AI Server Single Machine Value Growth](https://zcxggmu.github.io/2026/pcb-upgrade-ai-server-single-machine-value-growth/) — 2026-09-03
-- [Shenghong Technology Q2 Goldman Nomura Bofa Debate](https://zcxggmu.github.io/2026/shenghong-technology-q2-goldman-nomura-bofa-debate/) — 2026-09-03
-- [Americas Semiconductor Upcycle Compute Demand 2028](https://zcxggmu.github.io/2026/americas-semiconductor-upcycle-compute-demand-2028/) — 2026-09-03
-- [Ordinary People Long Downcycle Strategy](https://zcxggmu.github.io/2026/ordinary-people-long-downcycle-strategy/) — 2026-09-03
-- [China Us Consumption Gap Three Adjustments](https://zcxggmu.github.io/2026/china-us-consumption-gap-three-adjustments/) — 2026-09-03
+- [Kingboard Laminates AI Ccl Glass Fabric 65 Hkd](https://zcxggmu.github.io/2026/kingboard-laminates-ai-ccl-glass-fabric-65-hkd/) — 2026-09-01
+- [Montage Technology AI Demand Interconnect 2027](https://zcxggmu.github.io/2026/montage-technology-ai-demand-interconnect-2027/) — 2026-09-01
+- [Montage Technology Ddr5 Pcie Cxl Data Center Highway](https://zcxggmu.github.io/2026/montage-technology-ddr5-pcie-cxl-data-center-highway/) — 2026-09-01
+- [Shennan Circuits Pcb Ic Substrate AI Growth](https://zcxggmu.github.io/2026/shennan-circuits-pcb-ic-substrate-ai-growth/) — 2026-09-01
+- [Economic Machine Debt Credit Consumption Cycle](https://zcxggmu.github.io/2026/economic-machine-debt-credit-consumption-cycle/) — 2026-09-01
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260903060123">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260904060046">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-09-03 06:01 CST; archive date `2026-09-02`.
-- **Skills:** 212 tracked / 185 active; today `+0 Δ13 -0`; activity `+101`, patches `0`.
+- **Latest snapshot:** 2026-09-04 06:00 CST; archive date `2026-09-03`.
+- **Skills:** 212 tracked / 185 active; today `+0 Δ13 -0`; activity `+71`, patches `0`.
 - **Memory:** 15 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** Δ github-pr-workflow · use +16; Δ test-driven-development · use +16
+- **Signal:** Δ github-pr-workflow · use +11; Δ scheduled-pr-feedback-maintenance · use +8, view +3
 <!-- hermes_evolution ends -->
 
