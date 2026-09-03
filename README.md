@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Kingboard Laminates AI Ccl Glass Fabric 65 Hkd](https://zcxggmu.github.io/2026/kingboard-laminates-ai-ccl-glass-fabric-65-hkd/) — 2026-09-01
-- [Montage Technology AI Demand Interconnect 2027](https://zcxggmu.github.io/2026/montage-technology-ai-demand-interconnect-2027/) — 2026-09-01
-- [Montage Technology Ddr5 Pcie Cxl Data Center Highway](https://zcxggmu.github.io/2026/montage-technology-ddr5-pcie-cxl-data-center-highway/) — 2026-09-01
-- [Shennan Circuits Pcb Ic Substrate AI Growth](https://zcxggmu.github.io/2026/shennan-circuits-pcb-ic-substrate-ai-growth/) — 2026-09-01
-- [Economic Machine Debt Credit Consumption Cycle](https://zcxggmu.github.io/2026/economic-machine-debt-credit-consumption-cycle/) — 2026-09-01
+- [Pcb Upgrade AI Server Single Machine Value Growth](https://zcxggmu.github.io/2026/pcb-upgrade-ai-server-single-machine-value-growth/) — 2026-09-03
+- [Shenghong Technology Q2 Goldman Nomura Bofa Debate](https://zcxggmu.github.io/2026/shenghong-technology-q2-goldman-nomura-bofa-debate/) — 2026-09-03
+- [Americas Semiconductor Upcycle Compute Demand 2028](https://zcxggmu.github.io/2026/americas-semiconductor-upcycle-compute-demand-2028/) — 2026-09-03
+- [Ordinary People Long Downcycle Strategy](https://zcxggmu.github.io/2026/ordinary-people-long-downcycle-strategy/) — 2026-09-03
+- [China Us Consumption Gap Three Adjustments](https://zcxggmu.github.io/2026/china-us-consumption-gap-three-adjustments/) — 2026-09-03
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
