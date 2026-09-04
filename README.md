@@ -17,8 +17,8 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **209 PRs** across **31 projects** — 🟢 105 open · ✅ 19 merged · ⚪ 85 closed
-- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (27 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
+- **Status**: **209 PRs** across **31 projects** — 🟢 104 open · ✅ 19 merged · ⚪ 86 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (26 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Voicestudio Local AI Voice Workbench](https://zcxggmu.github.io/2026/voicestudio-local-ai-voice-workbench/) — 2026-09-05
 - [Young People Intimacy Needs Love Offline Relationship](https://zcxggmu.github.io/2026/young-people-intimacy-needs-love-offline-relationship/) — 2026-09-04
 - [China Dual Speed Economy Policy Property Tech Focus](https://zcxggmu.github.io/2026/china-dual-speed-economy-policy-property-tech-focus/) — 2026-09-04
 - [China AI Infrastructure Chip Hbm System Breakthrough](https://zcxggmu.github.io/2026/china-ai-infrastructure-chip-hbm-system-breakthrough/) — 2026-09-04
 - [Kingboard Laminates AI Ccl Vertical Integration Material Bottleneck](https://zcxggmu.github.io/2026/kingboard-laminates-ai-ccl-vertical-integration-material-bottleneck/) — 2026-09-04
-- [Life Change Identity Nine Cognitive Levels](https://zcxggmu.github.io/2026/life-change-identity-nine-cognitive-levels/) — 2026-09-04
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
