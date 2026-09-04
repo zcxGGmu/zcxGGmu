@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **208 PRs** across **31 projects** — 🟢 105 open · ✅ 19 merged · ⚪ 84 closed
+- **Status**: **209 PRs** across **31 projects** — 🟢 105 open · ✅ 19 merged · ⚪ 85 closed
 - **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (27 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
+  - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
   - 🟢 [anomalyco/opencode#42092](https://github.com/anomalyco/opencode/pull/42092) — Open — fix(tool): skip plugin tools without descriptions
   - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
   - 🟢 [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Open — fix(session): extract unsupported tool media
   - 🟢 [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Open — fix(session): tolerate missing directories
-  - 🟢 [anomalyco/opencode#41132](https://github.com/anomalyco/opencode/pull/41132) — Open — fix(acp): emit plan updates for todos
 <!-- pr_activity ends -->
 
 ## Current Projects
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Openmaic Interactive Course Agent Workflow](https://zcxggmu.github.io/2026/openmaic-interactive-course-agent-workflow/) — 2026-09-04
-- [Pcb Upgrade AI Server Single Machine Value Growth](https://zcxggmu.github.io/2026/pcb-upgrade-ai-server-single-machine-value-growth/) — 2026-09-03
-- [Shenghong Technology Q2 Goldman Nomura Bofa Debate](https://zcxggmu.github.io/2026/shenghong-technology-q2-goldman-nomura-bofa-debate/) — 2026-09-03
-- [Americas Semiconductor Upcycle Compute Demand 2028](https://zcxggmu.github.io/2026/americas-semiconductor-upcycle-compute-demand-2028/) — 2026-09-03
-- [Ordinary People Long Downcycle Strategy](https://zcxggmu.github.io/2026/ordinary-people-long-downcycle-strategy/) — 2026-09-03
+- [Young People Intimacy Needs Love Offline Relationship](https://zcxggmu.github.io/2026/young-people-intimacy-needs-love-offline-relationship/) — 2026-09-04
+- [China Dual Speed Economy Policy Property Tech Focus](https://zcxggmu.github.io/2026/china-dual-speed-economy-policy-property-tech-focus/) — 2026-09-04
+- [China AI Infrastructure Chip Hbm System Breakthrough](https://zcxggmu.github.io/2026/china-ai-infrastructure-chip-hbm-system-breakthrough/) — 2026-09-04
+- [Kingboard Laminates AI Ccl Vertical Integration Material Bottleneck](https://zcxggmu.github.io/2026/kingboard-laminates-ai-ccl-vertical-integration-material-bottleneck/) — 2026-09-04
+- [Life Change Identity Nine Cognitive Levels](https://zcxggmu.github.io/2026/life-change-identity-nine-cognitive-levels/) — 2026-09-04
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
