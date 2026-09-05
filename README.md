@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Voicestudio Local AI Voice Workbench](https://zcxggmu.github.io/2026/voicestudio-local-ai-voice-workbench/) — 2026-09-05
-- [Young People Intimacy Needs Love Offline Relationship](https://zcxggmu.github.io/2026/young-people-intimacy-needs-love-offline-relationship/) — 2026-09-04
-- [China Dual Speed Economy Policy Property Tech Focus](https://zcxggmu.github.io/2026/china-dual-speed-economy-policy-property-tech-focus/) — 2026-09-04
-- [China AI Infrastructure Chip Hbm System Breakthrough](https://zcxggmu.github.io/2026/china-ai-infrastructure-chip-hbm-system-breakthrough/) — 2026-09-04
-- [Kingboard Laminates AI Ccl Vertical Integration Material Bottleneck](https://zcxggmu.github.io/2026/kingboard-laminates-ai-ccl-vertical-integration-material-bottleneck/) — 2026-09-04
+- [Wage Doubles Real Purchasing Power Free Surplus Gap](https://zcxggmu.github.io/2026/wage-doubles-real-purchasing-power-free-surplus-gap/) — 2026-09-05
+- [Life Change Identity Nine Cognitive Levels](https://zcxggmu.github.io/2026/life-change-identity-nine-cognitive-levels/) — 2026-09-05
+- [Pcb Supercycle Material Price Domestic Substitution AI Server](https://zcxggmu.github.io/2026/pcb-supercycle-material-price-domestic-substitution-ai-server/) — 2026-09-05
+- [AI Compute Power Gap Gas Turbine Hrsg Hot End Parts](https://zcxggmu.github.io/2026/ai-compute-power-gap-gas-turbine-hrsg-hot-end-parts/) — 2026-09-05
+- [Electronic Gases Memory Expansion Wf6 Argon Price Cycle](https://zcxggmu.github.io/2026/electronic-gases-memory-expansion-wf6-argon-price-cycle/) — 2026-09-05
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
