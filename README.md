@@ -17,8 +17,8 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **209 PRs** across **31 projects** — 🟢 104 open · ✅ 19 merged · ⚪ 86 closed
-- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (26 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
+- **Status**: **209 PRs** across **31 projects** — 🟢 101 open · ✅ 19 merged · ⚪ 89 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (23 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Wage Doubles Real Purchasing Power Free Surplus Gap](https://zcxggmu.github.io/2026/wage-doubles-real-purchasing-power-free-surplus-gap/) — 2026-09-05
-- [Life Change Identity Nine Cognitive Levels](https://zcxggmu.github.io/2026/life-change-identity-nine-cognitive-levels/) — 2026-09-05
-- [Pcb Supercycle Material Price Domestic Substitution AI Server](https://zcxggmu.github.io/2026/pcb-supercycle-material-price-domestic-substitution-ai-server/) — 2026-09-05
-- [AI Compute Power Gap Gas Turbine Hrsg Hot End Parts](https://zcxggmu.github.io/2026/ai-compute-power-gap-gas-turbine-hrsg-hot-end-parts/) — 2026-09-05
-- [Electronic Gases Memory Expansion Wf6 Argon Price Cycle](https://zcxggmu.github.io/2026/electronic-gases-memory-expansion-wf6-argon-price-cycle/) — 2026-09-05
+- [Money Psychology Wealth Human Nature Time Freedom](https://zcxggmu.github.io/2026/money-psychology-wealth-human-nature-time-freedom/) — 2026-09-06
+- [Island Economics Fish Capital Money Debt Crisis](https://zcxggmu.github.io/2026/island-economics-fish-capital-money-debt-crisis/) — 2026-09-06
+- [Company Valuation China Framework Price Value Dcf](https://zcxggmu.github.io/2026/company-valuation-china-framework-price-value-dcf/) — 2026-09-06
+- [Rich Dad Poor Dad China Wealth Action Map Risk Correction](https://zcxggmu.github.io/2026/rich-dad-poor-dad-china-wealth-action-map-risk-correction/) — 2026-09-06
+- [G20 19 To 1 China Manufacturing Resident Consumption Rebalance](https://zcxggmu.github.io/2026/g20-19-to-1-china-manufacturing-resident-consumption-rebalance/) — 2026-09-06
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
