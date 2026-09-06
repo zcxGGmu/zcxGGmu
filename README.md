@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Money Psychology Wealth Human Nature Time Freedom](https://zcxggmu.github.io/2026/money-psychology-wealth-human-nature-time-freedom/) — 2026-09-06
+- [Island Economics Fish Capital Money Debt Crisis](https://zcxggmu.github.io/2026/island-economics-fish-capital-money-debt-crisis/) — 2026-09-06
+- [Company Valuation China Framework Price Value Dcf](https://zcxggmu.github.io/2026/company-valuation-china-framework-price-value-dcf/) — 2026-09-06
+- [Rich Dad Poor Dad China Wealth Action Map Risk Correction](https://zcxggmu.github.io/2026/rich-dad-poor-dad-china-wealth-action-map-risk-correction/) — 2026-09-06
 - [G20 19 To 1 China Manufacturing Resident Consumption Rebalance](https://zcxggmu.github.io/2026/g20-19-to-1-china-manufacturing-resident-consumption-rebalance/) — 2026-09-06
-- [AI Replaces Work Basic Income Human Purpose](https://zcxggmu.github.io/2026/ai-replaces-work-basic-income-human-purpose/) — 2026-09-06
-- [China AI Infrastructure Chip Hbm System Breakthrough](https://zcxggmu.github.io/2026/china-ai-infrastructure-chip-hbm-system-breakthrough/) — 2026-09-06
-- [Wage Doubles Real Purchasing Power Free Surplus Gap](https://zcxggmu.github.io/2026/wage-doubles-real-purchasing-power-free-surplus-gap/) — 2026-09-05
-- [Life Change Identity Nine Cognitive Levels](https://zcxggmu.github.io/2026/life-change-identity-nine-cognitive-levels/) — 2026-09-05
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
