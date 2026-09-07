@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Money Psychology Wealth Human Nature Time Freedom](https://zcxggmu.github.io/2026/money-psychology-wealth-human-nature-time-freedom/) — 2026-09-06
-- [Island Economics Fish Capital Money Debt Crisis](https://zcxggmu.github.io/2026/island-economics-fish-capital-money-debt-crisis/) — 2026-09-06
-- [Company Valuation China Framework Price Value Dcf](https://zcxggmu.github.io/2026/company-valuation-china-framework-price-value-dcf/) — 2026-09-06
-- [Rich Dad Poor Dad China Wealth Action Map Risk Correction](https://zcxggmu.github.io/2026/rich-dad-poor-dad-china-wealth-action-map-risk-correction/) — 2026-09-06
-- [G20 19 To 1 China Manufacturing Resident Consumption Rebalance](https://zcxggmu.github.io/2026/g20-19-to-1-china-manufacturing-resident-consumption-rebalance/) — 2026-09-06
+- [AI Bull Market Internet Bubble Chain Signals](https://zcxggmu.github.io/2026/ai-bull-market-internet-bubble-chain-signals/) — 2026-09-07
+- [Us Nonfarm 162k Seasonal Adjustment Rate Cut Signal](https://zcxggmu.github.io/2026/us-nonfarm-162k-seasonal-adjustment-rate-cut-signal/) — 2026-09-07
+- [Gold Investment Window Real Rates Liquidity Macro Lines](https://zcxggmu.github.io/2026/gold-investment-window-real-rates-liquidity-macro-lines/) — 2026-09-07
+- [Asset Strategy Framework Liquidity Valuation Cycle Independent Boom](https://zcxggmu.github.io/2026/asset-strategy-framework-liquidity-valuation-cycle-independent-boom/) — 2026-09-07
+- [Us Financial Fragility Strength Stock Bond Correlation Liquidity](https://zcxggmu.github.io/2026/us-financial-fragility-strength-stock-bond-correlation-liquidity/) — 2026-09-07
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
