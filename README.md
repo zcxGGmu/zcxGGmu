@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Shenghong Tech H1 2026 Rubin Expansion Valuation](https://zcxggmu.github.io/2026/shenghong-tech-h1-2026-rubin-expansion-valuation/) — 2026-09-08
-- [Yuntianhua Phosphate Cash Cow 10x Pe](https://zcxggmu.github.io/2026/yuntianhua-phosphate-cash-cow-10x-pe/) — 2026-09-08
-- [China Phosphate Industry Chain Lfp Fertilizer Glyphosate](https://zcxggmu.github.io/2026/china-phosphate-industry-chain-lfp-fertilizer-glyphosate/) — 2026-09-08
-- [A Share Tech Valuation Computing Power Layers 2026h1](https://zcxggmu.github.io/2026/a-share-tech-valuation-computing-power-layers-2026h1/) — 2026-09-08
-- [M6 AI Ccl Ptfe Basestation Chain](https://zcxggmu.github.io/2026/m6-ai-ccl-ptfe-basestation-chain/) — 2026-09-08
+- [Zhongji Innolight AI Optical Interconnect Silicon Photonics](https://zcxggmu.github.io/2026/zhongji-innolight-ai-optical-interconnect-silicon-photonics/) — 2026-09-09
+- [Montage Technology AI Memory Interface Ddr5 Mrdimm Valuation](https://zcxggmu.github.io/2026/montage-technology-ai-memory-interface-ddr5-mrdimm-valuation/) — 2026-09-09
+- [China Shipbuilding Global Leader Pctc High End Cycle](https://zcxggmu.github.io/2026/china-shipbuilding-global-leader-pctc-high-end-cycle/) — 2026-09-09
+- [Rockchip Rk3566 Embodied AI Consumer Robot Edge AI](https://zcxggmu.github.io/2026/rockchip-rk3566-embodied-ai-consumer-robot-edge-ai/) — 2026-09-09
+- [Copper New Cycle Grid AI Infrastructure Us Inventory Contango](https://zcxggmu.github.io/2026/copper-new-cycle-grid-ai-infrastructure-us-inventory-contango/) — 2026-09-09
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
