@@ -17,8 +17,8 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **209 PRs** across **31 projects** — 🟢 81 open · ✅ 19 merged · ⚪ 109 closed
-- **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 open)
+- **Status**: **209 PRs** across **31 projects** — 🟢 104 open · ✅ 19 merged · ⚪ 86 closed
+- **Active projects**: [anomalyco/opencode](https://github.com/anomalyco/opencode) (26 open), [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open)
 - **Latest PRs**:
   - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [AI Bull Market Internet Bubble Chain Signals](https://zcxggmu.github.io/2026/ai-bull-market-internet-bubble-chain-signals/) — 2026-09-07
-- [Us Nonfarm 162k Seasonal Adjustment Rate Cut Signal](https://zcxggmu.github.io/2026/us-nonfarm-162k-seasonal-adjustment-rate-cut-signal/) — 2026-09-07
-- [Gold Investment Window Real Rates Liquidity Macro Lines](https://zcxggmu.github.io/2026/gold-investment-window-real-rates-liquidity-macro-lines/) — 2026-09-07
-- [Asset Strategy Framework Liquidity Valuation Cycle Independent Boom](https://zcxggmu.github.io/2026/asset-strategy-framework-liquidity-valuation-cycle-independent-boom/) — 2026-09-07
-- [Us Financial Fragility Strength Stock Bond Correlation Liquidity](https://zcxggmu.github.io/2026/us-financial-fragility-strength-stock-bond-correlation-liquidity/) — 2026-09-07
+- [Wage Doubles Real Purchasing Power Free Surplus Gap](https://zcxggmu.github.io/2026/wage-doubles-real-purchasing-power-free-surplus-gap/) — 2026-09-05
+- [Life Change Identity Nine Cognitive Levels](https://zcxggmu.github.io/2026/life-change-identity-nine-cognitive-levels/) — 2026-09-05
+- [Pcb Supercycle Material Price Domestic Substitution AI Server](https://zcxggmu.github.io/2026/pcb-supercycle-material-price-domestic-substitution-ai-server/) — 2026-09-05
+- [AI Compute Power Gap Gas Turbine Hrsg Hot End Parts](https://zcxggmu.github.io/2026/ai-compute-power-gap-gas-turbine-hrsg-hot-end-parts/) — 2026-09-05
+- [Electronic Gases Memory Expansion Wf6 Argon Price Cycle](https://zcxggmu.github.io/2026/electronic-gases-memory-expansion-wf6-argon-price-cycle/) — 2026-09-05
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260907060202">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260908081307">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-09-07 06:02 CST; archive date `2026-09-06`.
-- **Skills:** 215 tracked / 188 active; today `+3 Δ18 -0`; activity `+75`, patches `+2`.
-- **Memory:** 17 durable entries; today `+2 -0`; Memory map +2 added / 0 removed · details privacy-redacted.
-- **Signal:** + finance-ppt-long-video-produc… · new skill; + finance-ppt-video-production · new skill
+- **Latest snapshot:** 2026-09-08 08:13 CST; archive date `2026-09-08`.
+- **Skills:** 215 tracked / 188 active; today `+0 Δ31 -0`; activity `+149`, patches `+5`.
+- **Memory:** 17 durable entries; today `+1 -1`; Memory map +1 added / +1 removed · details privacy-redacted.
+- **Signal:** Δ bilibili-content · patch +4, use +11, view +11; Δ scheduled-pr-feedback-maintenance · use +10, view +5
 <!-- hermes_evolution ends -->
 
