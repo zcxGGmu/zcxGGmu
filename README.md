@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [AI Bull Market Internet Bubble Chain Signals](https://zcxggmu.github.io/2026/ai-bull-market-internet-bubble-chain-signals/) — 2026-09-07
-- [Us Nonfarm 162k Seasonal Adjustment Rate Cut Signal](https://zcxggmu.github.io/2026/us-nonfarm-162k-seasonal-adjustment-rate-cut-signal/) — 2026-09-07
-- [Gold Investment Window Real Rates Liquidity Macro Lines](https://zcxggmu.github.io/2026/gold-investment-window-real-rates-liquidity-macro-lines/) — 2026-09-07
-- [Asset Strategy Framework Liquidity Valuation Cycle Independent Boom](https://zcxggmu.github.io/2026/asset-strategy-framework-liquidity-valuation-cycle-independent-boom/) — 2026-09-07
-- [Us Financial Fragility Strength Stock Bond Correlation Liquidity](https://zcxggmu.github.io/2026/us-financial-fragility-strength-stock-bond-correlation-liquidity/) — 2026-09-07
+- [Shenghong Tech H1 2026 Rubin Expansion Valuation](https://zcxggmu.github.io/2026/shenghong-tech-h1-2026-rubin-expansion-valuation/) — 2026-09-08
+- [Yuntianhua Phosphate Cash Cow 10x Pe](https://zcxggmu.github.io/2026/yuntianhua-phosphate-cash-cow-10x-pe/) — 2026-09-08
+- [China Phosphate Industry Chain Lfp Fertilizer Glyphosate](https://zcxggmu.github.io/2026/china-phosphate-industry-chain-lfp-fertilizer-glyphosate/) — 2026-09-08
+- [A Share Tech Valuation Computing Power Layers 2026h1](https://zcxggmu.github.io/2026/a-share-tech-valuation-computing-power-layers-2026h1/) — 2026-09-08
+- [M6 AI Ccl Ptfe Basestation Chain](https://zcxggmu.github.io/2026/m6-ai-ccl-ptfe-basestation-chain/) — 2026-09-08
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
