@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **209 PRs** across **31 projects** — 🟢 81 open · ✅ 19 merged · ⚪ 109 closed
-- **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [anomalyco/opencode](https://github.com/anomalyco/opencode) (4 open)
+- **Status**: **209 PRs** across **31 projects** — 🟢 79 open · ✅ 19 merged · ⚪ 111 closed
+- **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [run-llama/llama_index](https://github.com/run-llama/llama_index) (4 open)
 - **Latest PRs**:
   - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
   - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
   - 🟢 [anomalyco/opencode#42092](https://github.com/anomalyco/opencode/pull/42092) — Open — fix(tool): skip plugin tools without descriptions
   - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
-  - 🟢 [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Open — fix(session): extract unsupported tool media
-  - 🟢 [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Open — fix(session): tolerate missing directories
+  - ⚪ [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Closed — fix(session): extract unsupported tool media
+  - ⚪ [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Closed — fix(session): tolerate missing directories
 <!-- pr_activity ends -->
 
 ## Current Projects
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Shenghong Tech H1 2026 Rubin Expansion Valuation](https://zcxggmu.github.io/2026/shenghong-tech-h1-2026-rubin-expansion-valuation/) — 2026-09-08
-- [Yuntianhua Phosphate Cash Cow 10x Pe](https://zcxggmu.github.io/2026/yuntianhua-phosphate-cash-cow-10x-pe/) — 2026-09-08
-- [China Phosphate Industry Chain Lfp Fertilizer Glyphosate](https://zcxggmu.github.io/2026/china-phosphate-industry-chain-lfp-fertilizer-glyphosate/) — 2026-09-08
-- [A Share Tech Valuation Computing Power Layers 2026h1](https://zcxggmu.github.io/2026/a-share-tech-valuation-computing-power-layers-2026h1/) — 2026-09-08
-- [M6 AI Ccl Ptfe Basestation Chain](https://zcxggmu.github.io/2026/m6-ai-ccl-ptfe-basestation-chain/) — 2026-09-08
+- [DeepSeek Huawei Ascend 160k 18 4b Rmb Order](https://zcxggmu.github.io/2026/deepseek-huawei-ascend-160k-18-4b-rmb-order/) — 2026-09-09
+- [Qualcomm Amazon 1 6t Optical Interconnect AI Infrastructure](https://zcxggmu.github.io/2026/qualcomm-amazon-1-6t-optical-interconnect-ai-infrastructure/) — 2026-09-09
+- [AI Fiber Boom Preform Specialty Hollow Core Supply Chain](https://zcxggmu.github.io/2026/ai-fiber-boom-preform-specialty-hollow-core-supply-chain/) — 2026-09-09
+- [Social Stratification Downward Harvesting Success](https://zcxggmu.github.io/2026/social-stratification-downward-harvesting-success/) — 2026-09-09
+- [Singlehood As Structural Advantage](https://zcxggmu.github.io/2026/singlehood-as-structural-advantage/) — 2026-09-09
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
