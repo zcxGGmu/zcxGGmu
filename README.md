@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Ecc Engineering Workflow Coding Agent](https://zcxggmu.github.io/2026/ecc-engineering-workflow-coding-agent/) — 2026-09-10
 - [DeepSeek Huawei Ascend 160k 18 4b Rmb Order](https://zcxggmu.github.io/2026/deepseek-huawei-ascend-160k-18-4b-rmb-order/) — 2026-09-09
 - [Qualcomm Amazon 1 6t Optical Interconnect AI Infrastructure](https://zcxggmu.github.io/2026/qualcomm-amazon-1-6t-optical-interconnect-ai-infrastructure/) — 2026-09-09
 - [AI Fiber Boom Preform Specialty Hollow Core Supply Chain](https://zcxggmu.github.io/2026/ai-fiber-boom-preform-specialty-hollow-core-supply-chain/) — 2026-09-09
 - [Social Stratification Downward Harvesting Success](https://zcxggmu.github.io/2026/social-stratification-downward-harvesting-success/) — 2026-09-09
-- [Singlehood As Structural Advantage](https://zcxggmu.github.io/2026/singlehood-as-structural-advantage/) — 2026-09-09
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
