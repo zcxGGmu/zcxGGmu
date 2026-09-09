@@ -17,15 +17,15 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **209 PRs** across **31 projects** — 🟢 79 open · ✅ 19 merged · ⚪ 111 closed
-- **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [run-llama/llama_index](https://github.com/run-llama/llama_index) (4 open)
+- **Status**: **184 PRs** across **29 projects** — 🟢 86 open · ✅ 19 merged · ⚪ 79 closed
+- **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [run-llama/llama_index](https://github.com/run-llama/llama_index) (8 open), [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) (6 open)
 - **Latest PRs**:
   - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
-  - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
-  - 🟢 [anomalyco/opencode#42092](https://github.com/anomalyco/opencode/pull/42092) — Open — fix(tool): skip plugin tools without descriptions
   - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
-  - ⚪ [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Closed — fix(session): extract unsupported tool media
-  - ⚪ [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Closed — fix(session): tolerate missing directories
+  - 🟢 [microsoft/onnxruntime#31718](https://github.com/microsoft/onnxruntime/pull/31718) — Open — build: avoid GCC 15 array-bounds false positive failures
+  - 🟢 [microsoft/onnxruntime#31717](https://github.com/microsoft/onnxruntime/pull/31717) — Open — chore: improve Node dependency hygiene
+  - 🟢 [microsoft/onnxruntime#31716](https://github.com/microsoft/onnxruntime/pull/31716) — Open — feat: expose SetSeed in C# API
+  - 🟢 [microsoft/onnxruntime#31715](https://github.com/microsoft/onnxruntime/pull/31715) — Open — fix: normalize binary package CMake paths
 <!-- pr_activity ends -->
 
 ## Current Projects
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Zhongji Innolight AI Optical Interconnect Silicon Photonics](https://zcxggmu.github.io/2026/zhongji-innolight-ai-optical-interconnect-silicon-photonics/) — 2026-09-09
-- [Montage Technology AI Memory Interface Ddr5 Mrdimm Valuation](https://zcxggmu.github.io/2026/montage-technology-ai-memory-interface-ddr5-mrdimm-valuation/) — 2026-09-09
-- [China Shipbuilding Global Leader Pctc High End Cycle](https://zcxggmu.github.io/2026/china-shipbuilding-global-leader-pctc-high-end-cycle/) — 2026-09-09
-- [Rockchip Rk3566 Embodied AI Consumer Robot Edge AI](https://zcxggmu.github.io/2026/rockchip-rk3566-embodied-ai-consumer-robot-edge-ai/) — 2026-09-09
-- [Copper New Cycle Grid AI Infrastructure Us Inventory Contango](https://zcxggmu.github.io/2026/copper-new-cycle-grid-ai-infrastructure-us-inventory-contango/) — 2026-09-09
+- [DeepSeek Huawei Ascend 160k 18 4b Rmb Order](https://zcxggmu.github.io/2026/deepseek-huawei-ascend-160k-18-4b-rmb-order/) — 2026-09-09
+- [Qualcomm Amazon 1 6t Optical Interconnect AI Infrastructure](https://zcxggmu.github.io/2026/qualcomm-amazon-1-6t-optical-interconnect-ai-infrastructure/) — 2026-09-09
+- [AI Fiber Boom Preform Specialty Hollow Core Supply Chain](https://zcxggmu.github.io/2026/ai-fiber-boom-preform-specialty-hollow-core-supply-chain/) — 2026-09-09
+- [Social Stratification Downward Harvesting Success](https://zcxggmu.github.io/2026/social-stratification-downward-harvesting-success/) — 2026-09-09
+- [Singlehood As Structural Advantage](https://zcxggmu.github.io/2026/singlehood-as-structural-advantage/) — 2026-09-09
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
