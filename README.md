@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Grok Build Codex Claude Code Coding Agent Comparison](https://zcxggmu.github.io/2026/grok-build-codex-claude-code-coding-agent-comparison/) — 2026-09-11
 - [Labor Dispatch Outsourcing Hollowed Work](https://zcxggmu.github.io/2026/labor-dispatch-outsourcing-hollowed-work/) — 2026-09-11
 - [Montage Technology Mrdimm AI Memory Bandwidth Tam](https://zcxggmu.github.io/2026/montage-technology-mrdimm-ai-memory-bandwidth-tam/) — 2026-09-11
 - [Lithium Carbonate 2023 Price Cycle Supply Demand Cost Curve Leaders](https://zcxggmu.github.io/2026/lithium-carbonate-2023-price-cycle-supply-demand-cost-curve-leaders/) — 2026-09-11
 - [Hudian Vs Shenghong AI Pcb GPU Substrate Switch Orthogonal Backplane](https://zcxggmu.github.io/2026/hudian-vs-shenghong-ai-pcb-gpu-substrate-switch-orthogonal-backplane/) — 2026-09-11
-- [Ecc Engineering Workflow Coding Agent](https://zcxggmu.github.io/2026/ecc-engineering-workflow-coding-agent/) — 2026-09-10
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
