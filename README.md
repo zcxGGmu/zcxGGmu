@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Grok Build Codex Claude Code Coding Agent Comparison](https://zcxggmu.github.io/2026/grok-build-codex-claude-code-coding-agent-comparison/) — 2026-09-11
-- [Labor Dispatch Outsourcing Hollowed Work](https://zcxggmu.github.io/2026/labor-dispatch-outsourcing-hollowed-work/) — 2026-09-11
-- [Montage Technology Mrdimm AI Memory Bandwidth Tam](https://zcxggmu.github.io/2026/montage-technology-mrdimm-ai-memory-bandwidth-tam/) — 2026-09-11
-- [Lithium Carbonate 2023 Price Cycle Supply Demand Cost Curve Leaders](https://zcxggmu.github.io/2026/lithium-carbonate-2023-price-cycle-supply-demand-cost-curve-leaders/) — 2026-09-11
-- [Hudian Vs Shenghong AI Pcb GPU Substrate Switch Orthogonal Backplane](https://zcxggmu.github.io/2026/hudian-vs-shenghong-ai-pcb-gpu-substrate-switch-orthogonal-backplane/) — 2026-09-11
+- [AI Pcb Ccl Glass Cloth Copper Foil Supply Chain](https://zcxggmu.github.io/2026/ai-pcb-ccl-glass-cloth-copper-foil-supply-chain/) — 2026-09-11
+- [AI Driven Memory Storage Cycle Hbm Ddr5 Enterprise Ssd Tight Supply](https://zcxggmu.github.io/2026/ai-driven-memory-storage-cycle-hbm-ddr5-enterprise-ssd-tight-supply/) — 2026-09-11
+- [Montage Technology Mrdimm Interface Chip 400 Target](https://zcxggmu.github.io/2026/montage-technology-mrdimm-interface-chip-400-target/) — 2026-09-11
+- [Dongshan Precision 1 6t Optical Modules Valuation Checklist](https://zcxggmu.github.io/2026/dongshan-precision-1-6t-optical-modules-valuation-checklist/) — 2026-09-11
+- [Commercial Space Profit Pool After Launch](https://zcxggmu.github.io/2026/commercial-space-profit-pool-after-launch/) — 2026-09-11
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
