@@ -17,12 +17,12 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **209 PRs** across **31 projects** — 🟢 76 open · ✅ 19 merged · ⚪ 114 closed
+- **Status**: **209 PRs** across **31 projects** — 🟢 78 open · ✅ 19 merged · ⚪ 112 closed
 - **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [run-llama/llama_index](https://github.com/run-llama/llama_index) (4 open)
 - **Latest PRs**:
   - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
-  - ⚪ [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Closed — fix(console): add cors to zen responses
-  - ⚪ [anomalyco/opencode#42092](https://github.com/anomalyco/opencode/pull/42092) — Closed — fix(tool): skip plugin tools without descriptions
+  - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
+  - 🟢 [anomalyco/opencode#42092](https://github.com/anomalyco/opencode/pull/42092) — Open — fix(tool): skip plugin tools without descriptions
   - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
   - ⚪ [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Closed — fix(session): extract unsupported tool media
   - ⚪ [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Closed — fix(session): tolerate missing directories
@@ -91,16 +91,16 @@ _Latest posts, refreshed with the README automation:_
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260913060101">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260914060208">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-09-13 06:01 CST; archive date `2026-09-12`.
-- **Skills:** 215 tracked / 141 active; today `+0 Δ13 -0`; activity `+125`, patches `0`.
+- **Latest snapshot:** 2026-09-14 06:02 CST; archive date `2026-09-13`.
+- **Skills:** 215 tracked / 141 active; today `+0 Δ13 -0`; activity `+115`, patches `0`.
 - **Memory:** 17 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** Δ scheduled-pr-feedback-maintenance · use +14, view +6; Δ github-pr-workflow · use +17, view +1
+- **Signal:** Δ scheduled-pr-feedback-maintenance · use +15, view +7; Δ github-pr-workflow · use +16
 <!-- hermes_evolution ends -->
 
