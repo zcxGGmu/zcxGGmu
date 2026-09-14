@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Gigadevice Slc Nand Ddr4 AI Supply Vacuum Gross Margin](https://zcxggmu.github.io/2026/gigadevice-slc-nand-ddr4-ai-supply-vacuum-gross-margin/) — 2026-09-13
-- [Gigadevice Goldman Specialty Dram Slc Nand Nor Flash Model](https://zcxggmu.github.io/2026/gigadevice-goldman-specialty-dram-slc-nand-nor-flash-model/) — 2026-09-13
-- [Giant Network High Dividend Supernatural Action Squad Cashflow](https://zcxggmu.github.io/2026/giant-network-high-dividend-supernatural-action-squad-cashflow/) — 2026-09-13
-- [AI Pcb Ccl Glass Cloth Copper Foil Supply Chain](https://zcxggmu.github.io/2026/ai-pcb-ccl-glass-cloth-copper-foil-supply-chain/) — 2026-09-11
-- [AI Driven Memory Storage Cycle Hbm Ddr5 Enterprise Ssd Tight Supply](https://zcxggmu.github.io/2026/ai-driven-memory-storage-cycle-hbm-ddr5-enterprise-ssd-tight-supply/) — 2026-09-11
+- [China Jushi Electronic Cloth Price Hike Valuation Cycle Bottom](https://zcxggmu.github.io/2026/china-jushi-electronic-cloth-price-hike-valuation-cycle-bottom/) — 2026-09-14
+- [Cicc Macro Weekly Fed Hike Inflation Jobs Asset Allocation](https://zcxggmu.github.io/2026/cicc-macro-weekly-fed-hike-inflation-jobs-asset-allocation/) — 2026-09-14
+- [Morgan Stanley Closed Door Tech Real Estate Tax Macro Allocation](https://zcxggmu.github.io/2026/morgan-stanley-closed-door-tech-real-estate-tax-macro-allocation/) — 2026-09-14
+- [Lithium Price Six Percent Supply Shock Inventory Cost Curve](https://zcxggmu.github.io/2026/lithium-price-six-percent-supply-shock-inventory-cost-curve/) — 2026-09-14
+- [Minor Metals Strategic Repricing AI New Energy Tantalum Tin Germanium Tungsten](https://zcxggmu.github.io/2026/minor-metals-strategic-repricing-ai-new-energy-tantalum-tin-germanium-tungsten/) — 2026-09-14
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
