@@ -17,12 +17,12 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **209 PRs** across **31 projects** — 🟢 78 open · ✅ 19 merged · ⚪ 112 closed
+- **Status**: **209 PRs** across **31 projects** — 🟢 76 open · ✅ 19 merged · ⚪ 114 closed
 - **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [run-llama/llama_index](https://github.com/run-llama/llama_index) (4 open)
 - **Latest PRs**:
   - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
-  - 🟢 [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Open — fix(console): add cors to zen responses
-  - 🟢 [anomalyco/opencode#42092](https://github.com/anomalyco/opencode/pull/42092) — Open — fix(tool): skip plugin tools without descriptions
+  - ⚪ [anomalyco/opencode#42101](https://github.com/anomalyco/opencode/pull/42101) — Closed — fix(console): add cors to zen responses
+  - ⚪ [anomalyco/opencode#42092](https://github.com/anomalyco/opencode/pull/42092) — Closed — fix(tool): skip plugin tools without descriptions
   - ✅ [aaif-goose/goose#11062](https://github.com/aaif-goose/goose/pull/11062) — Merged — fix(telegram): send responses as rich markdown
   - ⚪ [anomalyco/opencode#41196](https://github.com/anomalyco/opencode/pull/41196) — Closed — fix(session): extract unsupported tool media
   - ⚪ [anomalyco/opencode#41190](https://github.com/anomalyco/opencode/pull/41190) — Closed — fix(session): tolerate missing directories
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [AI Pcb Ccl Glass Cloth Copper Foil Supply Chain](https://zcxggmu.github.io/2026/ai-pcb-ccl-glass-cloth-copper-foil-supply-chain/) — 2026-09-11
-- [AI Driven Memory Storage Cycle Hbm Ddr5 Enterprise Ssd Tight Supply](https://zcxggmu.github.io/2026/ai-driven-memory-storage-cycle-hbm-ddr5-enterprise-ssd-tight-supply/) — 2026-09-11
-- [Montage Technology Mrdimm Interface Chip 400 Target](https://zcxggmu.github.io/2026/montage-technology-mrdimm-interface-chip-400-target/) — 2026-09-11
-- [Dongshan Precision 1 6t Optical Modules Valuation Checklist](https://zcxggmu.github.io/2026/dongshan-precision-1-6t-optical-modules-valuation-checklist/) — 2026-09-11
-- [Commercial Space Profit Pool After Launch](https://zcxggmu.github.io/2026/commercial-space-profit-pool-after-launch/) — 2026-09-11
+- [China Jushi Electronic Cloth Price Hike Valuation Cycle Bottom](https://zcxggmu.github.io/2026/china-jushi-electronic-cloth-price-hike-valuation-cycle-bottom/) — 2026-09-14
+- [Cicc Macro Weekly Fed Hike Inflation Jobs Asset Allocation](https://zcxggmu.github.io/2026/cicc-macro-weekly-fed-hike-inflation-jobs-asset-allocation/) — 2026-09-14
+- [Morgan Stanley Closed Door Tech Real Estate Tax Macro Allocation](https://zcxggmu.github.io/2026/morgan-stanley-closed-door-tech-real-estate-tax-macro-allocation/) — 2026-09-14
+- [Lithium Price Six Percent Supply Shock Inventory Cost Curve](https://zcxggmu.github.io/2026/lithium-price-six-percent-supply-shock-inventory-cost-curve/) — 2026-09-14
+- [Minor Metals Strategic Repricing AI New Energy Tantalum Tin Germanium Tungsten](https://zcxggmu.github.io/2026/minor-metals-strategic-repricing-ai-new-energy-tantalum-tin-germanium-tungsten/) — 2026-09-14
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
