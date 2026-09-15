@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [China Jushi Electronic Cloth Price Hike Valuation Cycle Bottom](https://zcxggmu.github.io/2026/china-jushi-electronic-cloth-price-hike-valuation-cycle-bottom/) — 2026-09-14
-- [Cicc Macro Weekly Fed Hike Inflation Jobs Asset Allocation](https://zcxggmu.github.io/2026/cicc-macro-weekly-fed-hike-inflation-jobs-asset-allocation/) — 2026-09-14
-- [Morgan Stanley Closed Door Tech Real Estate Tax Macro Allocation](https://zcxggmu.github.io/2026/morgan-stanley-closed-door-tech-real-estate-tax-macro-allocation/) — 2026-09-14
-- [Lithium Price Six Percent Supply Shock Inventory Cost Curve](https://zcxggmu.github.io/2026/lithium-price-six-percent-supply-shock-inventory-cost-curve/) — 2026-09-14
-- [Minor Metals Strategic Repricing AI New Energy Tantalum Tin Germanium Tungsten](https://zcxggmu.github.io/2026/minor-metals-strategic-repricing-ai-new-energy-tantalum-tin-germanium-tungsten/) — 2026-09-14
+- [Naura Storage Advanced Logic Capex Order Cycle](https://zcxggmu.github.io/2026/naura-storage-advanced-logic-capex-order-cycle/) — 2026-09-15
+- [Monthly 3000 Save 10000 First Cash Buffer](https://zcxggmu.github.io/2026/monthly-3000-save-10000-first-cash-buffer/) — 2026-09-15
+- [Happy Economy Youth Delay Housing Marriage Macro](https://zcxggmu.github.io/2026/happy-economy-youth-delay-housing-marriage-macro/) — 2026-09-15
+- [Pengding Holdings Pcb AI Server Edge Hardware Cycle](https://zcxggmu.github.io/2026/pengding-holdings-pcb-ai-server-edge-hardware-cycle/) — 2026-09-15
+- [AI Infrastructure 2027 Capex Power Grid Storage Cycle](https://zcxggmu.github.io/2026/ai-infrastructure-2027-capex-power-grid-storage-cycle/) — 2026-09-15
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
