@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Naura Storage Advanced Logic Capex Order Cycle](https://zcxggmu.github.io/2026/naura-storage-advanced-logic-capex-order-cycle/) — 2026-09-15
-- [Monthly 3000 Save 10000 First Cash Buffer](https://zcxggmu.github.io/2026/monthly-3000-save-10000-first-cash-buffer/) — 2026-09-15
-- [Happy Economy Youth Delay Housing Marriage Macro](https://zcxggmu.github.io/2026/happy-economy-youth-delay-housing-marriage-macro/) — 2026-09-15
-- [Pengding Holdings Pcb AI Server Edge Hardware Cycle](https://zcxggmu.github.io/2026/pengding-holdings-pcb-ai-server-edge-hardware-cycle/) — 2026-09-15
-- [AI Infrastructure 2027 Capex Power Grid Storage Cycle](https://zcxggmu.github.io/2026/ai-infrastructure-2027-capex-power-grid-storage-cycle/) — 2026-09-15
+- [Bull Market Loss Retail Investor Survival Framework](https://zcxggmu.github.io/2026/bull-market-loss-retail-investor-survival-framework/) — 2026-09-16
+- [Akeso Ak112 Os Target Price 125hkd Valuation Risk](https://zcxggmu.github.io/2026/akeso-ak112-os-target-price-125hkd-valuation-risk/) — 2026-09-16
+- [Pcb Monthly Price Hike AI Server Supply Cycle](https://zcxggmu.github.io/2026/pcb-monthly-price-hike-ai-server-supply-cycle/) — 2026-09-16
+- [AI Remake Viral Short Video Hypit Codex Batch Workflow](https://zcxggmu.github.io/2026/ai-remake-viral-short-video-hypit-codex-batch-workflow/) — 2026-09-16
+- [Takeout Do Not Disturb Atomized Society Neighbor Defense](https://zcxggmu.github.io/2026/takeout-do-not-disturb-atomized-society-neighbor-defense/) — 2026-09-16
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
