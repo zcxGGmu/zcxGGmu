@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Bull Market Loss Retail Investor Survival Framework](https://zcxggmu.github.io/2026/bull-market-loss-retail-investor-survival-framework/) — 2026-09-16
-- [Akeso Ak112 Os Target Price 125hkd Valuation Risk](https://zcxggmu.github.io/2026/akeso-ak112-os-target-price-125hkd-valuation-risk/) — 2026-09-16
-- [Pcb Monthly Price Hike AI Server Supply Cycle](https://zcxggmu.github.io/2026/pcb-monthly-price-hike-ai-server-supply-cycle/) — 2026-09-16
-- [AI Remake Viral Short Video Hypit Codex Batch Workflow](https://zcxggmu.github.io/2026/ai-remake-viral-short-video-hypit-codex-batch-workflow/) — 2026-09-16
-- [Takeout Do Not Disturb Atomized Society Neighbor Defense](https://zcxggmu.github.io/2026/takeout-do-not-disturb-atomized-society-neighbor-defense/) — 2026-09-16
+- [Naura Storage Advanced Logic Capex Order Cycle](https://zcxggmu.github.io/2026/naura-storage-advanced-logic-capex-order-cycle/) — 2026-09-15
+- [Monthly 3000 Save 10000 First Cash Buffer](https://zcxggmu.github.io/2026/monthly-3000-save-10000-first-cash-buffer/) — 2026-09-15
+- [Happy Economy Youth Delay Housing Marriage Macro](https://zcxggmu.github.io/2026/happy-economy-youth-delay-housing-marriage-macro/) — 2026-09-15
+- [Pengding Holdings Pcb AI Server Edge Hardware Cycle](https://zcxggmu.github.io/2026/pengding-holdings-pcb-ai-server-edge-hardware-cycle/) — 2026-09-15
+- [AI Infrastructure 2027 Capex Power Grid Storage Cycle](https://zcxggmu.github.io/2026/ai-infrastructure-2027-capex-power-grid-storage-cycle/) — 2026-09-15
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260917060150">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260918060229">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-09-17 06:01 CST; archive date `2026-09-16`.
-- **Skills:** 215 tracked / 128 active; today `+0 Δ13 -0`; activity `+139`, patches `0`.
+- **Latest snapshot:** 2026-09-18 06:02 CST; archive date `2026-09-17`.
+- **Skills:** 215 tracked / 128 active; today `+0 Δ13 -0`; activity `+105`, patches `0`.
 - **Memory:** 17 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** Δ github-pr-workflow · use +18, view +2; Δ scheduled-pr-feedback-maintenance · use +14, view +6
+- **Signal:** Δ github-pr-workflow · use +17, view +1; Δ test-driven-development · use +17, view +1
 <!-- hermes_evolution ends -->
 
