@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Catl Pricing Power Growth Reset](https://zcxggmu.github.io/2026/catl-pricing-power-growth-reset/) — 2026-09-17
-- [Japan Adult Service Industry Institutions Loneliness Economy](https://zcxggmu.github.io/2026/japan-adult-service-industry-institutions-loneliness-economy/) — 2026-09-17
-- [Haohua Technology AI Storage Fluorochemical Materials](https://zcxggmu.github.io/2026/haohua-technology-ai-storage-fluorochemical-materials/) — 2026-09-17
-- [Yongding Fiber To Chip AI Datacenter Cycle](https://zcxggmu.github.io/2026/yongding-fiber-to-chip-ai-datacenter-cycle/) — 2026-09-17
-- [China AI Power Demand Storage Long Cycle](https://zcxggmu.github.io/2026/china-ai-power-demand-storage-long-cycle/) — 2026-09-17
+- [Middle East Double Strait Energy Oil Inflation](https://zcxggmu.github.io/2026/middle-east-double-strait-energy-oil-inflation/) — 2026-09-18
+- [AI Compute Pcb Semiconductor Upgrade](https://zcxggmu.github.io/2026/ai-compute-pcb-semiconductor-upgrade/) — 2026-09-18
+- [Optical Interconnect 1 6t Cpo Npo AI Infrastructure](https://zcxggmu.github.io/2026/optical-interconnect-1-6t-cpo-npo-ai-infrastructure/) — 2026-09-18
+- [Edge AI Soc Explosion Before The Breakout](https://zcxggmu.github.io/2026/edge-ai-soc-explosion-before-the-breakout/) — 2026-09-18
+- [China Energy Storage AI Electricity Advantage](https://zcxggmu.github.io/2026/china-energy-storage-ai-electricity-advantage/) — 2026-09-18
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
