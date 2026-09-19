@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [M9 M4 Cpo Pcb Ccl Value Transfer](https://zcxggmu.github.io/2026/m9-m4-cpo-pcb-ccl-value-transfer/) — 2026-09-18
-- [Zirconia AI Compute Material Domestic Substitution](https://zcxggmu.github.io/2026/zirconia-ai-compute-material-domestic-substitution/) — 2026-09-18
-- [AI Compute Upstream Materials Copper Cloth Resin Silica](https://zcxggmu.github.io/2026/ai-compute-upstream-materials-copper-cloth-resin-silica/) — 2026-09-18
-- [Ccl AI Compute Bottleneck Price Supply Repricing](https://zcxggmu.github.io/2026/ccl-ai-compute-bottleneck-price-supply-repricing/) — 2026-09-18
-- [Cpo High End Ccl Pcb Demand Repricing](https://zcxggmu.github.io/2026/cpo-high-end-ccl-pcb-demand-repricing/) — 2026-09-18
+- [China Income Distribution Why Reform Stalls](https://zcxggmu.github.io/2026/china-income-distribution-why-reform-stalls/) — 2026-09-19
+- [Work Security Resignation Consumer Society](https://zcxggmu.github.io/2026/work-security-resignation-consumer-society/) — 2026-09-19
+- [Bauman Work Consumerism New Poor Reading Notes](https://zcxggmu.github.io/2026/bauman-work-consumerism-new-poor-reading-notes/) — 2026-09-19
+- [Technology Investing After Market Slump](https://zcxggmu.github.io/2026/technology-investing-after-market-slump/) — 2026-09-19
+- [Volume Price Divergence Distribution Risk](https://zcxggmu.github.io/2026/volume-price-divergence-distribution-risk/) — 2026-09-19
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
