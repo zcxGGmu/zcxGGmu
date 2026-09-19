@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Middle East Double Strait Energy Oil Inflation](https://zcxggmu.github.io/2026/middle-east-double-strait-energy-oil-inflation/) — 2026-09-18
-- [AI Compute Pcb Semiconductor Upgrade](https://zcxggmu.github.io/2026/ai-compute-pcb-semiconductor-upgrade/) — 2026-09-18
-- [Optical Interconnect 1 6t Cpo Npo AI Infrastructure](https://zcxggmu.github.io/2026/optical-interconnect-1-6t-cpo-npo-ai-infrastructure/) — 2026-09-18
-- [Edge AI Soc Explosion Before The Breakout](https://zcxggmu.github.io/2026/edge-ai-soc-explosion-before-the-breakout/) — 2026-09-18
-- [China Energy Storage AI Electricity Advantage](https://zcxggmu.github.io/2026/china-energy-storage-ai-electricity-advantage/) — 2026-09-18
+- [M9 M4 Cpo Pcb Ccl Value Transfer](https://zcxggmu.github.io/2026/m9-m4-cpo-pcb-ccl-value-transfer/) — 2026-09-18
+- [Zirconia AI Compute Material Domestic Substitution](https://zcxggmu.github.io/2026/zirconia-ai-compute-material-domestic-substitution/) — 2026-09-18
+- [AI Compute Upstream Materials Copper Cloth Resin Silica](https://zcxggmu.github.io/2026/ai-compute-upstream-materials-copper-cloth-resin-silica/) — 2026-09-18
+- [Ccl AI Compute Bottleneck Price Supply Repricing](https://zcxggmu.github.io/2026/ccl-ai-compute-bottleneck-price-supply-repricing/) — 2026-09-18
+- [Cpo High End Ccl Pcb Demand Repricing](https://zcxggmu.github.io/2026/cpo-high-end-ccl-pcb-demand-repricing/) — 2026-09-18
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
