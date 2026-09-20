@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Naura Storage Advanced Logic Capex Order Cycle](https://zcxggmu.github.io/2026/naura-storage-advanced-logic-capex-order-cycle/) — 2026-09-15
-- [Monthly 3000 Save 10000 First Cash Buffer](https://zcxggmu.github.io/2026/monthly-3000-save-10000-first-cash-buffer/) — 2026-09-15
-- [Happy Economy Youth Delay Housing Marriage Macro](https://zcxggmu.github.io/2026/happy-economy-youth-delay-housing-marriage-macro/) — 2026-09-15
-- [Pengding Holdings Pcb AI Server Edge Hardware Cycle](https://zcxggmu.github.io/2026/pengding-holdings-pcb-ai-server-edge-hardware-cycle/) — 2026-09-15
-- [AI Infrastructure 2027 Capex Power Grid Storage Cycle](https://zcxggmu.github.io/2026/ai-infrastructure-2027-capex-power-grid-storage-cycle/) — 2026-09-15
+- [Scarcity Attention Bandwidth And Poor Busy Loop](https://zcxggmu.github.io/2026/scarcity-attention-bandwidth-and-poor-busy-loop/) — 2026-09-20
+- [Sannin Freedom And Old Punishment](https://zcxggmu.github.io/2026/sannin-freedom-and-old-punishment/) — 2026-09-20
+- [Financial Psychology Expectations And Risk](https://zcxggmu.github.io/2026/financial-psychology-expectations-and-risk/) — 2026-09-20
+- [China Income Distribution Why Reform Stalls](https://zcxggmu.github.io/2026/china-income-distribution-why-reform-stalls/) — 2026-09-19
+- [Work Security Resignation Consumer Society](https://zcxggmu.github.io/2026/work-security-resignation-consumer-society/) — 2026-09-19
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
