@@ -80,27 +80,27 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Scarcity Attention Bandwidth And Poor Busy Loop](https://zcxggmu.github.io/2026/scarcity-attention-bandwidth-and-poor-busy-loop/) — 2026-09-20
-- [Sannin Freedom And Old Punishment](https://zcxggmu.github.io/2026/sannin-freedom-and-old-punishment/) — 2026-09-20
-- [Financial Psychology Expectations And Risk](https://zcxggmu.github.io/2026/financial-psychology-expectations-and-risk/) — 2026-09-20
-- [China Income Distribution Why Reform Stalls](https://zcxggmu.github.io/2026/china-income-distribution-why-reform-stalls/) — 2026-09-19
-- [Work Security Resignation Consumer Society](https://zcxggmu.github.io/2026/work-security-resignation-consumer-society/) — 2026-09-19
+- [Naura Storage Advanced Logic Capex Order Cycle](https://zcxggmu.github.io/2026/naura-storage-advanced-logic-capex-order-cycle/) — 2026-09-15
+- [Monthly 3000 Save 10000 First Cash Buffer](https://zcxggmu.github.io/2026/monthly-3000-save-10000-first-cash-buffer/) — 2026-09-15
+- [Happy Economy Youth Delay Housing Marriage Macro](https://zcxggmu.github.io/2026/happy-economy-youth-delay-housing-marriage-macro/) — 2026-09-15
+- [Pengding Holdings Pcb AI Server Edge Hardware Cycle](https://zcxggmu.github.io/2026/pengding-holdings-pcb-ai-server-edge-hardware-cycle/) — 2026-09-15
+- [AI Infrastructure 2027 Capex Power Grid Storage Cycle](https://zcxggmu.github.io/2026/ai-infrastructure-2027-capex-power-grid-storage-cycle/) — 2026-09-15
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
 ## Hermes Evolution
 
 <p align="center">
-  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260918060229">
+  <img alt="Hermes evolution daily cockpit" src="./assets/hermes-evolution.svg?v=20260921005609">
 </p>
 
 <p align="center">
   <sub>Auto-refreshed daily at 06:00 CST · public memory details are privacy-redacted</sub>
 </p>
 
-- **Latest snapshot:** 2026-09-18 06:02 CST; archive date `2026-09-17`.
-- **Skills:** 215 tracked / 128 active; today `+0 Δ13 -0`; activity `+105`, patches `0`.
+- **Latest snapshot:** 2026-09-21 00:56 CST; archive date `2026-09-20`.
+- **Skills:** 215 tracked / 128 active; today `+0 Δ13 -0`; activity `+48`, patches `0`.
 - **Memory:** 17 durable entries; today `+0 -0`; Memory map stable · public details redacted.
-- **Signal:** Δ github-pr-workflow · use +17, view +1; Δ test-driven-development · use +17, view +1
+- **Signal:** Δ github-pr-workflow · use +8; Δ test-driven-development · use +8
 <!-- hermes_evolution ends -->
 
