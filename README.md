@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [Scarcity Attention Bandwidth And Poor Busy Loop](https://zcxggmu.github.io/2026/scarcity-attention-bandwidth-and-poor-busy-loop/) — 2026-09-20
+- [Sannin Freedom And Old Punishment](https://zcxggmu.github.io/2026/sannin-freedom-and-old-punishment/) — 2026-09-20
+- [Financial Psychology Expectations And Risk](https://zcxggmu.github.io/2026/financial-psychology-expectations-and-risk/) — 2026-09-20
 - [China Income Distribution Why Reform Stalls](https://zcxggmu.github.io/2026/china-income-distribution-why-reform-stalls/) — 2026-09-19
 - [Work Security Resignation Consumer Society](https://zcxggmu.github.io/2026/work-security-resignation-consumer-society/) — 2026-09-19
-- [Bauman Work Consumerism New Poor Reading Notes](https://zcxggmu.github.io/2026/bauman-work-consumerism-new-poor-reading-notes/) — 2026-09-19
-- [Technology Investing After Market Slump](https://zcxggmu.github.io/2026/technology-investing-after-market-slump/) — 2026-09-19
-- [Volume Price Divergence Distribution Risk](https://zcxggmu.github.io/2026/volume-price-divergence-distribution-risk/) — 2026-09-19
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
