@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Scarcity Attention Bandwidth And Poor Busy Loop](https://zcxggmu.github.io/2026/scarcity-attention-bandwidth-and-poor-busy-loop/) — 2026-09-20
-- [Sannin Freedom And Old Punishment](https://zcxggmu.github.io/2026/sannin-freedom-and-old-punishment/) — 2026-09-20
-- [Financial Psychology Expectations And Risk](https://zcxggmu.github.io/2026/financial-psychology-expectations-and-risk/) — 2026-09-20
-- [China Income Distribution Why Reform Stalls](https://zcxggmu.github.io/2026/china-income-distribution-why-reform-stalls/) — 2026-09-19
-- [Work Security Resignation Consumer Society](https://zcxggmu.github.io/2026/work-security-resignation-consumer-society/) — 2026-09-19
+- [Five Percent Change System Action](https://zcxggmu.github.io/2026/five-percent-change-system-action/) — 2026-09-21
+- [Semiconductor Equipment Orders 2028](https://zcxggmu.github.io/2026/semiconductor-equipment-orders-2028/) — 2026-09-21
+- [Zijin Mining Copper Gold Valuation Cycle](https://zcxggmu.github.io/2026/zijin-mining-copper-gold-valuation-cycle/) — 2026-09-21
+- [Pcb Overseas Factories Four Loss One Gain](https://zcxggmu.github.io/2026/pcb-overseas-factories-four-loss-one-gain/) — 2026-09-21
+- [Xinqi Weizhuang Pcb Advanced Packaging Second Curve](https://zcxggmu.github.io/2026/xinqi-weizhuang-pcb-advanced-packaging-second-curve/) — 2026-09-21
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
