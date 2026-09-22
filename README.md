@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Five Percent Change System Action](https://zcxggmu.github.io/2026/five-percent-change-system-action/) — 2026-09-21
-- [Semiconductor Equipment Orders 2028](https://zcxggmu.github.io/2026/semiconductor-equipment-orders-2028/) — 2026-09-21
-- [Zijin Mining Copper Gold Valuation Cycle](https://zcxggmu.github.io/2026/zijin-mining-copper-gold-valuation-cycle/) — 2026-09-21
-- [Pcb Overseas Factories Four Loss One Gain](https://zcxggmu.github.io/2026/pcb-overseas-factories-four-loss-one-gain/) — 2026-09-21
-- [Xinqi Weizhuang Pcb Advanced Packaging Second Curve](https://zcxggmu.github.io/2026/xinqi-weizhuang-pcb-advanced-packaging-second-curve/) — 2026-09-21
+- [Three Rich Families Wealth Distribution](https://zcxggmu.github.io/2026/three-rich-families-wealth-distribution/) — 2026-09-21
+- [Sex Inflation Deflation Social Market](https://zcxggmu.github.io/2026/sex-inflation-deflation-social-market/) — 2026-09-21
+- [Housing Debt Lifetime Freedom](https://zcxggmu.github.io/2026/housing-debt-lifetime-freedom/) — 2026-09-21
+- [Huazheng New Material Ccl Three Business Lines](https://zcxggmu.github.io/2026/huazheng-new-material-ccl-three-business-lines/) — 2026-09-21
+- [Work Consumerism New Poor Surplus](https://zcxggmu.github.io/2026/work-consumerism-new-poor-surplus/) — 2026-09-21
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
