@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Three Rich Families Wealth Distribution](https://zcxggmu.github.io/2026/three-rich-families-wealth-distribution/) — 2026-09-21
-- [Sex Inflation Deflation Social Market](https://zcxggmu.github.io/2026/sex-inflation-deflation-social-market/) — 2026-09-21
-- [Housing Debt Lifetime Freedom](https://zcxggmu.github.io/2026/housing-debt-lifetime-freedom/) — 2026-09-21
-- [Huazheng New Material Ccl Three Business Lines](https://zcxggmu.github.io/2026/huazheng-new-material-ccl-three-business-lines/) — 2026-09-21
-- [Work Consumerism New Poor Surplus](https://zcxggmu.github.io/2026/work-consumerism-new-poor-surplus/) — 2026-09-21
+- [AI Industry Earnings Review Cloud Capex Pricing Shift](https://zcxggmu.github.io/2026/ai-industry-earnings-review-cloud-capex-pricing-shift/) — 2026-09-22
+- [Us Treasury Yields Us Stocks Hk Rebound Allocation](https://zcxggmu.github.io/2026/us-treasury-yields-us-stocks-hk-rebound-allocation/) — 2026-09-22
+- [China Battery Chain Survey Key Points](https://zcxggmu.github.io/2026/china-battery-chain-survey-key-points/) — 2026-09-22
+- [Shengyi Tech AI Ccl Capacity Growth](https://zcxggmu.github.io/2026/shengyi-tech-ai-ccl-capacity-growth/) — 2026-09-22
+- [AI Pcb Upgrade Cycle Equipment Drills](https://zcxggmu.github.io/2026/ai-pcb-upgrade-cycle-equipment-drills/) — 2026-09-22
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
