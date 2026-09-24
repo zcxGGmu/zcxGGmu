@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [AI Industry Earnings Review Cloud Capex Pricing Shift](https://zcxggmu.github.io/2026/ai-industry-earnings-review-cloud-capex-pricing-shift/) — 2026-09-22
-- [Us Treasury Yields Us Stocks Hk Rebound Allocation](https://zcxggmu.github.io/2026/us-treasury-yields-us-stocks-hk-rebound-allocation/) — 2026-09-22
-- [China Battery Chain Survey Key Points](https://zcxggmu.github.io/2026/china-battery-chain-survey-key-points/) — 2026-09-22
-- [Shengyi Tech AI Ccl Capacity Growth](https://zcxggmu.github.io/2026/shengyi-tech-ai-ccl-capacity-growth/) — 2026-09-22
-- [AI Pcb Upgrade Cycle Equipment Drills](https://zcxggmu.github.io/2026/ai-pcb-upgrade-cycle-equipment-drills/) — 2026-09-22
+- [Mideast Election Window Negotiation Risk](https://zcxggmu.github.io/2026/mideast-election-window-negotiation-risk/) — 2026-09-23
+- [Economy K Shape Production Consumption Investment](https://zcxggmu.github.io/2026/economy-k-shape-production-consumption-investment/) — 2026-09-23
+- [Volume Rebound Risk Appetite Framework](https://zcxggmu.github.io/2026/volume-rebound-risk-appetite-framework/) — 2026-09-23
+- [Korea AI Data Center Power Capacity](https://zcxggmu.github.io/2026/korea-ai-data-center-power-capacity/) — 2026-09-23
+- [Short Video Attention Reality Experience](https://zcxggmu.github.io/2026/short-video-attention-reality-experience/) — 2026-09-23
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
