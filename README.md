@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Mideast Election Window Negotiation Risk](https://zcxggmu.github.io/2026/mideast-election-window-negotiation-risk/) — 2026-09-23
-- [Economy K Shape Production Consumption Investment](https://zcxggmu.github.io/2026/economy-k-shape-production-consumption-investment/) — 2026-09-23
-- [Volume Rebound Risk Appetite Framework](https://zcxggmu.github.io/2026/volume-rebound-risk-appetite-framework/) — 2026-09-23
-- [Korea AI Data Center Power Capacity](https://zcxggmu.github.io/2026/korea-ai-data-center-power-capacity/) — 2026-09-23
-- [Short Video Attention Reality Experience](https://zcxggmu.github.io/2026/short-video-attention-reality-experience/) — 2026-09-23
+- [Middle Age Family Cashflow Resilience](https://zcxggmu.github.io/2026/middle-age-family-cashflow-resilience/) — 2026-09-25
+- [Weichai Aidc Gas Engine Catalyst](https://zcxggmu.github.io/2026/weichai-aidc-gas-engine-catalyst/) — 2026-09-25
+- [Consumer AI Platform Competition Agents](https://zcxggmu.github.io/2026/consumer-ai-platform-competition-agents/) — 2026-09-25
+- [Fifteenth Five Pharma Innovation AI](https://zcxggmu.github.io/2026/fifteenth-five-pharma-innovation-ai/) — 2026-09-25
+- [Hengli Hydraulics Robotics Automation](https://zcxggmu.github.io/2026/hengli-hydraulics-robotics-automation/) — 2026-09-25
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
