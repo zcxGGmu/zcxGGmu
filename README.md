@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Middle Age Family Cashflow Resilience](https://zcxggmu.github.io/2026/middle-age-family-cashflow-resilience/) — 2026-09-25
-- [Weichai Aidc Gas Engine Catalyst](https://zcxggmu.github.io/2026/weichai-aidc-gas-engine-catalyst/) — 2026-09-25
-- [Consumer AI Platform Competition Agents](https://zcxggmu.github.io/2026/consumer-ai-platform-competition-agents/) — 2026-09-25
-- [Fifteenth Five Pharma Innovation AI](https://zcxggmu.github.io/2026/fifteenth-five-pharma-innovation-ai/) — 2026-09-25
-- [Hengli Hydraulics Robotics Automation](https://zcxggmu.github.io/2026/hengli-hydraulics-robotics-automation/) — 2026-09-25
+- [Beijing Stock Exchange Two Engine Selection](https://zcxggmu.github.io/2026/beijing-stock-exchange-two-engine-selection/) — 2026-09-25
+- [Domestic Demand 924 Moment](https://zcxggmu.github.io/2026/domestic-demand-924-moment/) — 2026-09-25
+- [Pcb Ccl Supply Gap Pricing](https://zcxggmu.github.io/2026/pcb-ccl-supply-gap-pricing/) — 2026-09-25
+- [Memory Stocks Pessimism Risk Reward](https://zcxggmu.github.io/2026/memory-stocks-pessimism-risk-reward/) — 2026-09-25
+- [Alicloud Power Target Agent Expansion](https://zcxggmu.github.io/2026/alicloud-power-target-agent-expansion/) — 2026-09-25
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
