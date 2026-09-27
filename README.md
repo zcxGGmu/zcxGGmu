@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Beijing Stock Exchange Two Engine Selection](https://zcxggmu.github.io/2026/beijing-stock-exchange-two-engine-selection/) — 2026-09-25
-- [Domestic Demand 924 Moment](https://zcxggmu.github.io/2026/domestic-demand-924-moment/) — 2026-09-25
-- [Pcb Ccl Supply Gap Pricing](https://zcxggmu.github.io/2026/pcb-ccl-supply-gap-pricing/) — 2026-09-25
-- [Memory Stocks Pessimism Risk Reward](https://zcxggmu.github.io/2026/memory-stocks-pessimism-risk-reward/) — 2026-09-25
-- [Alicloud Power Target Agent Expansion](https://zcxggmu.github.io/2026/alicloud-power-target-agent-expansion/) — 2026-09-25
+- [Social Mobility Empathy](https://zcxggmu.github.io/2026/social-mobility-empathy/) — 2026-09-27
+- [Youth National Development](https://zcxggmu.github.io/2026/youth-national-development/) — 2026-09-27
+- [Marriage Exit And Social Pressure](https://zcxggmu.github.io/2026/marriage-exit-and-social-pressure/) — 2026-09-27
+- [Eleven AI Companies Next Platform](https://zcxggmu.github.io/2026/eleven-ai-companies-next-platform/) — 2026-09-27
+- [Agentic AI Memory Lansqi Opportunity](https://zcxggmu.github.io/2026/agentic-ai-memory-lansqi-opportunity/) — 2026-09-27
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
