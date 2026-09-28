@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Social Mobility Empathy](https://zcxggmu.github.io/2026/social-mobility-empathy/) — 2026-09-27
-- [Youth National Development](https://zcxggmu.github.io/2026/youth-national-development/) — 2026-09-27
-- [Marriage Exit And Social Pressure](https://zcxggmu.github.io/2026/marriage-exit-and-social-pressure/) — 2026-09-27
-- [Eleven AI Companies Next Platform](https://zcxggmu.github.io/2026/eleven-ai-companies-next-platform/) — 2026-09-27
-- [Agentic AI Memory Lansqi Opportunity](https://zcxggmu.github.io/2026/agentic-ai-memory-lansqi-opportunity/) — 2026-09-27
+- [AI Agent Meta Muse Consumer Path](https://zcxggmu.github.io/2026/ai-agent-meta-muse-consumer-path/) — 2026-09-28
+- [Nanjing Bank Interest Income Repricing](https://zcxggmu.github.io/2026/nanjing-bank-interest-income-repricing/) — 2026-09-28
+- [Wuxi Biologics Orders Valuation Gap](https://zcxggmu.github.io/2026/wuxi-biologics-orders-valuation-gap/) — 2026-09-28
+- [Glass Substrate AI Packaging Battle](https://zcxggmu.github.io/2026/glass-substrate-ai-packaging-battle/) — 2026-09-28
+- [China Railway Recovery Jinghu Daqin](https://zcxggmu.github.io/2026/china-railway-recovery-jinghu-daqin/) — 2026-09-28
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
