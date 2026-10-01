@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
+- [AI Writing Cheap Fluency Independent Thinking](https://zcxggmu.github.io/2026/ai-writing-cheap-fluency-independent-thinking/) — 2026-10-01
+- [Liu Huan You Benchang Shared Culture](https://zcxggmu.github.io/2026/liu-huan-you-benchang-shared-culture/) — 2026-10-01
+- [China Property 40 Year Mortgage Evergrande Reform](https://zcxggmu.github.io/2026/china-property-40-year-mortgage-evergrande-reform/) — 2026-10-01
 - [China Economy Cashflow Defense](https://zcxggmu.github.io/2026/china-economy-cashflow-defense/) — 2026-09-29
 - [Generation Gap Youth Hope](https://zcxggmu.github.io/2026/generation-gap-youth-hope/) — 2026-09-29
-- [Hikvision Aiot Value Trap](https://zcxggmu.github.io/2026/hikvision-aiot-value-trap/) — 2026-09-29
-- [Inovance Profit Compounding](https://zcxggmu.github.io/2026/inovance-profit-compounding/) — 2026-09-29
-- [Lansqi CPU Memory Interconnect](https://zcxggmu.github.io/2026/lansqi-cpu-memory-interconnect/) — 2026-09-29
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
