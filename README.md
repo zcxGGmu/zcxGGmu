@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [AI Writing Cheap Fluency Independent Thinking](https://zcxggmu.github.io/2026/ai-writing-cheap-fluency-independent-thinking/) — 2026-10-01
-- [Liu Huan You Benchang Shared Culture](https://zcxggmu.github.io/2026/liu-huan-you-benchang-shared-culture/) — 2026-10-01
-- [China Property 40 Year Mortgage Evergrande Reform](https://zcxggmu.github.io/2026/china-property-40-year-mortgage-evergrande-reform/) — 2026-10-01
-- [China Economy Cashflow Defense](https://zcxggmu.github.io/2026/china-economy-cashflow-defense/) — 2026-09-29
-- [Generation Gap Youth Hope](https://zcxggmu.github.io/2026/generation-gap-youth-hope/) — 2026-09-29
+- [Naval Wealth Happiness AI Choice](https://zcxggmu.github.io/2026/naval-wealth-happiness-ai-choice/) — 2026-10-02
+- [Latte Factor Save Spend Now](https://zcxggmu.github.io/2026/latte-factor-save-spend-now/) — 2026-10-02
+- [Kangbo Cycle Wealth Technology Dividend](https://zcxggmu.github.io/2026/kangbo-cycle-wealth-technology-dividend/) — 2026-10-02
+- [Jpmorgan China Stocks Four Policy Scenarios Six Networks](https://zcxggmu.github.io/2026/jpmorgan-china-stocks-four-policy-scenarios-six-networks/) — 2026-10-02
+- [Deutsche Bank Physical AI Waymo Tesla Spacex Humanoid Robots](https://zcxggmu.github.io/2026/deutsche-bank-physical-ai-waymo-tesla-spacex-humanoid-robots/) — 2026-10-02
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
