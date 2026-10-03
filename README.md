@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Naval Wealth Happiness AI Choice](https://zcxggmu.github.io/2026/naval-wealth-happiness-ai-choice/) — 2026-10-02
-- [Latte Factor Save Spend Now](https://zcxggmu.github.io/2026/latte-factor-save-spend-now/) — 2026-10-02
-- [Kangbo Cycle Wealth Technology Dividend](https://zcxggmu.github.io/2026/kangbo-cycle-wealth-technology-dividend/) — 2026-10-02
-- [Jpmorgan China Stocks Four Policy Scenarios Six Networks](https://zcxggmu.github.io/2026/jpmorgan-china-stocks-four-policy-scenarios-six-networks/) — 2026-10-02
-- [Deutsche Bank Physical AI Waymo Tesla Spacex Humanoid Robots](https://zcxggmu.github.io/2026/deutsche-bank-physical-ai-waymo-tesla-spacex-humanoid-robots/) — 2026-10-02
+- [Kangfang Astrazeneca Ivonescimab 20 Billion Signal](https://zcxggmu.github.io/2026/kangfang-astrazeneca-ivonescimab-20-billion-signal/) — 2026-10-03
+- [AI Chip Power Bottleneck Nvidia Amd 380gw](https://zcxggmu.github.io/2026/ai-chip-power-bottleneck-nvidia-amd-380gw/) — 2026-10-03
+- [Corning Optical Communications Long Term Contracts AI](https://zcxggmu.github.io/2026/corning-optical-communications-long-term-contracts-ai/) — 2026-10-03
+- [Zhongji Innolight Eoptolink Us S548 Optical Module Risk](https://zcxggmu.github.io/2026/zhongji-innolight-eoptolink-us-s548-optical-module-risk/) — 2026-10-03
+- [Innovent Ibi363 Nsclc Nonsquamous Expansion](https://zcxggmu.github.io/2026/innovent-ibi363-nsclc-nonsquamous-expansion/) — 2026-10-03
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
