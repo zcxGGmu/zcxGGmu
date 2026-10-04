@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Kangfang Astrazeneca Ivonescimab 20 Billion Signal](https://zcxggmu.github.io/2026/kangfang-astrazeneca-ivonescimab-20-billion-signal/) — 2026-10-03
-- [AI Chip Power Bottleneck Nvidia Amd 380gw](https://zcxggmu.github.io/2026/ai-chip-power-bottleneck-nvidia-amd-380gw/) — 2026-10-03
-- [Corning Optical Communications Long Term Contracts AI](https://zcxggmu.github.io/2026/corning-optical-communications-long-term-contracts-ai/) — 2026-10-03
-- [Zhongji Innolight Eoptolink Us S548 Optical Module Risk](https://zcxggmu.github.io/2026/zhongji-innolight-eoptolink-us-s548-optical-module-risk/) — 2026-10-03
-- [Innovent Ibi363 Nsclc Nonsquamous Expansion](https://zcxggmu.github.io/2026/innovent-ibi363-nsclc-nonsquamous-expansion/) — 2026-10-03
+- [Morgan Stanley China AI Hardware Profit Taking 2026](https://zcxggmu.github.io/2026/morgan-stanley-china-ai-hardware-profit-taking-2026/) — 2026-10-03
+- [Goldman Lithium Supply 2027 Risk](https://zcxggmu.github.io/2026/goldman-lithium-supply-2027-risk/) — 2026-10-03
+- [Softbank Son Masayoshi Embodied Robotics](https://zcxggmu.github.io/2026/softbank-son-masayoshi-embodied-robotics/) — 2026-10-03
+- [Ubs Trane 800v Cooling AI Power](https://zcxggmu.github.io/2026/ubs-trane-800v-cooling-ai-power/) — 2026-10-03
+- [Influence Reciprocity Liking Free](https://zcxggmu.github.io/2026/influence-reciprocity-liking-free/) — 2026-10-03
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
