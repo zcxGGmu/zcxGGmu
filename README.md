@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Morgan Stanley China AI Hardware Profit Taking 2026](https://zcxggmu.github.io/2026/morgan-stanley-china-ai-hardware-profit-taking-2026/) — 2026-10-03
-- [Goldman Lithium Supply 2027 Risk](https://zcxggmu.github.io/2026/goldman-lithium-supply-2027-risk/) — 2026-10-03
-- [Softbank Son Masayoshi Embodied Robotics](https://zcxggmu.github.io/2026/softbank-son-masayoshi-embodied-robotics/) — 2026-10-03
-- [Ubs Trane 800v Cooling AI Power](https://zcxggmu.github.io/2026/ubs-trane-800v-cooling-ai-power/) — 2026-10-03
-- [Influence Reciprocity Liking Free](https://zcxggmu.github.io/2026/influence-reciprocity-liking-free/) — 2026-10-03
+- [Gigadevice Profit Surges Storage Cycle Valuation](https://zcxggmu.github.io/2026/gigadevice-profit-surges-storage-cycle-valuation/) — 2026-10-05
+- [Hengsheng Tech October Model Strength Stock Risk](https://zcxggmu.github.io/2026/hengsheng-tech-october-model-strength-stock-risk/) — 2026-10-05
+- [Xpeng Delivery Target Stock Low Fourth Quarter Volume](https://zcxggmu.github.io/2026/xpeng-delivery-target-stock-low-fourth-quarter-volume/) — 2026-10-05
+- [Nio Sales Growth 657 Hkd Target Price](https://zcxggmu.github.io/2026/nio-sales-growth-657-hkd-target-price/) — 2026-10-05
+- [Inspur Profit Beats Guidance Goldman Sell Rating](https://zcxggmu.github.io/2026/inspur-profit-beats-guidance-goldman-sell-rating/) — 2026-10-05
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
