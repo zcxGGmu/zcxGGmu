@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Gigadevice Profit Surges Storage Cycle Valuation](https://zcxggmu.github.io/2026/gigadevice-profit-surges-storage-cycle-valuation/) — 2026-10-05
-- [Hengsheng Tech October Model Strength Stock Risk](https://zcxggmu.github.io/2026/hengsheng-tech-october-model-strength-stock-risk/) — 2026-10-05
-- [Xpeng Delivery Target Stock Low Fourth Quarter Volume](https://zcxggmu.github.io/2026/xpeng-delivery-target-stock-low-fourth-quarter-volume/) — 2026-10-05
-- [Nio Sales Growth 657 Hkd Target Price](https://zcxggmu.github.io/2026/nio-sales-growth-657-hkd-target-price/) — 2026-10-05
-- [Inspur Profit Beats Guidance Goldman Sell Rating](https://zcxggmu.github.io/2026/inspur-profit-beats-guidance-goldman-sell-rating/) — 2026-10-05
+- [China Economy Manufacturing Consumption Divide](https://zcxggmu.github.io/2026/china-economy-manufacturing-consumption-divide/) — 2026-10-05
+- [Micron China Memory AI Storage Competition](https://zcxggmu.github.io/2026/micron-china-memory-ai-storage-competition/) — 2026-10-05
+- [Mid Autumn Atomic Consumption Fragmentation](https://zcxggmu.github.io/2026/mid-autumn-atomic-consumption-fragmentation/) — 2026-10-05
+- [Goldman Asia Conviction List Six New Two Removed](https://zcxggmu.github.io/2026/goldman-asia-conviction-list-six-new-two-removed/) — 2026-10-05
+- [Japan Employment Ice Age Generation Career Scars](https://zcxggmu.github.io/2026/japan-employment-ice-age-generation-career-scars/) — 2026-10-05
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
