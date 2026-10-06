@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [China Economy Manufacturing Consumption Divide](https://zcxggmu.github.io/2026/china-economy-manufacturing-consumption-divide/) — 2026-10-05
-- [Micron China Memory AI Storage Competition](https://zcxggmu.github.io/2026/micron-china-memory-ai-storage-competition/) — 2026-10-05
-- [Mid Autumn Atomic Consumption Fragmentation](https://zcxggmu.github.io/2026/mid-autumn-atomic-consumption-fragmentation/) — 2026-10-05
-- [Goldman Asia Conviction List Six New Two Removed](https://zcxggmu.github.io/2026/goldman-asia-conviction-list-six-new-two-removed/) — 2026-10-05
-- [Japan Employment Ice Age Generation Career Scars](https://zcxggmu.github.io/2026/japan-employment-ice-age-generation-career-scars/) — 2026-10-05
+- [Jp Sugar Mild Deficit 2026 27](https://zcxggmu.github.io/2026/jp-sugar-mild-deficit-2026-27/) — 2026-10-06
+- [AI Memory Cxl Pooling Nvidia Cerebras](https://zcxggmu.github.io/2026/ai-memory-cxl-pooling-nvidia-cerebras/) — 2026-10-06
+- [Luxshare Kfm Kingdom Acquisition](https://zcxggmu.github.io/2026/luxshare-kfm-kingdom-acquisition/) — 2026-10-06
+- [Mankiw Macroeconomics Gdp Growth Unemployment](https://zcxggmu.github.io/2026/mankiw-macroeconomics-gdp-growth-unemployment/) — 2026-10-06
+- [Mankiw Macroeconomics Money Inflation Exchange](https://zcxggmu.github.io/2026/mankiw-macroeconomics-money-inflation-exchange/) — 2026-10-06
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
