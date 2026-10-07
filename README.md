@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Jp Sugar Mild Deficit 2026 27](https://zcxggmu.github.io/2026/jp-sugar-mild-deficit-2026-27/) — 2026-10-06
-- [AI Memory Cxl Pooling Nvidia Cerebras](https://zcxggmu.github.io/2026/ai-memory-cxl-pooling-nvidia-cerebras/) — 2026-10-06
-- [Luxshare Kfm Kingdom Acquisition](https://zcxggmu.github.io/2026/luxshare-kfm-kingdom-acquisition/) — 2026-10-06
-- [Mankiw Macroeconomics Gdp Growth Unemployment](https://zcxggmu.github.io/2026/mankiw-macroeconomics-gdp-growth-unemployment/) — 2026-10-06
-- [Mankiw Macroeconomics Money Inflation Exchange](https://zcxggmu.github.io/2026/mankiw-macroeconomics-money-inflation-exchange/) — 2026-10-06
+- [Zhipu Goldman Target Price 1560 Hkd](https://zcxggmu.github.io/2026/zhipu-goldman-target-price-1560-hkd/) — 2026-10-07
+- [Amec Goldman Target 582 Yuan](https://zcxggmu.github.io/2026/amec-goldman-target-582-yuan/) — 2026-10-07
+- [Boe Glass Substrate Mass Production Timeline](https://zcxggmu.github.io/2026/boe-glass-substrate-mass-production-timeline/) — 2026-10-07
+- [Shengyi AI Materials Pricing Power](https://zcxggmu.github.io/2026/shengyi-ai-materials-pricing-power/) — 2026-10-07
+- [AI Rack Cost 750 Million Bernstein Vera Rubin](https://zcxggmu.github.io/2026/ai-rack-cost-750-million-bernstein-vera-rubin/) — 2026-10-07
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
