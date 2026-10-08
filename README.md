@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Zhipu Goldman Target Price 1560 Hkd](https://zcxggmu.github.io/2026/zhipu-goldman-target-price-1560-hkd/) — 2026-10-07
-- [Amec Goldman Target 582 Yuan](https://zcxggmu.github.io/2026/amec-goldman-target-582-yuan/) — 2026-10-07
-- [Boe Glass Substrate Mass Production Timeline](https://zcxggmu.github.io/2026/boe-glass-substrate-mass-production-timeline/) — 2026-10-07
-- [Shengyi AI Materials Pricing Power](https://zcxggmu.github.io/2026/shengyi-ai-materials-pricing-power/) — 2026-10-07
-- [AI Rack Cost 750 Million Bernstein Vera Rubin](https://zcxggmu.github.io/2026/ai-rack-cost-750-million-bernstein-vera-rubin/) — 2026-10-07
+- [Marshall Rosenberg Nonviolent Communication Four Steps](https://zcxggmu.github.io/2026/marshall-rosenberg-nonviolent-communication-four-steps/) — 2026-10-08
+- [Photoresist A Share Champions Competition Map](https://zcxggmu.github.io/2026/photoresist-a-share-champions-competition-map/) — 2026-10-08
+- [Avic Chengdu J20 Valuation Debate](https://zcxggmu.github.io/2026/avic-chengdu-j20-valuation-debate/) — 2026-10-08
+- [Jesse Livermore Blackboard 1907 Million](https://zcxggmu.github.io/2026/jesse-livermore-blackboard-1907-million/) — 2026-10-08
+- [Jesse Livermore 1929 Billion Failure](https://zcxggmu.github.io/2026/jesse-livermore-1929-billion-failure/) — 2026-10-08
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
