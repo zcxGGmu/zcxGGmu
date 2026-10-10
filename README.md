@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Marshall Rosenberg Nonviolent Communication Four Steps](https://zcxggmu.github.io/2026/marshall-rosenberg-nonviolent-communication-four-steps/) — 2026-10-08
-- [Photoresist A Share Champions Competition Map](https://zcxggmu.github.io/2026/photoresist-a-share-champions-competition-map/) — 2026-10-08
-- [Avic Chengdu J20 Valuation Debate](https://zcxggmu.github.io/2026/avic-chengdu-j20-valuation-debate/) — 2026-10-08
-- [Jesse Livermore Blackboard 1907 Million](https://zcxggmu.github.io/2026/jesse-livermore-blackboard-1907-million/) — 2026-10-08
-- [Jesse Livermore 1929 Billion Failure](https://zcxggmu.github.io/2026/jesse-livermore-1929-billion-failure/) — 2026-10-08
+- [Weekend Market Four Good News](https://zcxggmu.github.io/2026/weekend-market-four-good-news/) — 2026-10-09
+- [Northhua Chuang Profit Pressure](https://zcxggmu.github.io/2026/northhua-chuang-profit-pressure/) — 2026-10-09
+- [Goldman China Data Center Roic](https://zcxggmu.github.io/2026/goldman-china-data-center-roic/) — 2026-10-09
+- [China Offshore Wealth Tax Review](https://zcxggmu.github.io/2026/china-offshore-wealth-tax-review/) — 2026-10-09
+- [University Teacher Food Delivery Labor](https://zcxggmu.github.io/2026/university-teacher-food-delivery-labor/) — 2026-10-09
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
