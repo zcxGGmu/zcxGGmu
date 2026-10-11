@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Weekend Market Four Good News](https://zcxggmu.github.io/2026/weekend-market-four-good-news/) — 2026-10-09
-- [Northhua Chuang Profit Pressure](https://zcxggmu.github.io/2026/northhua-chuang-profit-pressure/) — 2026-10-09
-- [Goldman China Data Center Roic](https://zcxggmu.github.io/2026/goldman-china-data-center-roic/) — 2026-10-09
-- [China Offshore Wealth Tax Review](https://zcxggmu.github.io/2026/china-offshore-wealth-tax-review/) — 2026-10-09
-- [University Teacher Food Delivery Labor](https://zcxggmu.github.io/2026/university-teacher-food-delivery-labor/) — 2026-10-09
+- [Weekend Market Four Good News](https://zcxggmu.github.io/2026/weekend-market-four-good-news/) — 2026-10-10
+- [Northhua Chuang Profit Pressure](https://zcxggmu.github.io/2026/northhua-chuang-profit-pressure/) — 2026-10-10
+- [Goldman China Data Center Roic](https://zcxggmu.github.io/2026/goldman-china-data-center-roic/) — 2026-10-10
+- [China Offshore Wealth Tax Review](https://zcxggmu.github.io/2026/china-offshore-wealth-tax-review/) — 2026-10-10
+- [University Teacher Food Delivery Labor](https://zcxggmu.github.io/2026/university-teacher-food-delivery-labor/) — 2026-10-10
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
