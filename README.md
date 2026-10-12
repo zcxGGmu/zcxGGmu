@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [No Mind Great Use Attention Relaxation](https://zcxggmu.github.io/2026/no-mind-great-use-attention-relaxation/) — 2026-10-11
-- [Housing Marriage Work Script](https://zcxggmu.github.io/2026/housing-marriage-work-script/) — 2026-10-10
-- [AI Opportunity Map Continuous Learning](https://zcxggmu.github.io/2026/ai-opportunity-map-continuous-learning/) — 2026-10-10
-- [Family Savings Liquidity](https://zcxggmu.github.io/2026/family-savings-liquidity/) — 2026-10-10
-- [Two Day Off Economic Cycle](https://zcxggmu.github.io/2026/two-day-off-economic-cycle/) — 2026-10-10
+- [China Property Cycle Bottom Multi Indicator Framework](https://zcxggmu.github.io/2026/china-property-cycle-bottom-multi-indicator-framework/) — 2026-10-12
+- [China Population 2026 Birth Death Forecast Method Boundaries](https://zcxggmu.github.io/2026/china-population-2026-birth-death-forecast-method-boundaries/) — 2026-10-12
+- [China Duty Free Hainan Traffic Basket](https://zcxggmu.github.io/2026/china-duty-free-hainan-traffic-basket/) — 2026-10-12
+- [Zijin Mining Copper Gold Cashflow Lithium Expansion Valuation](https://zcxggmu.github.io/2026/zijin-mining-copper-gold-cashflow-lithium-expansion-valuation/) — 2026-10-12
+- [Ztt Optical Communication Energy AI Infrastructure Revaluation](https://zcxggmu.github.io/2026/ztt-optical-communication-energy-ai-infrastructure-revaluation/) — 2026-10-12
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
