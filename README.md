@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [China Property Cycle Bottom Multi Indicator Framework](https://zcxggmu.github.io/2026/china-property-cycle-bottom-multi-indicator-framework/) — 2026-10-12
-- [China Population 2026 Birth Death Forecast Method Boundaries](https://zcxggmu.github.io/2026/china-population-2026-birth-death-forecast-method-boundaries/) — 2026-10-12
-- [China Duty Free Hainan Traffic Basket](https://zcxggmu.github.io/2026/china-duty-free-hainan-traffic-basket/) — 2026-10-12
-- [Zijin Mining Copper Gold Cashflow Lithium Expansion Valuation](https://zcxggmu.github.io/2026/zijin-mining-copper-gold-cashflow-lithium-expansion-valuation/) — 2026-10-12
-- [Ztt Optical Communication Energy AI Infrastructure Revaluation](https://zcxggmu.github.io/2026/ztt-optical-communication-energy-ai-infrastructure-revaluation/) — 2026-10-12
+- [China Wage Floor Income Distribution Domestic Demand](https://zcxggmu.github.io/2026/china-wage-floor-income-distribution-domestic-demand/) — 2026-10-13
+- [Social Insurance Contribution Clear Checklist](https://zcxggmu.github.io/2026/social-insurance-contribution-clear-checklist/) — 2026-10-13
+- [Asia AI Hardware Pricing Power](https://zcxggmu.github.io/2026/asia-ai-hardware-pricing-power/) — 2026-10-13
+- [China Economy Consumption Investment Policy Weekly Indicators](https://zcxggmu.github.io/2026/china-economy-consumption-investment-policy-weekly-indicators/) — 2026-10-13
+- [China School Contraction Birth Cohorts Resource Reallocation](https://zcxggmu.github.io/2026/china-school-contraction-birth-cohorts-resource-reallocation/) — 2026-10-13
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
