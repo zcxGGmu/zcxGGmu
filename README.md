@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [China Wage Floor Income Distribution Domestic Demand](https://zcxggmu.github.io/2026/china-wage-floor-income-distribution-domestic-demand/) — 2026-10-13
-- [Social Insurance Contribution Clear Checklist](https://zcxggmu.github.io/2026/social-insurance-contribution-clear-checklist/) — 2026-10-13
-- [Asia AI Hardware Pricing Power](https://zcxggmu.github.io/2026/asia-ai-hardware-pricing-power/) — 2026-10-13
-- [China Economy Consumption Investment Policy Weekly Indicators](https://zcxggmu.github.io/2026/china-economy-consumption-investment-policy-weekly-indicators/) — 2026-10-13
-- [China School Contraction Birth Cohorts Resource Reallocation](https://zcxggmu.github.io/2026/china-school-contraction-birth-cohorts-resource-reallocation/) — 2026-10-13
+- [China Marriage Market Hidden Cost Transfer Debt Risk](https://zcxggmu.github.io/2026/china-marriage-market-hidden-cost-transfer-debt-risk/) — 2026-10-14
+- [Marriage Law Love Property Common Life](https://zcxggmu.github.io/2026/marriage-law-love-property-common-life/) — 2026-10-14
+- [Hong Kong Tech Credit Cycle Valuation Policy Transmission](https://zcxggmu.github.io/2026/hong-kong-tech-credit-cycle-valuation-policy-transmission/) — 2026-10-14
+- [Why A Shares Investors Lose Money Mechanisms](https://zcxggmu.github.io/2026/why-a-shares-investors-lose-money-mechanisms/) — 2026-10-14
+- [China 5500 Billion Local Bond Quota Growth Fiscal Boundaries](https://zcxggmu.github.io/2026/china-5500-billion-local-bond-quota-growth-fiscal-boundaries/) — 2026-10-14
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
