@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [China Marriage Market Hidden Cost Transfer Debt Risk](https://zcxggmu.github.io/2026/china-marriage-market-hidden-cost-transfer-debt-risk/) — 2026-10-14
-- [Marriage Law Love Property Common Life](https://zcxggmu.github.io/2026/marriage-law-love-property-common-life/) — 2026-10-14
-- [Hong Kong Tech Credit Cycle Valuation Policy Transmission](https://zcxggmu.github.io/2026/hong-kong-tech-credit-cycle-valuation-policy-transmission/) — 2026-10-14
-- [Why A Shares Investors Lose Money Mechanisms](https://zcxggmu.github.io/2026/why-a-shares-investors-lose-money-mechanisms/) — 2026-10-14
-- [China 5500 Billion Local Bond Quota Growth Fiscal Boundaries](https://zcxggmu.github.io/2026/china-5500-billion-local-bond-quota-growth-fiscal-boundaries/) — 2026-10-14
+- [Confidence Income Expectations Consumption Social Security](https://zcxggmu.github.io/2026/confidence-income-expectations-consumption-social-security/) — 2026-10-14
+- [Income Assets Expectations Household Consumption](https://zcxggmu.github.io/2026/income-assets-expectations-household-consumption/) — 2026-10-14
+- [Young Adults Savings Cashflow Structural Pressure](https://zcxggmu.github.io/2026/young-adults-savings-cashflow-structural-pressure/) — 2026-10-14
+- [Pension System Intergenerational Contract Design](https://zcxggmu.github.io/2026/pension-system-intergenerational-contract-design/) — 2026-10-14
+- [80s 90s Human Connection Generational Social Change](https://zcxggmu.github.io/2026/80s-90s-human-connection-generational-social-change/) — 2026-10-14
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
