@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Confidence Income Expectations Consumption Social Security](https://zcxggmu.github.io/2026/confidence-income-expectations-consumption-social-security/) — 2026-10-14
-- [Income Assets Expectations Household Consumption](https://zcxggmu.github.io/2026/income-assets-expectations-household-consumption/) — 2026-10-14
-- [Young Adults Savings Cashflow Structural Pressure](https://zcxggmu.github.io/2026/young-adults-savings-cashflow-structural-pressure/) — 2026-10-14
-- [Pension System Intergenerational Contract Design](https://zcxggmu.github.io/2026/pension-system-intergenerational-contract-design/) — 2026-10-14
-- [80s 90s Human Connection Generational Social Change](https://zcxggmu.github.io/2026/80s-90s-human-connection-generational-social-change/) — 2026-10-14
+- [Low Price Promotion Consumer Cashflow Total Cost](https://zcxggmu.github.io/2026/low-price-promotion-consumer-cashflow-total-cost/) — 2026-10-16
+- [Church State Separation Two Kingdoms Constitutional Boundaries](https://zcxggmu.github.io/2026/church-state-separation-two-kingdoms-constitutional-boundaries/) — 2026-10-16
+- [China A Share AI Barbell Strategy Liquidity Valuation](https://zcxggmu.github.io/2026/china-a-share-ai-barbell-strategy-liquidity-valuation/) — 2026-10-16
+- [Storage Semiconductor Hbm Demand Supply Valuation](https://zcxggmu.github.io/2026/storage-semiconductor-hbm-demand-supply-valuation/) — 2026-10-16
+- [Hongfa Potential Eps Margin Valuation](https://zcxggmu.github.io/2026/hongfa-potential-eps-margin-valuation/) — 2026-10-16
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
