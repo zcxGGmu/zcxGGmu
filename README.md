@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Low Price Promotion Consumer Cashflow Total Cost](https://zcxggmu.github.io/2026/low-price-promotion-consumer-cashflow-total-cost/) — 2026-10-16
-- [Church State Separation Two Kingdoms Constitutional Boundaries](https://zcxggmu.github.io/2026/church-state-separation-two-kingdoms-constitutional-boundaries/) — 2026-10-16
-- [China A Share AI Barbell Strategy Liquidity Valuation](https://zcxggmu.github.io/2026/china-a-share-ai-barbell-strategy-liquidity-valuation/) — 2026-10-16
-- [Storage Semiconductor Hbm Demand Supply Valuation](https://zcxggmu.github.io/2026/storage-semiconductor-hbm-demand-supply-valuation/) — 2026-10-16
-- [Hongfa Potential Eps Margin Valuation](https://zcxggmu.github.io/2026/hongfa-potential-eps-margin-valuation/) — 2026-10-16
+- [Invest In Yourself Health Skills Budget](https://zcxggmu.github.io/2026/invest-in-yourself-health-skills-budget/) — 2026-10-16
+- [Middle Age Household Debt Cashflow Resilience](https://zcxggmu.github.io/2026/middle-age-household-debt-cashflow-resilience/) — 2026-10-16
+- [AI Workplace Tasks Stability Skill Transition](https://zcxggmu.github.io/2026/ai-workplace-tasks-stability-skill-transition/) — 2026-10-16
+- [Social Insurance Contributions Arrears Rights Costs](https://zcxggmu.github.io/2026/social-insurance-contributions-arrears-rights-costs/) — 2026-10-16
+- [Housing Risk Population Location Liquidity](https://zcxggmu.github.io/2026/housing-risk-population-location-liquidity/) — 2026-10-16
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
