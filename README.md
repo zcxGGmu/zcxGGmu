@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Invest In Yourself Health Skills Budget](https://zcxggmu.github.io/2026/invest-in-yourself-health-skills-budget/) — 2026-10-16
-- [Middle Age Household Debt Cashflow Resilience](https://zcxggmu.github.io/2026/middle-age-household-debt-cashflow-resilience/) — 2026-10-16
-- [AI Workplace Tasks Stability Skill Transition](https://zcxggmu.github.io/2026/ai-workplace-tasks-stability-skill-transition/) — 2026-10-16
-- [Social Insurance Contributions Arrears Rights Costs](https://zcxggmu.github.io/2026/social-insurance-contributions-arrears-rights-costs/) — 2026-10-16
-- [Housing Risk Population Location Liquidity](https://zcxggmu.github.io/2026/housing-risk-population-location-liquidity/) — 2026-10-16
+- [Protect Labor Income And Dignity](https://zcxggmu.github.io/2026/protect-labor-income-and-dignity/) — 2026-10-17
+- [Liu Cixin Sun Yuchen Works Technology Life](https://zcxggmu.github.io/2026/liu-cixin-sun-yuchen-works-technology-life/) — 2026-10-17
+- [Four Logics Causality Compounding Entropy Regression](https://zcxggmu.github.io/2026/four-logics-causality-compounding-entropy-regression/) — 2026-10-17
+- [Goodwill Fairness Reciprocity Boundaries](https://zcxggmu.github.io/2026/goodwill-fairness-reciprocity-boundaries/) — 2026-10-17
+- [Sun Yuchen AI Era Personal Investing Risk Boundaries](https://zcxggmu.github.io/2026/sun-yuchen-ai-era-personal-investing-risk-boundaries/) — 2026-10-17
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
