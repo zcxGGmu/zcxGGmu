@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Protect Labor Income And Dignity](https://zcxggmu.github.io/2026/protect-labor-income-and-dignity/) — 2026-10-17
-- [Liu Cixin Sun Yuchen Works Technology Life](https://zcxggmu.github.io/2026/liu-cixin-sun-yuchen-works-technology-life/) — 2026-10-17
-- [Four Logics Causality Compounding Entropy Regression](https://zcxggmu.github.io/2026/four-logics-causality-compounding-entropy-regression/) — 2026-10-17
-- [Goodwill Fairness Reciprocity Boundaries](https://zcxggmu.github.io/2026/goodwill-fairness-reciprocity-boundaries/) — 2026-10-17
-- [Sun Yuchen AI Era Personal Investing Risk Boundaries](https://zcxggmu.github.io/2026/sun-yuchen-ai-era-personal-investing-risk-boundaries/) — 2026-10-17
+- [China Policy Transmission Demand Scenarios](https://zcxggmu.github.io/2026/china-policy-transmission-demand-scenarios/) — 2026-10-18
+- [Reading Gdp Forecast Definition Verification](https://zcxggmu.github.io/2026/reading-gdp-forecast-definition-verification/) — 2026-10-18
+- [AI Compute Chip Supply Chain Costs](https://zcxggmu.github.io/2026/ai-compute-chip-supply-chain-costs/) — 2026-10-18
+- [China Duck Industry Farming Processing Economics](https://zcxggmu.github.io/2026/china-duck-industry-farming-processing-economics/) — 2026-10-18
+- [Retirement Age Reform Contributions Pension Calculation](https://zcxggmu.github.io/2026/retirement-age-reform-contributions-pension-calculation/) — 2026-10-18
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
