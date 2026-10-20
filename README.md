@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [China Policy Transmission Demand Scenarios](https://zcxggmu.github.io/2026/china-policy-transmission-demand-scenarios/) — 2026-10-18
-- [Reading Gdp Forecast Definition Verification](https://zcxggmu.github.io/2026/reading-gdp-forecast-definition-verification/) — 2026-10-18
-- [AI Compute Chip Supply Chain Costs](https://zcxggmu.github.io/2026/ai-compute-chip-supply-chain-costs/) — 2026-10-18
-- [China Duck Industry Farming Processing Economics](https://zcxggmu.github.io/2026/china-duck-industry-farming-processing-economics/) — 2026-10-18
-- [Retirement Age Reform Contributions Pension Calculation](https://zcxggmu.github.io/2026/retirement-age-reform-contributions-pension-calculation/) — 2026-10-18
+- [Lu Xun Duanwu Fang Xu Difference Excuse](https://zcxggmu.github.io/2026/lu-xun-duanwu-fang-xu-difference-excuse/) — 2026-10-19
+- [Work Break Timing Microbreaks Recovery Evidence](https://zcxggmu.github.io/2026/work-break-timing-microbreaks-recovery-evidence/) — 2026-10-19
+- [Nobel Microfoundations Households Macro Stability](https://zcxggmu.github.io/2026/nobel-microfoundations-households-macro-stability/) — 2026-10-19
+- [Richard Koo Balance Sheet Recession Japan Households](https://zcxggmu.github.io/2026/richard-koo-balance-sheet-recession-japan-households/) — 2026-10-19
+- [Fiscal Tax Policy Business Cashflow Transmission](https://zcxggmu.github.io/2026/fiscal-tax-policy-business-cashflow-transmission/) — 2026-10-19
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
