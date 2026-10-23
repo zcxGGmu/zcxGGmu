@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Lu Xun Duanwu Fang Xu Difference Excuse](https://zcxggmu.github.io/2026/lu-xun-duanwu-fang-xu-difference-excuse/) — 2026-10-19
-- [Work Break Timing Microbreaks Recovery Evidence](https://zcxggmu.github.io/2026/work-break-timing-microbreaks-recovery-evidence/) — 2026-10-19
-- [Nobel Microfoundations Households Macro Stability](https://zcxggmu.github.io/2026/nobel-microfoundations-households-macro-stability/) — 2026-10-19
-- [Richard Koo Balance Sheet Recession Japan Households](https://zcxggmu.github.io/2026/richard-koo-balance-sheet-recession-japan-households/) — 2026-10-19
-- [Fiscal Tax Policy Business Cashflow Transmission](https://zcxggmu.github.io/2026/fiscal-tax-policy-business-cashflow-transmission/) — 2026-10-19
+- [AI Infrastructure From Bottlenecks To Cheap Abundance](https://zcxggmu.github.io/2026/ai-infrastructure-from-bottlenecks-to-cheap-abundance/) — 2026-10-21
+- [Ordinary Families Economic Downturn Japan](https://zcxggmu.github.io/2026/ordinary-families-economic-downturn-japan/) — 2026-10-21
+- [Enforcement Return And Marriage Checks](https://zcxggmu.github.io/2026/enforcement-return-and-marriage-checks/) — 2026-10-21
+- [Kondratiev Wave Transition Window](https://zcxggmu.github.io/2026/kondratiev-wave-transition-window/) — 2026-10-21
+- [Education Reform In Industrial Commercial Civilization](https://zcxggmu.github.io/2026/education-reform-in-industrial-commercial-civilization/) — 2026-10-21
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
