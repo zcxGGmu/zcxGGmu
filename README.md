@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [AI Infrastructure From Bottlenecks To Cheap Abundance](https://zcxggmu.github.io/2026/ai-infrastructure-from-bottlenecks-to-cheap-abundance/) — 2026-10-21
-- [Ordinary Families Economic Downturn Japan](https://zcxggmu.github.io/2026/ordinary-families-economic-downturn-japan/) — 2026-10-21
-- [Enforcement Return And Marriage Checks](https://zcxggmu.github.io/2026/enforcement-return-and-marriage-checks/) — 2026-10-21
-- [Kondratiev Wave Transition Window](https://zcxggmu.github.io/2026/kondratiev-wave-transition-window/) — 2026-10-21
-- [Education Reform In Industrial Commercial Civilization](https://zcxggmu.github.io/2026/education-reform-in-industrial-commercial-civilization/) — 2026-10-21
+- [Why A Share Market Is So Extreme](https://zcxggmu.github.io/2026/why-a-share-market-is-so-extreme/) — 2026-10-23
+- [Ordinary People Opportunities And Way Out](https://zcxggmu.github.io/2026/ordinary-people-opportunities-and-way-out/) — 2026-10-23
+- [AI Agents Collective Control Loss](https://zcxggmu.github.io/2026/ai-agents-collective-control-loss/) — 2026-10-23
+- [China Economy 2027 Challenges](https://zcxggmu.github.io/2026/china-economy-2027-challenges/) — 2026-10-23
+- [AI Investment Profit And Business Model](https://zcxggmu.github.io/2026/ai-investment-profit-and-business-model/) — 2026-10-23
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
