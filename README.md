@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Why A Share Market Is So Extreme](https://zcxggmu.github.io/2026/why-a-share-market-is-so-extreme/) — 2026-10-23
-- [Ordinary People Opportunities And Way Out](https://zcxggmu.github.io/2026/ordinary-people-opportunities-and-way-out/) — 2026-10-23
-- [AI Agents Collective Control Loss](https://zcxggmu.github.io/2026/ai-agents-collective-control-loss/) — 2026-10-23
-- [China Economy 2027 Challenges](https://zcxggmu.github.io/2026/china-economy-2027-challenges/) — 2026-10-23
-- [AI Investment Profit And Business Model](https://zcxggmu.github.io/2026/ai-investment-profit-and-business-model/) — 2026-10-23
+- [Meritocracy Luck Dignity And Redefining Effort](https://zcxggmu.github.io/2026/meritocracy-luck-dignity-and-redefining-effort/) — 2026-10-24
+- [Government Paperwork Time Tax](https://zcxggmu.github.io/2026/government-paperwork-time-tax/) — 2026-10-24
+- [High Share Low Profit Export Competition](https://zcxggmu.github.io/2026/high-share-low-profit-export-competition/) — 2026-10-24
+- [Why Some Conversations Feel Exhausting](https://zcxggmu.github.io/2026/why-some-conversations-feel-exhausting/) — 2026-10-24
+- [Why Rule Followers Feel Tired](https://zcxggmu.github.io/2026/why-rule-followers-feel-tired/) — 2026-10-24
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
