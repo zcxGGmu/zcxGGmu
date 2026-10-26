@@ -17,7 +17,7 @@
 _Tracks public PRs authored by [@zcxGGmu](https://github.com/pulls?q=is%3Apr+author%3AzcxGGmu), refreshed every 12 hours._
 
 <!-- pr_activity starts -->
-- **Status**: **209 PRs** across **31 projects** — 🟢 75 open · ✅ 19 merged · ⚪ 115 closed
+- **Status**: **209 PRs** across **31 projects** — 🟢 74 open · ✅ 19 merged · ⚪ 116 closed
 - **Active projects**: [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) (17 open), [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) (17 open), [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) (10 open), [vllm-project/vllm](https://github.com/vllm-project/vllm) (8 open), [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) (5 open), [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) (3 open)
 - **Latest PRs**:
   - ⚪ [pydantic/pydantic-ai#8079](https://github.com/pydantic/pydantic-ai/pull/8079) — Closed — Preserve LoadCapabilityReturn extras in message history
@@ -80,11 +80,11 @@ My current engineering lens:
 _Latest posts, refreshed with the README automation:_
 
 <!-- blog_posts starts -->
-- [Meritocracy Luck Dignity And Redefining Effort](https://zcxggmu.github.io/2026/meritocracy-luck-dignity-and-redefining-effort/) — 2026-10-24
-- [Government Paperwork Time Tax](https://zcxggmu.github.io/2026/government-paperwork-time-tax/) — 2026-10-24
-- [High Share Low Profit Export Competition](https://zcxggmu.github.io/2026/high-share-low-profit-export-competition/) — 2026-10-24
-- [Why Some Conversations Feel Exhausting](https://zcxggmu.github.io/2026/why-some-conversations-feel-exhausting/) — 2026-10-24
-- [Why Rule Followers Feel Tired](https://zcxggmu.github.io/2026/why-rule-followers-feel-tired/) — 2026-10-24
+- [Wall Street Credit Canal Railroad Speculation](https://zcxggmu.github.io/2026/wall-street-credit-canal-railroad-speculation/) — 2026-10-26
+- [AI Employment Productivity Shock Temporary Unemployment](https://zcxggmu.github.io/2026/ai-employment-productivity-shock-temporary-unemployment/) — 2026-10-26
+- [Why Chinese Workers Work 48 Hours Per Week](https://zcxggmu.github.io/2026/why-chinese-workers-work-48-hours-per-week/) — 2026-10-26
+- [Inverse Consumption Low Power Mode](https://zcxggmu.github.io/2026/inverse-consumption-low-power-mode/) — 2026-10-26
+- [Income Growth And Household Experience](https://zcxggmu.github.io/2026/income-growth-and-household-experience/) — 2026-10-26
 <!-- blog_posts ends -->
 
 <!-- hermes_evolution starts -->
